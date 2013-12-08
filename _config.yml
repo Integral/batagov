@@ -3,7 +3,7 @@ permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: ''
-  siteurl: 'http://integral.github.io/batagov'
+  siteurl: ''
   media: 'assets/media'
   metadata:
     _posts/records:
