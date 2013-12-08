@@ -1,5 +1,5 @@
 ---
-category: records
+layout: default
 published: true
 title: Аналитика
 ---

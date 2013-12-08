@@ -49,7 +49,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "page"
+          value: "default"
       - name: "title"
         field:
           element: "text"
