@@ -36,6 +36,15 @@ prose:
           element: "text"
           label: "Thumbnail url"
           value: ""
+      - name: "type"
+        field:
+          element: "select"
+          label: "Composer"
+          options:
+            - name: 'Composer'
+              value: 'composer'
+            - name: 'Performer'
+              value: 'performer'
       - name: "permalink"
         field:
           element: "text"
