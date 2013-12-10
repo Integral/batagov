@@ -7,7 +7,7 @@ type: composer
 description: A piano cycle
 year: "2013"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/rachmaninoff%20cover.jpg"
-permalink: /records/rachmaninoff
+permalink: /records/2013/rachmaninoff
 ---
 
 ## A New Post
