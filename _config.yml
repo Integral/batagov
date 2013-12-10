@@ -1,9 +1,9 @@
-baseurl: ''
+baseurl: 'http://integral.github.io/batagov'
 permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: ''
-  siteurl: ''
+  siteurl: 'http://integral.github.io/batagov'
   media: 'assets/media'
   metadata:
     _posts/records:
