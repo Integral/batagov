@@ -20,6 +20,11 @@ prose:
           element: "text"
           label: "Title"
           value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
     _posts/static:
       - name: "layout"
         field:
