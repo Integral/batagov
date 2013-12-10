@@ -1,6 +1,6 @@
 ---
 layout: default
-category: discography
+category: records
 published: true
 title: The Prayer of Samantabhadra
 type: composer

@@ -10,7 +10,7 @@ prose:
       - name: "category"
         field:
           element: "hidden"
-          value: "discography"
+          value: "records"
       - name: "layout"
         field:
           element: "hidden"

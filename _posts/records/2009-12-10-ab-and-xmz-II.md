@@ -1,6 +1,6 @@
 ---
 layout: default
-category: discography
+category: records
 published: true
 title: ab & xmz II
 type: composer

@@ -1,6 +1,6 @@
 ---
 layout: default
-category: discography
+category: records
 published: true
 title: Selected Letters of Sergei Rachmaninoff
 type: composer
