@@ -25,6 +25,17 @@ prose:
           element: "text"
           label: "Year"
           value: ""
+      - name: "description"
+        field:
+          element: "text"
+          label: "Description"
+          value: ""
+          placeholder: "short description"
+      - name: "thumbnail"
+        field:
+          element: "text"
+          label: "Thumbnail url"
+          value: ""
       - name: "permalink"
         field:
           element: "text"
