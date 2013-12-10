@@ -1,10 +1,10 @@
 ---
 layout: default
 category: discography
-published: false
+published: true
 title: Selected Letters of Sergei Rachmaninoff
 type: composer
-description: A piano cycle
+description: null
 year: "2013"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/rachmaninoff%20cover.jpg"
 permalink: /records/rachmaninoff
