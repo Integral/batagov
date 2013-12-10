@@ -20,6 +20,11 @@ prose:
           element: "text"
           label: "Title"
           value: ""
+      - name: "year"
+        field:
+          element: "text"
+          label: "Year"
+          value: ""
       - name: "permalink"
         field:
           element: "text"
