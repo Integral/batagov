@@ -22,6 +22,13 @@ permalink: /records/
 	<div>
 
     {% if forloop.last %}
+    <div class="record feature">
+    	<div class="keyline-all pad2">
+    		<div class="image" style="background-image:url({{ post.thumbnail }})"></div>
+    		<h3>{{ post.title }}</h3>
+    		<small>{{ post.description }}</small>
+		</div>
+	<div>
     {% else %}
         {% if this_year != next_year %}
         <h2 class="year year-{{ this_year }} center">{{next_year}}</h2>
