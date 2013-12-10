@@ -13,7 +13,13 @@ permalink: /records/
     <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
     <ul>
     {% endif %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <div class="record feature">
+    	<div class="keyline-all pad2">
+    		<div class="image" style="background-image:url({{ post.thumbnail }})"></div>
+    		<h3>{{ post.title }}</h3>
+    		<small>{{ post.description }}</small>
+		</div>
+	<div>
     {% if forloop.last %}
     </ul>
     {% else %}
