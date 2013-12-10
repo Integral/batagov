@@ -1,3 +1,58 @@
 baseurl: 'http://integral.github.io/batagov'
 permalink: pretty
 markdown: rdiscount
+prose:
+  rooturl: ''
+  siteurl: 'http://integral.github.io/batagov'
+  media: 'assets/media'
+  metadata:
+    _posts/records:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "discography"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "default"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+   	  - name: "year"
+        field:
+          element: "text"
+          label: "Year"
+          value: ""
+      - name: "description"
+        field:
+          element: "text"
+          label: "Description"
+          value: ""
+          placeholder: "short description"
+      - name: "art_thumb"
+        field:
+          element: "text"
+          label: "Artwork thumbnail"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "default"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
