@@ -10,28 +10,19 @@ permalink: /records/
     {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
     {% if forloop.first %}
-    <h2 class="year year-{{ this_year }} center">{{this_year}}</h2>
+    <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
+    <ul>
     {% endif %}
 
-    <div class="record feature">
-    	<div class="keyline-all pad2">
-    		<div class="image" style="background-image:url({{ post.thumbnail }})"></div>
-    		<h3>{{ post.title }}</h3>
-    		<small>{{ post.description }}</small>
-		</div>
-	<div>
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 
     {% if forloop.last %}
-    <div class="record feature">
-    	<div class="keyline-all pad2">
-    		<div class="image" style="background-image:url({{ post.thumbnail }})"></div>
-    		<h3>{{ post.title }}</h3>
-    		<small>{{ post.description }}</small>
-		</div>
-	<div>
+    </ul>
     {% else %}
         {% if this_year != next_year %}
-        <h2 class="year year-{{ this_year }} center">{{next_year}}</h2>
+        </ul>
+        <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
+        <ul>
         {% endif %}
     {% endif %}
 {% endfor %}
