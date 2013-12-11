@@ -8,6 +8,7 @@ description: A piano cycle
 year: "2013"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/rachmaninoff%20cover.jpg"
 permalink: /records/2013/rachmaninoff
+artwork: "http://batagov.s3.amazonaws.com/records/artwork/rachmaninoff.png"
 ---
 
 1. At the Grave of Sergei Rachmaninoff (Kensico Cemetery, Valhalla, NY)
