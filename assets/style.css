@@ -610,6 +610,9 @@ ul.menu > li > a.active:after {
 	content:" ⟶";
 }
 
+div.prose {
+	font: 200 14px/1.6 "Open Sans", sans-serif;
+}
 /*RECORD*/
 img.artwork {
 	max-width: 100%;
