@@ -20,8 +20,7 @@ h1, h2, h3 {
 }
 
 p em {
-  font-weight: bold;
-  font-style: normal;
+  font-style: italic;
   color: #353535;
 }
 
