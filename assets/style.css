@@ -619,8 +619,8 @@ div.prose {
 }
 
 /*RECORD*/
-section.record-page {
-	padding-top: 15px;
+section#content.record-page {
+	padding: 15px 20px 0;
 }
 img.artwork {
 	max-width: 100%;
