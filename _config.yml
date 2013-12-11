@@ -31,6 +31,11 @@ prose:
           label: "Description"
           value: ""
           placeholder: "short description"
+      - name: "artwork"
+        field:
+          element: "text"
+          label: "Artwork url"
+          value: ""
       - name: "thumbnail"
         field:
           element: "text"
