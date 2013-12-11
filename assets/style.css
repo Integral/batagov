@@ -609,3 +609,9 @@ ul.menu > li > a.active {
 ul.menu > li > a.active:after {
 	content:" ⟶";
 }
+
+/*RECORD*/
+img.artwork {
+	max-width: 100%;
+	max-height: 100%;
+}
