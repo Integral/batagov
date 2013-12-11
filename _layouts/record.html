@@ -3,7 +3,8 @@ layout: none
 ---
 {% include header.html %}
 <section id="content" class="record">
-{{ page.title }}
-{{ content }}
+	<img class="artwork" src="{{ page.artwork }}" />
+	<div class="title">{{ page.title }}</div>
+	<div class="prose">{{ content }}</div>
 </section>
 {% include footer.html %}
