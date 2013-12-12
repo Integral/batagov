@@ -12,8 +12,8 @@ artwork: "http://batagov.s3.amazonaws.com/records/artwork/rachmaninoff.png"
 ---
 
 - At the Grave of Sergei Rachmaninoff (Kensico Cemetery, Valhalla, NY)
-- Letter from Sergei Rachmaninoff to Simeon ten Holt <div class="ui360"><a href="http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3"></a></div>
-- Letter from Sergei Rachmaninoff to Peter Gabriel <div class="ui360"><a href="http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3"></a></div>
+- [Letter from Sergei Rachmaninoff to Simeon ten Holt](http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3)
+- [Letter from Sergei Rachmaninoff to Peter Gabriel](http://batagov.s3.amazonaws.com/records/sounds/to_peter_gabriel.mp3)
 - Letter from Sergei Rachmaninoff to Arvo Pärt
 - Letter from Sergei Rachmaninoff to Ludovico Einaudi
 - Letter from Sergei Rachmaninoff to Philip Glass
@@ -22,18 +22,6 @@ artwork: "http://batagov.s3.amazonaws.com/records/artwork/rachmaninoff.png"
 - Letter from Sergei Rachmaninoff to Vladimir Martynov
 - At the Grave of Sergei Rachmaninoff. Postlude
 {: .playlist}
-
-
-| 1 | At the Grave of Sergei Rachmaninoff (Kensico Cemetery, Valhalla, NY)  | <div class="ui360"></div> |
-| 2 | Letter from Sergei Rachmaninoff to Simeon ten Holt  | <span class="ui360"><a href="http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3"></a></span> |
-| 3 | Letter from Sergei Rachmaninoff to Peter Gabriel  | <span class="ui360"><a href="http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3"></a></span> |
-| 4 | Letter from Sergei Rachmaninoff to Arvo Pärt  |
-| 5 | Letter from Sergei Rachmaninoff to Ludovico Einaudi  |
-| 6 | Letter from Sergei Rachmaninoff to Philip Glass  |
-| 7 | Letter from Sergei Rachmaninoff to Wim Mertens and Niccolo Paganini  |
-| 8 | Letter from Sergei Rachmaninoff to Brian Eno  |
-| 9 | Letter from Sergei Rachmaninoff to Vladimir Martynov  |
-| 10 | At the Grave of Sergei Rachmaninoff. Postlude  |
 
 In October 2012 I visited Rachmaninoff's grave. He is buried at Kensico Cemetery in the hamlet of Valhalla, half an hour’s ride from New York City. The cemetery is surrounded by picturesque mountains, well-tended houses, manicured lawns, and idyllic lakes and streams. Rachmaninoff is buried among actors, writers, politicians, military personnel, and business people, together with "ordinary mortals" from all over the world – Americans, Russians, Estonians, Chinese people... A great musician who heard the universe as a powerful, boundless space resounding with the sounds of bells at once both tragic and triumphant, Rachmaninoff left Russia and became a part of a completely different world…
 
