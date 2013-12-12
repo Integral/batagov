@@ -1024,7 +1024,7 @@ function ThreeSixtyPlayer() {
 
     sm._writeDebug('threeSixtyPlayer.init()');
 
-    var oItems = self.getElementsByClassName('ui360','div'),
+    var oItems = self.getElementsByClassName('ui360','span'),
         i, j, oLinks = [], is_vis = false, foundItems = 0, canvasElements, oCanvas, oCanvasCTX, oCover, diameter, radius, uiData, uiDataVis, oUI, oBtn, o, o2, oID;
 
     for (i=0,j=oItems.length; i<j; i++) {
