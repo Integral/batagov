@@ -22,6 +22,11 @@ artwork: "http://batagov.s3.amazonaws.com/records/artwork/rachmaninoff.png"
 9. Letter from Sergei Rachmaninoff to Vladimir Martynov
 10. At the Grave of Sergei Rachmaninoff. Postlude
 
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
 In October 2012 I visited Rachmaninoff's grave. He is buried at Kensico Cemetery in the hamlet of Valhalla, half an hour’s ride from New York City. The cemetery is surrounded by picturesque mountains, well-tended houses, manicured lawns, and idyllic lakes and streams. Rachmaninoff is buried among actors, writers, politicians, military personnel, and business people, together with "ordinary mortals" from all over the world – Americans, Russians, Estonians, Chinese people... A great musician who heard the universe as a powerful, boundless space resounding with the sounds of bells at once both tragic and triumphant, Rachmaninoff left Russia and became a part of a completely different world…
 
 As I stood at his grave, I found this space resonating within me. When I returned home, I began writing a piano cycle.
