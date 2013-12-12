@@ -45,10 +45,9 @@ ul.use-spectrum .spectrum-box .spectrum {
 }
 
 ul.playlist {
- list-style-type:none;
+ list-style-type:decimal;
  margin:0px;
  padding:0px;
-
 }
 
 ul.playlist li {
@@ -56,12 +55,6 @@ ul.playlist li {
  position:relative;
  display:block;
  width:auto;
- font-size:2em;
- color:#666;
- padding:0.25em 0.5em 0.25em 0.5em;
- border:none;
- letter-spacing:-1px; /* ZOMG WEB X.0. ;) */
- background-color:#f9f9f9;
  -webkit-transition-property: hover;
  -webkit-transition: background-color 0.15s ease-in-out;
  -moz-transition: background-color 0.15s linear 0s; /* firefox 4 */
