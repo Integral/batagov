@@ -26,7 +26,7 @@ First Header  | Second Header |
 ------------- | ------------- | -------------
 1 | At the Grave of Sergei Rachmaninoff (Kensico Cemetery, Valhalla, NY)  | <div class="ui360"><a href="http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3"></a></div>
 2 | Letter from Sergei Rachmaninoff to Simeon ten Holt  | <div class="ui360"><a href="http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3"></a></div>
-3 | Letter from Sergei Rachmaninoff to Peter Gabriel  |
+3 | Letter from Sergei Rachmaninoff to Peter Gabriel  | 3
 4 | Letter from Sergei Rachmaninoff to Arvo Pärt  |
 5 | Letter from Sergei Rachmaninoff to Ludovico Einaudi  |
 6 | Letter from Sergei Rachmaninoff to Philip Glass  |
