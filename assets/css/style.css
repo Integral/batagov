@@ -455,8 +455,10 @@ html[xmlns] .clearfix {
   }
 }
 
-
+/*RECORDS*/
 .timeline { position:relative; }
+.timeline a { color: #777; }
+.timeline a:href { text-decoration:none; }
 .timeline:before {
   display:block;
   content:'';
