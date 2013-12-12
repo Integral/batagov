@@ -1,6 +1,8 @@
 baseurl: 'http://integral.github.io/batagov'
 permalink: pretty
 markdown: kramdown
+kramdown:
+  remove_block_html_tags: false
 prose:
   rooturl: ''
   siteurl: 'http://integral.github.io/batagov'
