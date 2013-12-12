@@ -22,7 +22,7 @@ artwork: "http://batagov.s3.amazonaws.com/records/artwork/rachmaninoff.png"
 9. Letter from Sergei Rachmaninoff to Vladimir Martynov
 10. At the Grave of Sergei Rachmaninoff. Postlude
 
-First Header  | Second Header |
+
 ------------- | ------------- | -------------
 1 | At the Grave of Sergei Rachmaninoff (Kensico Cemetery, Valhalla, NY)  | 1 <div class="ui360"><a href="http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3"></a></div>
 2 | Letter from Sergei Rachmaninoff to Simeon ten Holt  | <div class="ui360"><a href="http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3"></a></div>
