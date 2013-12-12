@@ -3,6 +3,7 @@ permalink: pretty
 markdown: kramdown
 kramdown:
   remove_block_html_tags: false
+  html_to_native: true
 prose:
   rooturl: ''
   siteurl: 'http://integral.github.io/batagov'
