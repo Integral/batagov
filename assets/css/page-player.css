@@ -46,15 +46,11 @@ ul.use-spectrum .spectrum-box .spectrum {
 
 ul.playlist {
  list-style-type:decimal;
- margin:0px;
- padding:0px;
 }
 
 ul.playlist li {
  /* assume all items will be sounds rather than wait for onload etc. in this example.. may differ for your uses. */
  position:relative;
- display:block;
- width:auto;
  -webkit-transition-property: hover;
  -webkit-transition: background-color 0.15s ease-in-out;
  -moz-transition: background-color 0.15s linear 0s; /* firefox 4 */
@@ -155,7 +151,7 @@ ul.playlist li .controls {
 
 ul.playlist li .controls .statusbar {
  position:relative;
- height:0.5em;
+ height:0.8em;
  background-color:#ccddff;
  border:2px solid #fff;
  border-radius:2px;
