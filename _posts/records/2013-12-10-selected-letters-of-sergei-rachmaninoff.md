@@ -11,9 +11,22 @@ permalink: /records/2013/rachmaninoff
 artwork: "http://batagov.s3.amazonaws.com/records/artwork/rachmaninoff.png"
 ---
 
-| 1 | At the Grave of Sergei Rachmaninoff (Kensico Cemetery, Valhalla, NY)  |
+- At the Grave of Sergei Rachmaninoff (Kensico Cemetery, Valhalla, NY)
+- Letter from Sergei Rachmaninoff to Simeon ten Holt <div class="ui360"><a href="http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3"></a></div>
+- Letter from Sergei Rachmaninoff to Peter Gabriel <div class="ui360"><a href="http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3"></a></div>
+- Letter from Sergei Rachmaninoff to Arvo Pärt
+- Letter from Sergei Rachmaninoff to Ludovico Einaudi
+- Letter from Sergei Rachmaninoff to Philip Glass
+- Letter from Sergei Rachmaninoff to Wim Mertens and Niccolo Paganini
+- Letter from Sergei Rachmaninoff to Brian Eno
+- Letter from Sergei Rachmaninoff to Vladimir Martynov
+- At the Grave of Sergei Rachmaninoff. Postlude
+{: .playlist}
+
+
+| 1 | At the Grave of Sergei Rachmaninoff (Kensico Cemetery, Valhalla, NY)  | <div class="ui360"></div> |
 | 2 | Letter from Sergei Rachmaninoff to Simeon ten Holt  | <span class="ui360"><a href="http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3"></a></span> |
-| 3 | Letter from Sergei Rachmaninoff to Peter Gabriel  | <span class="ui360"><a href="http://batagov.s3.amazonaws.com/records/sounds/to_peter_gabriel.mp3"></a></span> |
+| 3 | Letter from Sergei Rachmaninoff to Peter Gabriel  | <span class="ui360"><a href="http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3"></a></span> |
 | 4 | Letter from Sergei Rachmaninoff to Arvo Pärt  |
 | 5 | Letter from Sergei Rachmaninoff to Ludovico Einaudi  |
 | 6 | Letter from Sergei Rachmaninoff to Philip Glass  |
