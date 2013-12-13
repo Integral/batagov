@@ -628,5 +628,5 @@ img.artwork {
 	max-height: 100%;
 }
 ul.playlist li a:after {
-	content: "\f144";
+	content: "&#x266c;";
 }
