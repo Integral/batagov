@@ -62,9 +62,7 @@ ul.playlist li {
 ul.playlist li a {
  display:block;
  text-decoration:none;
- font-weight:normal;
- color:#000;
- font-size:120%;
+ color:#777;
  outline:none;
  position:relative;
  z-index:2;
@@ -73,7 +71,6 @@ ul.playlist li a {
 ul.playlist li.sm2_playing,
 ul.playlist li.sm2_paused,
 ul.playlist li.sm2_playing a {
- color:#fff;
  border-radius:3px;
 }
 
@@ -91,12 +88,12 @@ ul.playlist li.sm2_playing:hover {
 }
 
 ul.playlist li.sm2_paused {
- background-color:#999;
+ background-color:#fafafa;
 }
 
 ul.playlist li.sm2_playing:hover a,
 ul.playlist li.sm2_paused a {
- color:#fff;
+ color:#777;
 }
 
 ul.playlist li .controls {
@@ -197,6 +194,8 @@ ul.playlist li .controls .statusbar .loading {
 ul.playlist li.sm2_playing a.sm2_link,
 ul.playlist li.sm2_paused a.sm2_link {
  margin-right:4.5em; /* room for timing stuff */
+ padding: 5px 0px 0px 10px;
+ font-weight: 400;
 }
 
 ul.playlist li .timing {
@@ -206,10 +205,9 @@ ul.playlist li .timing {
  right:1em;
  top:1em;
  width:auto;
- height: 1.5em;
+ height: 2em;
  padding:3px 5px;
  background-color:#5588bb;
- border:1px solid #99ccff;
  border-radius:4px;
  letter-spacing:0px;
  font:44% monaco,"VT-100","lucida console",courier,system;
@@ -242,8 +240,8 @@ ul.playlist li.sm2_paused .timing .sm2_position {
 
 ul.playlist li.sm2_paused .timing,
 ul.playlist.use-peak li.sm2_paused .peak {
- background-color:#888;
- border-color:#ccc;
+ background-color: #f0f0f0;
+ color: #fff;
 }
 
 /* peak data */
