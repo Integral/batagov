@@ -628,5 +628,5 @@ img.artwork {
 	max-height: 100%;
 }
 ul.playlist li a:after {
-	content: '\2022';
+	content: "\f144";
 }
