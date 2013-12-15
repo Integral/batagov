@@ -60,7 +60,6 @@ ul.playlist li {
 }
 
 ul.playlist li a {
- display:block;
  text-decoration:none;
  color:#777;
  outline:none;
