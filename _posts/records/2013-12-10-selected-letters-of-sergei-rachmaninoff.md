@@ -12,8 +12,8 @@ artwork: "http://batagov.s3.amazonaws.com/records/artwork/rachmaninoff.png"
 ---
 
 - At the Grave of Sergei Rachmaninoff (Kensico Cemetery, Valhalla, NY) [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=lKmYqfQxAdY)
-- [Letter from Sergei Rachmaninoff to Simeon ten Holt](http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3) {: .audio}
-- [Letter from Sergei Rachmaninoff to Peter Gabriel](http://batagov.s3.amazonaws.com/records/sounds/to_peter_gabriel.mp3) {: .audio}
+- [Letter from Sergei Rachmaninoff to Simeon ten Holt](http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3)
+- [Letter from Sergei Rachmaninoff to Peter Gabriel](http://batagov.s3.amazonaws.com/records/sounds/to_peter_gabriel.mp3){: .audio}
 - Letter from Sergei Rachmaninoff to Arvo Pärt
 - Letter from Sergei Rachmaninoff to Ludovico Einaudi
 - Letter from Sergei Rachmaninoff to Philip Glass
