@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: record
 category: records
 published: true
 title: The Prayer of Samantabhadra
