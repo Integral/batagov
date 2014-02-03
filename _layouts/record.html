@@ -5,6 +5,8 @@ layout: none
 <section id="content" class="record-page">
 	<img class="artwork" src="{{ page.artwork }}" />
 	<h1 class="title">{{ page.title }}</h1>
+	<div class="description">{{ page.description }}</div>
+	<div class="links">{% if page.itunes %}<a href="{{ page.itunes }}" class="itunes"></a><img src="{{ site.baseurl }}/assets/media/itunes.png" /></a>{% endif %}</div>
 	<div class="prose">{{ content }}</div>
 </section>
 {% include footer.html %}
