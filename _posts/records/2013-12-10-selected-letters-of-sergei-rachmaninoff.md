@@ -9,6 +9,7 @@ year: "2013"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/rachmaninoff%20cover.jpg"
 permalink: /records/2013/rachmaninoff
 artwork: "http://batagov.s3.amazonaws.com/records/artwork/rachmaninoff.png"
+buy: "http://fancymusic.ru/anton-batagov-selected-letters-of-sergei-rachmaninoff/"
 ---
 
 - At the Grave of Sergei Rachmaninoff (Kensico Cemetery, Valhalla, NY) [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=lKmYqfQxAdY)
@@ -22,6 +23,8 @@ artwork: "http://batagov.s3.amazonaws.com/records/artwork/rachmaninoff.png"
 - Letter from Sergei Rachmaninoff to Vladimir Martynov
 - At the Grave of Sergei Rachmaninoff. Postlude
 {: .playlist}
+
+© 2013 Fancymusic (CD release date: September 12)
 
 In October 2012 I visited Rachmaninoff's grave. He is buried at Kensico Cemetery in the hamlet of Valhalla, half an hour’s ride from New York City. The cemetery is surrounded by picturesque mountains, well-tended houses, manicured lawns, and idyllic lakes and streams. Rachmaninoff is buried among actors, writers, politicians, military personnel, and business people, together with "ordinary mortals" from all over the world – Americans, Russians, Estonians, Chinese people... A great musician who heard the universe as a powerful, boundless space resounding with the sounds of bells at once both tragic and triumphant, Rachmaninoff left Russia and became a part of a completely different world…
 
