@@ -640,3 +640,11 @@ ul.playlist li.sm2_paused a.audio:after,
 ul.playlist li.sm2_playing a.audio:after {
 	content: "";
 }
+div.description {
+	font-weight: 200;
+	font-style: italic;
+	font-size: 14px;
+}
+div.links {
+	text-align: right;
+}
