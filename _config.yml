@@ -44,6 +44,16 @@ prose:
           element: "text"
           label: "Thumbnail url"
           value: ""
+      - name: "buy"
+        field:
+          element: "text"
+          label: "Buy record url"
+          value: ""
+      - name: "itunes"
+        field:
+          element: "text"
+          label: "Itunes url"
+          value: ""
       - name: "type"
         field:
           element: "select"
