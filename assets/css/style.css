@@ -617,6 +617,7 @@ h1.title {
 }
 div.prose {
 	font: 200 14px/1.6 "Open Sans", sans-serif;
+	clear: both;
 }
 
 /*RECORD*/
@@ -644,7 +645,14 @@ div.description {
 	font-weight: 200;
 	font-style: italic;
 	font-size: 14px;
+	width: 400px;
+	float: left;
 }
 div.links {
 	text-align: right;
+	float: left;
+	width: 150px;
+	position: relative;
+	top: -10px;
+	height: 40px;
 }
