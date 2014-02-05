@@ -25,7 +25,7 @@ total time 45:45
 
 © 2009 Tummo TCD 09018
 
-![](http://batagov.s3.amazonaws.com/records/artwork/prepared_piano.jpg)
+![](http://batagov.s3.amazonaws.com/records/artwork/prepared_piano.jpg)  
 anton batagov_piano, prepared piano, piano strings  
 xmz_other sounds  
 
@@ -34,4 +34,5 @@ composed, recorded, mixed and mastered in summer 2009
 cover photo_xmz  
 prepared piano photo_ab  
 white sea photo_hieromonk damian  
+  
 ![](http://batagov.s3.amazonaws.com/records/artwork/white_sea.jpg)
