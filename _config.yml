@@ -17,7 +17,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "default"
+          value: "record"
       - name: "title"
         field:
           element: "text"
