@@ -46,7 +46,7 @@ _disc 2 61:41_
 **Kopeika**  
 (directed by ivan dykhovichny, 2002)  
 
-- kopeika's birth 4:40 
+- [kopeika's birth 4:40](http://batagov.s3.amazonaws.com/records/sounds/birth.mp3){: .audio}
 - cards 3:35
 - march 3:49
 - jazz trip 3:48
@@ -63,7 +63,7 @@ _disc 2 61:41_
 - hexagram 1 1:40
 - love 1 3:25
 - changes 1:50
-- radical changes 3:35 
+- [radical changes 3:35](http://batagov.s3.amazonaws.com/records/sounds/radical_changes.mp3){: .audio}
 - hexagram 2 2:07
 - love 2 3:44
 
