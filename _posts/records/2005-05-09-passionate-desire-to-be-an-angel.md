@@ -2,7 +2,7 @@
 layout: record
 category: records
 published: true
-title: "Passionate Desire to Be an Angel"
+title: Passionate Desire to Be an Angel
 type: composer
 year: "2005"
 description: ""
@@ -36,12 +36,13 @@ recorded, mixed and mastered in 2004
   
 © 2005 Long Arms Records / Tummo CDLA 05085  
 
-If a philosopher were to state that a living man could be made from a stone, the unenlightened would probably exclaim, "Impossible!" Thus would they reveal their ignorance, for to the wise it is known that in every stone is the seed of man. A philosopher might declare that a universe could be made out of a man, but the foolish would regard this as an impossibility, not realizing that a man is a seed from which a universe may be brought forth.
+If a philosopher were to state that a living man could be made from a stone, the unenlightened would probably exclaim, "Impossible!" Thus would they reveal their ignorance, for to the wise it is known that in every stone is the seed of man. A philosopher might declare that a universe could be made out of a man, but the foolish would regard this as an impossibility, not realizing that a man is a seed from which a universe may be brought forth.  
+
 "Within everything is the seed of everything". Therefore, every grain of sand contains not only the seed of the precious metals as well as the seed of the priceless gems, but also the seeds of sun, moon, and stars. These seeds – unrecognizable and incomprehensible – await the time assigned them for growth and expression. There are two methods whereby growth may be accomplished. The first is by Nature, the second is by art, and through art is produced in a comparatively short time that which requires Nature almost endless periods to duplicate.
 
 Alchemy is a mystery in three worlds – the divine, the human, and the elemental.
 There is no greater miracle in the growing and multiplication of gold by the alchemist than in a tiny mustard seed producing a bush many thousands of times the size of the seed. God is the spiritual seed planted in the dark earth (the material universe). By art it is possible so to grow and expand this seed that the entire universe of substance is tinctured thereby and becomes like unto the seed – pure gold. Unless the greater alchemy has first taken place within the soul of man, he cannot perform the lesser alchemy in the retort. Unless a man be "born again" he cannot accomplish the Great Work.
 
 Manly P.Hall
-An Encyclopedic Outline of Masonic, Hermetic, 
-Quabbalistic and Rosicrucian Symbolical Philosophy
+_An Encyclopedic Outline of Masonic, Hermetic, 
+Quabbalistic and Rosicrucian Symbolical Philosophy_
