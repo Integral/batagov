@@ -77,11 +77,11 @@ pictures from the original design of the NTV channel: Yelena Kitaeva, Andrei She
 
 In the spring of 1997 Russia's NTV channel offered me the position of chief composer. This position required me to write original music for all the channel's productions, ie. music which appears in and between the programs. The duration of all this material was between 3 and 30 seconds, although some tunes were longer (one minute and more): for titles, weather reports, news, and other important events.  
 
-It was not an easy decision to accept this offer as it demanded that I confront myself about certain basic issues:
-- what is my profession, what are the frames of this profession?
-- what is my music style and language, what is the limit to which I can expand them without losing my identity?
-- where is the border between art and commercialism?
-I had before raised these questions in various situations. At the beginning of my career, I was a classical pianist, then – a pianist playing mostly XX century music, then an avant-garde pianist and an avant-garde/minimalist composer, and after this, a post-minimalist composer who sometimes wrote also music for the theatre, movies, and non-commercial TV projects. At every change I had to answer differently the question "What am I doing?"
+It was not an easy decision to accept this offer as it demanded that I confront myself about certain basic issues:  
+- what is my profession, what are the frames of this profession?  
+- what is my music style and language, what is the limit to which I can expand them without losing my identity?  
+- where is the border between art and commercialism?  
+I had before raised these questions in various situations. At the beginning of my career, I was a classical pianist, then – a pianist playing mostly XX century music, then an avant-garde pianist and an avant-garde/minimalist composer, and after this, a post-minimalist composer who sometimes wrote also music for the theatre, movies, and non-commercial TV projects. At every change I had to answer differently the question "What am I doing?"  
 But this time I had to gather all the above-mentioned identities, pass them through the food processor, and see what came out.  
 
 I accepted the offer, and was the chief NTV channel composer for about a year and a half. During that period I wrote more than 500 tunes.  
