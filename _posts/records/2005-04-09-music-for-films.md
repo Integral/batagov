@@ -26,13 +26,13 @@ _disc 1 72:06_
 - hymn 6:05
 - story 2 2:51
 - chase 6:18
-  
+{: .playlist}  
 **The Woman's Role**  
 (directed by ivan dykhovichny, 1994)  
 
 - old photos 4:42
 - appleberry fields 8:54  
-
+{: .playlist}
 **U**  
 (directed by tatiana daniliantz, 2000)  
 
@@ -40,7 +40,7 @@ _disc 1 72:06_
 - 2U 4:17
 - 3U 3:56
 - 4U 4:09
-
+{: .playlist}
 _disc 2 61:41_	 
 
 **Kopeika**  
@@ -56,7 +56,7 @@ _disc 2 61:41_
 - sleeping in the snow 3:43
 - brass in c 1:46
 - eternal return 10:02
-
+{: .playlist}
 **Times of Change**  
 (directed by oleg khaibullin, 2003)  
 
@@ -66,7 +66,7 @@ _disc 2 61:41_
 - [radical changes 3:35](http://batagov.s3.amazonaws.com/records/sounds/radical_changes.mp3){: .audio}
 - hexagram 2 2:07
 - love 2 3:44
-
+{: .playlist}
 artwork: nick shtok  
 
 © 2005 Dom Records / Tummo CDDOMA 05030-31
