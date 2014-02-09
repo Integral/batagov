@@ -44,5 +44,5 @@ Alchemy is a mystery in three worlds – the divine, the human, and the elementa
 There is no greater miracle in the growing and multiplication of gold by the alchemist than in a tiny mustard seed producing a bush many thousands of times the size of the seed. God is the spiritual seed planted in the dark earth (the material universe). By art it is possible so to grow and expand this seed that the entire universe of substance is tinctured thereby and becomes like unto the seed – pure gold. Unless the greater alchemy has first taken place within the soul of man, he cannot perform the lesser alchemy in the retort. Unless a man be "born again" he cannot accomplish the Great Work.
 
 Manly P.Hall  
-_An Encyclopedic Outline of Masonic, Hermetic, 
+_An Encyclopedic Outline of Masonic, Hermetic,  
 Quabbalistic and Rosicrucian Symbolical Philosophy_
