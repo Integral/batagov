@@ -1,7 +1,7 @@
 ---
 layout: record
 category: records
-published: false
+published: true
 title: Bodhicharyāvatāra
 type: composer
 year: "2009"
