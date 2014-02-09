@@ -11,7 +11,6 @@ artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/bodhicharyavatara.j
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/bodhicharyavatara.jpg"
 ---
 
-  
 music by Anton Batagov  
 chanted by Telo Tulku Rinpoche, _The Shajin-Lama of Kalmykia_
 
