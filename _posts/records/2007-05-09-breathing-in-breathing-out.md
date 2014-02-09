@@ -6,32 +6,34 @@ title: "Breathing In Breathing Out"
 type: composer
 year: "2007"
 description: "original motion picture soundtrack"
-permalink: "/records/2007/the-monk-thogmeys-thirty-seven-precepts"
-thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/37.jpg"
-artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/37.jpg"
+permalink: "/records/2007/breathing-in-breathing-out"
+thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/V_V.jpg"
+artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/V_V.jpg"
 ---
 
-- introduction
-- [verses 1 - 21](http://batagov.s3.amazonaws.com/records/sounds/37_fragment1.mp3){: .audio}
-- verses 22 - 37
-- [epilogue](http://batagov.s3.amazonaws.com/records/sounds/37_fragment2.mp3){: .audio}
+music by Anton Batagov for the film by Ivan Dykhovichny  
+
+- d minor 1:23
+- e minor / 2 pianos and timpani 3:06 
+- f major 10:31
+- jazz 1 2:10
+- e major / f minor 4:34
+- piano strings 1:41
+- waltz / solo 2:15 
+- g flat major 4:43
+- jazz 2 2:10
+- waltz / 2 pianos 2:55
+- d major 2:43
+- e minor / solo 5:45
 {: .playlist}
 
-total time 50:05  
-
-chanting: Lama Tsering Dondrub  
-piano, organ: A.B.  
-vibraphone, percussion: Peteris Shuniatis  
-guitar: Theophrastus  
-bass: Peter Wood  
-cello: Nikita Kochergin  
-
-recording: XMZ, A.B.  
-mixing, editing, mastering: A.B.  
+total time 44:04  
+  
+written and recorded in the fall of 2005  
+recorded at the Pavel Slobodkin Centre studio  
+recording, mixing, mastering: Maria Soboleva  
+  
 artwork: Nick Shtok  
-
 executive producer: Ludmila Dmitrieva  
-
-written and recorded in the spring of 2005  
-
-© 2007 Long Arms Records / Tummo CDLA 07087
+  
+© 2007 Long Arms Records / Tummo CDLA 07083
