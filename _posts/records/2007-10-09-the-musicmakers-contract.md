@@ -31,7 +31,7 @@ artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/contract.jpg"
 - a man and a fish 0:12 
 - made in hollywood 1:47 
 - a squirrel 0:13 
-- tomorrow's weather 1:50  
+- [tomorrow's weather 1:50](http://batagov.s3.amazonaws.com/records/sounds/weather.mp3){: .audio}
 - strongman 0:12 
 - "total" at 9 pm 1:45 
 - girls with drums 0:12 
@@ -62,7 +62,7 @@ artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/contract.jpg"
 - a boy pretending he is an angel 0:12 
 - next up in "total" 2:25 
 - an eagle 0:13 
-- vintage tv 1:36 
+- [vintage tv 1:36](http://batagov.s3.amazonaws.com/records/sounds/vintage_tv.mp3){: .audio}
 {: .playlist}
 
 total time 48:55  
