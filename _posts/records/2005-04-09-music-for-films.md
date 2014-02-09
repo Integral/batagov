@@ -13,7 +13,7 @@ artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/films.jpg"
 
 Unfamiliar Weapon or The Crusader-2, The Woman's Role, U, Kopeika, Times of Change
 
-_disc 1 72:06_ 
+_disc 1 72:06_  
 **Unfamiliar Weapon or The Crusader-2**  
 (directed by ivan dykhovichny, 1998)
 
@@ -26,20 +26,19 @@ _disc 1 72:06_
 - story 2 2:51
 - chase 6:18
   
-**The Woman's Role**
+**The Woman's Role**  
 (directed by ivan dykhovichny, 1994)  
 
 - old photos 4:42
 - appleberry fields 8:54  
 
-**U** 
+**U**  
 (directed by tatiana daniliantz, 2000)  
 
 - 1U 3:49
 - 2U 4:17
 - 3U 3:56
 - 4U 4:09
-{: .playlist} 
 
 artwork: nick shtok  
 
