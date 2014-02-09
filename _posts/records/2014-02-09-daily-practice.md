@@ -37,7 +37,7 @@ mixed and mastered in 2008
   
 design: Nick Shtok  
 
-![](http://batagov.s3.amazonaws.com/records/artwork/Lama%20Sonam%20Dorje.jpg)
+![](http://batagov.s3.amazonaws.com/records/artwork/Lama%20Sonam%20Dorje.jpg)  
 Lama Sonam Dorje in the studio, DAILY PRACTICE recording session  
 
 Until the 18th century, most European music was closely connected with spiritual practice. While working with sacred texts, a composer would dare to accompany a canonical melody with newly-composed sounds not to bring aesthetic pleasure to himself or his listener, but instead to penetrate the meaning of these texts and help bring this meaning to life. The process of listening demanded the same approach. Textless compositions had never been based on arbitrary principles, anyway: they were built upon rhetorical figures reflecting the states and motions of a soul immersed in contemplation of the Lord.
