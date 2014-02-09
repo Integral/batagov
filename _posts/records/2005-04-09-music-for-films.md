@@ -14,6 +14,7 @@ artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/films.jpg"
 Unfamiliar Weapon or The Crusader-2, The Woman's Role, U, Kopeika, Times of Change
 
 _disc 1 72:06_  
+
 **Unfamiliar Weapon or The Crusader-2**  
 (directed by ivan dykhovichny, 1998)
 
@@ -39,6 +40,32 @@ _disc 1 72:06_
 - 2U 4:17
 - 3U 3:56
 - 4U 4:09
+
+_disc 2 61:41_	 
+
+**Kopeika**  
+(directed by ivan dykhovichny, 2002)  
+
+- kopeika's birth 4:40 
+- cards 3:35
+- march 3:49
+- jazz trip 3:48
+- driving 4:02
+- a piano and a dj 4:31
+- a piano and a bass 4:44
+- sleeping in the snow 3:43
+- brass in c 1:46
+- eternal return 10:02
+
+**Times of Change**  
+(directed by oleg khaibullin, 2003)  
+
+- hexagram 1 1:40
+- love 1 3:25
+- changes 1:50
+- radical changes 3:35 
+- hexagram 2 2:07
+- love 2 3:44
 
 artwork: nick shtok  
 
