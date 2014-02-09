@@ -67,6 +67,13 @@ _disc 2 61:41_
 - hexagram 2 2:07
 - love 2 3:44
 {: .playlist}
+
+![](http://batagov.s3.amazonaws.com/records/artwork/films1.jpg)  
+![](http://batagov.s3.amazonaws.com/records/artwork/films2.jpg)  
+![](http://batagov.s3.amazonaws.com/records/artwork/films3.jpg)  
+![](http://batagov.s3.amazonaws.com/records/artwork/films4.jpg)  
+![](http://batagov.s3.amazonaws.com/records/artwork/films5.jpg)  
+
 artwork: nick shtok  
 
 © 2005 Dom Records / Tummo CDDOMA 05030-31
