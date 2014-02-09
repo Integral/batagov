@@ -37,6 +37,8 @@ mixed and mastered in 2008
   
 design: Nick Shtok  
 
+© 2008 Tummo TCD 08016
+
 ![](http://batagov.s3.amazonaws.com/records/artwork/Lama%20Sonam%20Dorje.jpg)  
 _Lama Sonam Dorje in the studio, DAILY PRACTICE recording session_  
 
