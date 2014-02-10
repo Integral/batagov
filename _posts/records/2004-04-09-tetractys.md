@@ -11,7 +11,8 @@ thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/tetractys.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/tetractys.jpg"
 ---
 
-Director: Tatiana Grindenko   
+Director: Tatiana Grindenko  
+
 - [Tetractys](http://batagov.s3.amazonaws.com/records/sounds/tetractys.mp3){: .audio}
 {: .playlist} 
 
@@ -20,7 +21,8 @@ Elena Poluyanchenko violin
 Ludmila Egorova viola  
 Vladimir Metelev viola  
 Nikita Kochergin cello  
-Igor Solokhin double bass  
+Igor Solokhin double bass   
+
 Written in the fall of 2001  
 Recorded at the Chamber Hall of the Moscow Conservatory, October 19th-20th, 2003  
 Recording: Vladimir Koptsov  
