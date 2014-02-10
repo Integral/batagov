@@ -32,14 +32,14 @@ Nazar Kozhuhar violin
 Dmitri Feygin cello  
 The Dmitri Pokrovsky Ensemble  
 
-#1, 3, 6, 8, 10: composed in the summer of 1990, recorded in December, 1990 at the Alternativa festival  
-#2, 7: composed and recorded in the fall of 1992 for the theater production of "A Dream Play" by August Strindberg directed by Maria Fridh (Stockholm, Sweden)  
-#4: composed and recorded in the fall of 1996  
-#5: composed and recorded in the summer of 1993  
-#9: composed in the summer of 1995, recorded on June 21, 1996  
+1, 3, 6, 8, 10: composed in the summer of 1990, recorded in December, 1990 at the Alternativa festival  
+2, 7: composed and recorded in the fall of 1992 for the theater production of "A Dream Play" by August Strindberg directed by Maria Fridh (Stockholm, Sweden)  
+4: composed and recorded in the fall of 1996  
+5: composed and recorded in the summer of 1993  
+9: composed in the summer of 1995, recorded on June 21, 1996  
 (Dmitri Pokrovsky's last recording)  
-#11: composed and recorded in the winter of 1996 for the tv series "Catch-22"  
-#12: composed and recorded in the summer of 1991  
+11: composed and recorded in the winter of 1996 for the tv series "Catch-22"  
+12: composed and recorded in the summer of 1991  
 
 edited and mastered in the spring of 2002  
 
