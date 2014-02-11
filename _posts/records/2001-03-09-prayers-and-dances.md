@@ -28,9 +28,9 @@ _disc 1_
 - Evening Prayer 3 3:59	 
 - Dance 3 2:20	 
 - General Confession Prayer 1:06	 
+{: .playlist}
 
 total time 57:01  
-{: .playlist}
 
 _disc 2_  
 
@@ -49,11 +49,9 @@ _disc 2_
 - Dedication 0:27	 
 - Evening Prayer 5 3:07	 
 - The Prayer Wheel, Kopan Monastery 1:30	 
+{: .playlist}  
 
 total time 55:08  
-{: .playlist}
-
-total time 62:16   
 
 Geshe Thubten Tashi (solo voice)  
 Monks of the Kopan Monastery  
