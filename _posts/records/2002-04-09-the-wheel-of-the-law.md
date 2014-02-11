@@ -26,21 +26,24 @@ volume 2
 
 volume 3  
 - [_bardo thos grol_ liberation through listening in the between (63:36)](http://batagov.s3.amazonaws.com/records/sounds/liberation.mp3){: .audio}
-{: .playlist} 
+{: .playlist}
 
 © 2002 Long Arms Records / Tummo CDLA 02040-42 (3 CD set)
 
 ***
 
 > "...the greatest new minimalist work of the past 10 years"  
-Forced Exposure magazine (Boston, MA)
 
-> "I want you to know about this Russian composer’s stunning, trance-inducing, eerie compositions."  
-Magnet magazine (Philadelphia, PA)
+_Forced Exposure magazine (Boston, MA)_
+
+> "I want you to know about this Russian composer’s stunning, trance-inducing, eerie compositions." 
+
+_Magnet magazine (Philadelphia, PA)_
 
 > " ...three epic pieces of gorgeous minimalism from Russian composer Anton Batagov...  
 >...completely an utterly breathtaking."  
-from [Aquarius records](http://www.aquariusrecords.org/) annotation (San Francisco, CA)
+
+_from [Aquarius records](http://www.aquariusrecords.org/) annotation (San Francisco, CA)_
 
 ***
 
