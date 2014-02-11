@@ -20,8 +20,7 @@ artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/symph.jpg"
 {: .playlist}   
 
 © 2003 Strange Sounds Records / Tummo SSR 03006  
-
-
+  
+  
 Does not answer...  
-
 _Nikolay Gogol_
