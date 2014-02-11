@@ -26,8 +26,9 @@ _Gaspard De La Nuit._
 - Ondine
 - Le Gibet
 - Scarbo
-- **_Valses Nobles Et Sentimentales_**
 {: .playlist}
+
+_Valses Nobles Et Sentimentales_  
 
 recorded in 1987  
 
