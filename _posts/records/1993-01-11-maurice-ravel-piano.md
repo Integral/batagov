@@ -26,10 +26,6 @@ _Gaspard De La Nuit._
 - Ondine
 - Le Gibet
 - Scarbo
-<<<<<<< HEAD
-=======
-- **_Valses Nobles Et Sentimentales_**
->>>>>>> 8215313a2d1c8c92c2e291ee0b9b3de1382571e2
 {: .playlist}
 
 _Valses Nobles Et Sentimentales_  
