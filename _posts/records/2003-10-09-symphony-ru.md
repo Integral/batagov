@@ -2,7 +2,7 @@
 layout: record
 category: records
 published: true
-title: "Symphony.ru"
+title: Symphony.ru
 type: composer
 year: "2003"
 description: ""
@@ -24,4 +24,4 @@ artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/symph.jpg"
 
 Does not answer...  
 
-Nikolay Gogol
+_Nikolay Gogol_
