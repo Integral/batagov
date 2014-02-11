@@ -36,6 +36,7 @@ In Tibetan Buddhism there is a ritual of rotating prayer wheels. A prayer wheel 
 It has just been discovered that an ordinary compact disc might be also used as a prayer wheel. This discovery has been employed for the first time in the "Music for the 35 Buddhas" CD. The mantra рOM AH HUMс is inscribed on its surface, - just one mantra, but a CD rotates at a very high speed: it makes about 20,000 revolutions per hour. This means that while you listen to the music this mantra is silently repeated about 20,000 times! If you meditate every day with the help of this music the positive effect increases. Even if you don't like this music at all you can play this CD with the volume turned down - the mantra will work anyway. It is important to realize that the positive "charge" you accumulate this way is not your private property which can be saved and multiplied. The power of this energy is endless, and sharing it with others is the greatest joy.
 
 #Music for the 35 Buddhas
+
 ##Composer's note
 
 This 60 minute composition consists of two movements:
@@ -45,21 +46,21 @@ This 60 minute composition consists of two movements:
 
 The first movement (for piano and vibraphone) is a 40 minute long meditation on emptiness . At the 32nd minute (by which time a "normal" listener would have already either stopped this CD and started playing "normal" music, or simply fallen asleep) the voice of Lama Thubten Zopa Rinpoche enters. Lama Zopa is one of the greatest Buddhist teachers of our time, and this text is a fragment of a conversation with him at the Kopan Monastery on November 30th, 2000. The interview lasted about two hours, and made one of the strongest impressions on me that I have ever experienced in my life. For this composition I have selected just a few of Lama Zopa's phrases about emptiness:
 
-...Like dust that covers the mirror: you have to clean the dust. Because our mind has all the potential to see emptiness, to be free from all the suffering causes, to be free from death, even to achieve ultimate liberation which is called full enlightenment which is the cessation of even the very subtle negative imprints left on the mental continuum. 
-By ceasing that our mind becomes fully awakened.
+...Like dust that covers the mirror: you have to clean the dust. Because our mind has all the potential to see emptiness, to be free from all the suffering causes, to be free from death, even to achieve ultimate liberation which is called full enlightenment which is the cessation of even the very subtle negative imprints left on the mental continuum.  
+By ceasing that our mind becomes fully awakened.  
 This realization of emptiness is something that makes you to be
 liberated from the whole entire suffering including the cycle of death
-and rebirth.
+and rebirth.  
 What creates the death? This ignorance, not knowing the ultimate nature
-of the I and the ultimate nature of the mind.
-What is I?
-And what is mind?
+of the I and the ultimate nature of the mind.  
+What is I?  
+And what is mind?  
 Realizing that it is totally nonexistent, empty, that it is false and a
-hallucination...
-You have to clean the dust.
-It is empty.
-It is empty but it is not totally nonexistent.
-When you realize THIS...
+hallucination...  
+You have to clean the dust.  
+It is empty.  
+It is empty but it is not totally nonexistent.  
+When you realize THIS...  
 
 When such a highly realized master speaks, something is happening that cannot be described with words written either on paper or on a monitor. Realization begins when our intellect working with words and notions and always searching for similarities and distinctions has stopped analyzing. Fortunately, music can work "beyond the brain". Through the music I have tried to transmit my experience of listening to Lama Zopa's teaching.
 
