@@ -2,10 +2,10 @@
 layout: record
 category: records
 published: true
-title: "The Wheel of the Law"
+title: The Wheel of the Law
 type: composer
 year: "2002"
-description: "3CDs"
+description: 3CDs
 permalink: "/records/2002/the-wheel-of-the-law"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/wheel.gif"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/wheel.gif"
@@ -32,7 +32,21 @@ volume 3
 - [piano / august 1995 16:22](http://batagov.s3.amazonaws.com/records/sounds/piano_aug95.mp3){: .audio}
 {: .playlist}   
 
-© 2002 Long Arms Records / Tummo CDLA 02040-42 (3 CD set)  
+© 2002 Long Arms Records / Tummo CDLA 02040-42 (3 CD set)
+
++ + +
+
+> "...the greatest new minimalist work of the past 10 years"
+Forced Exposure magazine (Boston, MA)
+
+> "I want you to know about this Russian composer’s stunning, trance-inducing, eerie compositions."
+Magnet magazine (Philadelphia, PA)
+
+> " ...three epic pieces of gorgeous minimalism from Russian composer Anton Batagov...
+...completely an utterly breathtaking."
+from Aquarius records annotation (San Francisco, CA)
+
++ + +
 
 Unless one sees the Buddha in one's mind, Nirvana is obscured.  
 Although the Wisdom of Nirvana and the Ignorance of the Samsara illusorily appear to be two things, they cannot truly be differentiated.  
@@ -43,4 +57,4 @@ The error of doing otherwise than this arises not from Ignorance in the mind its
 Seek within thine own self-illuminated, self-originated mind whence, firstly, all such concepts arise, secondly, where they exist, and, lastly, whither they vanish.  
   
 _(Guru Padmasambhava.  
-Self-Liberation Through Seeing With Naked Awareness)_  
+Self-Liberation Through Seeing With Naked Awareness)_
