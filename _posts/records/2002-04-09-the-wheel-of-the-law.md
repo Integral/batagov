@@ -11,12 +11,12 @@ thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/wheel.gif"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/wheel.gif"
 ---
 
-**volume 1** 
+volume 1  
 
 - [_dus-kyi khor-lo_ circle of time (63:38)](http://batagov.s3.amazonaws.com/records/sounds/circle.mp3){: .audio}
 {: .playlist}
 
-**volume 2**  
+volume 2  
 
 - _snang-stong_ appearances and voidness (9:10)	 
 - _gsal-stong_ clarity and voidness (11:45)	 
@@ -24,7 +24,7 @@ artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/wheel.gif"
 - _rig-stong_ mind and voidness (8:35)	 
 {: .playlist}
 
-**volume 3**  
+volume 3  
 
 - [_bardo thos grol_ liberation through listening in the between (63:36)](http://batagov.s3.amazonaws.com/records/sounds/liberation.mp3){: .audio}
 {: .playlist}
