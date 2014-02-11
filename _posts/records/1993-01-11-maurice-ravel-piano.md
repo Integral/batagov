@@ -2,10 +2,10 @@
 layout: record
 category: records
 published: true
-title: Maurice Ravel Anton Batagov Piano
+title: Piano Works
 type: performer
 year: "1993"
-description: Ravel
+description: Maurice Ravel
 permalink: "/records/1993/maurice-ravel-piano"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/maurice.gif"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/maurice.gif"
