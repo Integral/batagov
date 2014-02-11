@@ -32,15 +32,18 @@ volume 3
 © 2002 Long Arms Records / Tummo CDLA 02040-42 (3 CD set)
 
 ***
-
+  
+  
 > "...the greatest new minimalist work of the past 10 years"  
 
 _Forced Exposure magazine (Boston, MA)_
-
+  
+  
 > "I want you to know about this Russian composer’s stunning, trance-inducing, eerie compositions." 
 
 _Magnet magazine (Philadelphia, PA)_
-
+  
+  
 > " ...three epic pieces of gorgeous minimalism from Russian composer Anton Batagov...  
 >...completely an utterly breathtaking."  
 
