@@ -2,7 +2,7 @@
 layout: record
 category: records
 published: true
-title: "Music for Piano"
+title: Music for Piano
 type: composer
 year: "2003"
 description: ""
@@ -25,4 +25,4 @@ Batagov’s Music for Piano, released in the end of 2003, remains beyond any par
 
 "Batagov is very well known in Russia as a Piano protege, in fact, judging by the several releases he has put together, he is in huge demand for his ability. Each of the tracks is from 7 to 16 minutes in length, which at first glance seems oddly worrying for a Piano only release. Fortunately, the hype surrounding this man isn"t over-hyped in the slightest. Batagov has a knack of generating beautiful, sorrowful and haunting Piano melodies. The first track grips you from the word "go", and takes on an almost delicate Eastern manner at times. This is a Ballad, a Lullaby, or even just a nice soothing number to fall asleep too. It doesn"t stop here either, each of the tracks takes on a clear different approach in sound, and Anton is not only a master of his art, he"s by far a modern day Composer. It feels unfair to compare this to the likes of Mozart, Beethoven etc, as the style is too stretched, but by all means, there aren"t enough people out there playing original Piano music anymore. Out of those that are, Mr. Batagov is one of the best I"ve heard. Face it, who doesn"t hear a Piano piece and think "wow"?. The question is, can you handle 54 minutes of just Piano? If you think you can, please, please get an Anton Batagov release. Preferably this one. It"s calming, relaxing, Beautiful.  
 
-– by T300 of HEATHEN HARVEST (USA) (December 2006).
+_– by T300 of HEATHEN HARVEST (USA) (December 2006)._
