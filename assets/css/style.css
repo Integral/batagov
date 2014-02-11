@@ -50,6 +50,10 @@ h2 {
   margin-top: 80px;
   font-weight: bold;
 }
+blockquote {
+	font-size: 18px;
+	line-height: 23px;
+}
 
 h3 {
   background: url(images/hr.png) top center no-repeat;
