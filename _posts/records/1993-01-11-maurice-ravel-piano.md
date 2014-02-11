@@ -7,11 +7,11 @@ type: performer
 year: "1993"
 description: Ravel
 permalink: "/records/1993/maurice-ravel-piano"
-artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/bach.jpg"
-thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/bach.jpg"
+artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/maurice.gif"
+thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/maurice.gif"
 ---
 
-Le Tombeau De Couperin.  	 
+_Le Tombeau De Couperin._  	 
 
 - Prelude	
 - Fugue	
@@ -21,13 +21,12 @@ Le Tombeau De Couperin.
 - Toccata	
 {: .playlist}
 
-Gaspard De La Nuit.	 
+_Gaspard De La Nuit._   
 
-- Ondine	
-- Le Gibet	
-- Scarbo	
-
-- Valses Nobles Et Sentimentales
+- Ondine
+- Le Gibet
+- Scarbo
+- _Valses Nobles Et Sentimentales_
 {: .playlist}
 
 recorded in 1987  
