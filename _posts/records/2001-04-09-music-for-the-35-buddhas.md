@@ -36,8 +36,7 @@ In Tibetan Buddhism there is a ritual of rotating prayer wheels. A prayer wheel 
 It has just been discovered that an ordinary compact disc might be also used as a prayer wheel. This discovery has been employed for the first time in the "Music for the 35 Buddhas" CD. The mantra рOM AH HUMс is inscribed on its surface, - just one mantra, but a CD rotates at a very high speed: it makes about 20,000 revolutions per hour. This means that while you listen to the music this mantra is silently repeated about 20,000 times! If you meditate every day with the help of this music the positive effect increases. Even if you don't like this music at all you can play this CD with the volume turned down - the mantra will work anyway. It is important to realize that the positive "charge" you accumulate this way is not your private property which can be saved and multiplied. The power of this energy is endless, and sharing it with others is the greatest joy.
 
 #Music for the 35 Buddhas
-
-##Composer's note
+**Composer's note**
 
 This 60 minute composition consists of two movements:
 
@@ -68,7 +67,6 @@ The second movement is written for piano, vibraphone, Javanese gong and antique 
 
 When we are prostrating we are paying homage to all buddhas of all times. During one's lifetime one should do at least 100,000 prostrations. It helps purify negative karma, and it is also an antidote to pride.
 
-
-Anton Batagov, September 2001
+_Anton Batagov, September 2001_
 
 [Read a review](http://www.batagov.com/slova/35buddhas%20review.htm)
