@@ -1,7 +1,7 @@
 ---
 layout: record
 category: records
-published: false
+published: true
 title: Triadic Memories
 type: performer
 year: "2003"
