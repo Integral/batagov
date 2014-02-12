@@ -7,9 +7,10 @@ type: composer
 description: A piano cycle
 year: "2013"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/rachmaninoff%20cover.jpg"
-permalink: /records/2013/rachmaninoff
+permalink: /en/records/2013/rachmaninoff
 artwork: "http://batagov.s3.amazonaws.com/records/artwork/rachmaninoff.png"
 buy: "http://fancymusic.ru/anton-batagov-selected-letters-of-sergei-rachmaninoff/"
+lang: en
 ---
 
 - At the Grave of Sergei Rachmaninoff (Kensico Cemetery, Valhalla, NY) [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=lKmYqfQxAdY)
