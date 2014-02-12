@@ -616,16 +616,16 @@ ul.menu > li > a.active:after {
 	content:" ⟶";
 }
 
-dd.sub {
+dl.sub {
 	float: left;
 	display: hidden;
 }
 
-dd.sub a {
+dl.sub dd a {
 	color: #cecece;
 }
 
-dd.sub a.active {
+dl.sub dd a.active {
 	font-style: italic;
 	color: #353535;
 }
