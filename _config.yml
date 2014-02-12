@@ -82,7 +82,15 @@ prose:
           element: "text"
           label: "Translation"
           value: ""
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
     _posts/static:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "static"
       - name: "layout"
         field:
           element: "hidden"
@@ -111,3 +119,7 @@ prose:
           element: "text"
           label: "Translation"
           value: ""
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
