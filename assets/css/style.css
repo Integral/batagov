@@ -600,6 +600,7 @@ html[xmlns] .clearfix {
 
 ul.menu {
 	border-left: 1px solid #cecece;
+	float: left;
 }
 ul.menu li {
 	list-style: none;
@@ -613,6 +614,20 @@ ul.menu > li > a.active {
 
 ul.menu > li > a.active:after {
 	content:" ⟶";
+}
+
+dd.sub {
+	float: left;
+	display: hidden;
+}
+
+dd.sub a {
+	color: #cecece;
+}
+
+dd.sub a.active {
+	font-style: italic;
+	color: #353535;
 }
 
 h1.title {
