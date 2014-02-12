@@ -625,7 +625,7 @@ dl.sub dd a {
 	color: #cecece;
 }
 
-dl.sub dd a.active {
+dl.sub dd.active a {
 	font-style: italic;
 	color: #353535;
 }
