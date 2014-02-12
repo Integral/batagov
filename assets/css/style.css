@@ -111,6 +111,7 @@ nav a {
   text-transform: uppercase;
   width: 500px;
   display: block;
+  padding-top: 2px;
 }
 
 #logo em {
