@@ -96,19 +96,21 @@ nav a {
   position:	fixed;
 }
 
-#logo .express {
-  display: block;
-  font: 400 60px "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #353535;
-  width: 100%;
-}
-
 #logo .description {
   position: relative;
   top: -5px;
   font: 100 60px "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #cecece;
   line-height: .75;
+}
+
+#logo .caption {
+  font: 200 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #C9C9C9;
+  line-height: .75;
+  text-transform: uppercase;
+  width: 500px;
+  display: block;
 }
 
 #logo em {
