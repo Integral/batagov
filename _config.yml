@@ -97,3 +97,17 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
+      - name: "lang"
+        field:
+          element: "select"
+          label: "Language"
+          options:
+            - name: 'English'
+              value: 'en'
+            - name: 'Russian'
+              value: 'ru'
+      - name: "l10n"
+        field:
+          element: "text"
+          label: "Translation"
+          value: ""
