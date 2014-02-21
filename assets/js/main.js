@@ -1,6 +1,6 @@
 $( document ).ready(function() {
 	$('dl.sub a').on('click', function(e) {
-		var filter = $(this).data();
+		var filter = $(this).data("menu");
 		if(filter == 'all') {
 			$('a.item').toggle(true);
 		} else {
