@@ -1,6 +1,6 @@
 $( document ).ready(function() {
 	$('dl.sub a').on('click', function() {
-		$("dd.sub a.active").removeClass("active");
+		$("dl.sub dd.active").removeClass("active");
 		$(this).parent().addClass('active');
 		var filter = $(this).data("menu");
 		if(filter == 'all') {
