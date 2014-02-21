@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-	if (window.location.hash) {
+	$(window).on('hashchange', function() {
     	$(window.location.hash.replace('#', '.')).toggle(false);
-	}
+    });
 });
