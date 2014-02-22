@@ -1,5 +1,10 @@
 $( document ).ready(function() {
-	console.log($(location).attr('hash'));
+	var hash = $(location).attr('hash').replace('#','');
+	if(hash == ('all' || 'composer' || 'performer')) {
+		$('a[data-menu=' + hash + ']').parent().addClass('active');
+	} else {
+		$('a[data-menu=all]').parent().addClass('active');
+	}
 	$('dl.sub a').on('click', function() {
 		$("dl.sub dd.active").removeClass("active");
 		$(this).parent().addClass('active');
