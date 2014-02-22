@@ -21,10 +21,13 @@ permalink: /en/records/
 		</div>
 	</a>
 	{% else %}
-		{% if post.type != type %}
-			{% capture year_type %}{{ post.type }} {{ type }}{% endcapture %}
-		{% else %}
-			{% capture year_type %}{{ type }}{% endcapture %}
+		{% if stop != true %}
+			{% if post.type != type %}
+				{% capture year_type %}{{ post.type }} {{ type }}{% endcapture %}
+				{% assign stop = true %}
+			{% else %}
+				{% capture year_type %}{{ type }}{% endcapture %}
+			{% endif %}
 		{% endif %}
 	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}">
     	<div class="record normal">
