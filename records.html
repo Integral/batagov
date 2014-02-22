@@ -6,6 +6,7 @@ permalink: /en/records/
 <div class="clearfix timeline">
 
 {% for post in site.categories.records  %}
+	{% assign stop = false %}
     {% capture this_year %}{{ post.year }}{% endcapture %}
     {% capture next_year %}{{ post.previous.year }}{% endcapture %}
 
