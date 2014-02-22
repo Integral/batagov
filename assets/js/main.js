@@ -1,4 +1,5 @@
 $( document ).ready(function() {
+	console.log($(location).attr('hash'););
 	$('dl.sub a').on('click', function() {
 		$("dl.sub dd.active").removeClass("active");
 		$(this).parent().addClass('active');
