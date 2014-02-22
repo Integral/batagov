@@ -4,10 +4,10 @@ $( document ).ready(function() {
 		$(this).parent().addClass('active');
 		var filter = $(this).data("menu");
 		if(filter == 'all') {
-			$('a.item').toggle(true);
+			$('a.item, h2').toggle(true);
 		} else {
-    		$('a.item:not(.' + filter + ')').toggle(false);
-    		$('a.' + filter).toggle(true);
+    		$('a.item:not(.' + filter + '), h2:not(.' + filter + ')').toggle(false);
+    		$('a.' + filter + ', h2.' + filter).toggle(true);
     	}
     });
 });
