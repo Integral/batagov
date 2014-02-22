@@ -41,12 +41,12 @@ permalink: /en/records/
 	{% endif %}
     {% if forloop.last %}
     <h2 class="year year-{{ this_year }} center {{ year_type }}">{{this_year}}</h2>
-    {% assign stop = false %}
-    {% assign year_type = false %}
     {% else %}
         {% if this_year != next_year %}
         <h2 class="year year-{{ this_year }} center {{ year_type }}">{{this_year}}</h2>
         {% endif %}
+    	{% assign stop = false %}
+    	{% assign year_type = false %}
     {% endif %}
 {% endfor %}
 
