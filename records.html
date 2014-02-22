@@ -10,6 +10,7 @@ permalink: /en/records/
     {% capture next_year %}{{ post.previous.year }}{% endcapture %}
 
     {% if forloop.first %}
+    {% capture type %}{{ post.type }}{% endcapture %}
 	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}">
 		<div class="record feature">
     		<div class="keyline-all pad2">
@@ -20,6 +21,11 @@ permalink: /en/records/
 		</div>
 	</a>
 	{% else %}
+		{% if post.type != type %}
+			{% capture year_type %}{{ post.type }} {{ type }}{% endcapture %}
+		{% else %}
+			{% capture year_type %}{{ type }}{% endcapture %}
+		{% endif %}
 	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}">
     	<div class="record normal">
     		<div class="keyline-all pad2">
@@ -31,7 +37,7 @@ permalink: /en/records/
 	</a>
 	{% endif %}
     {% if forloop.last %}
-    <h2 class="year year-{{ this_year }} center">{{this_year}}</h2>
+    <h2 class="year year-{{ this_year }} center {{ year_type }}">{{this_year}}</h2>
     {% else %}
         {% if this_year != next_year %}
         <h2 class="year year-{{ this_year }} center">{{this_year}}</h2>
