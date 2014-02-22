@@ -1,6 +1,6 @@
 $( document ).ready(function() {
 	var hash = $(location).attr('hash').replace('#','');
-	if(hash == ('all' || 'composer' || 'performer')) {
+	if(hash == 'all' || hash == 'composer' || hash == 'performer') {
 		$('a[data-menu=' + hash + ']').parent().addClass('active');
 	} else {
 		$('a[data-menu=all]').parent().addClass('active');
