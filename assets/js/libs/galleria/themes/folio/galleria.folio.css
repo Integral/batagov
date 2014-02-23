@@ -5,7 +5,6 @@
 .galleria-container {
     position:relative;
     font-family:arial,sans-serif;
-    background:#000;
 }
 .galleria-container img {
     -moz-user-select: none;
@@ -15,7 +14,6 @@
 .galleria-stage {
     width:100%;
     height:100%;
-    background:#000;
     top:0;
     left:-10000px;
     position: absolute;
