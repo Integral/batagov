@@ -17,6 +17,7 @@
     top:0;
     left:-10000px;
     position: absolute;
+    background: rgba(255, 255, 255, 0.5);
 }
 
 .galleria-thumbnails .galleria-image {
