@@ -1,10 +1,9 @@
-/* Galleria Folio Theme 2012-08-07 | http://galleria.io/license/ | (c) Aino */
-
 #galleria-loader{height:1px!important}
 
 .galleria-container {
     position:relative;
     font-family:arial,sans-serif;
+    padding-top: 15px;
 }
 .galleria-container img {
     -moz-user-select: none;
