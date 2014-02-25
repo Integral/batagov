@@ -9,4 +9,8 @@ layout: none
 	<div class="links">{% if page.itunes %}<a href="{{ page.itunes }}" class="itunes" target="_blank"><img src="{{ site.baseurl }}/assets/media/itunes.png" /></a>{% endif %}{% if page.buy %}<a href="{{ page.buy }}" class="buy" target="_blank"><img src="{{ site.baseurl }}/assets/media/buy.png" /></a>{% endif %}</div>
 	<div class="prose">{{ content }}</div>
 </section>
+<script>
+$('li.discography').addClass('active');
+$('dl.discography').show('slow');
+</script>
 {% include footer.html %}

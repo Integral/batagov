@@ -621,7 +621,7 @@ ul.menu > li > a.active:after {
 
 dl.sub {
 	float: left;
-	display: hidden;
+	display: none;
 }
 
 dl.sub dd a {
