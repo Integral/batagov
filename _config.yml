@@ -94,7 +94,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "default"
+          value: "static"
       - name: "title"
         field:
           element: "text"
