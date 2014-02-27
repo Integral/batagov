@@ -5,4 +5,7 @@ layout: none
 <section id="content" class="static-page">
 	<div class="prose">{{ content }}</div>
 </section>
+<script>
+$('li.{{ page.menu }} a').addClass('active');
+</script>
 {% include footer.html %}

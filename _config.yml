@@ -100,6 +100,11 @@ prose:
           element: "text"
           label: "Title"
           value: ""
+      - name: "menu"
+        field:
+          element: "text"
+          label: "Menu"
+          value: ""     
       - name: "permalink"
         field:
           element: "text"
