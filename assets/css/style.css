@@ -494,8 +494,8 @@ html[xmlns] .clearfix {
 }
 
 .record { width:80%; position:relative; margin: 20px 0px; }
-.video { position:relative; margin: 20px 0px; }
-.video a { color: #777; }
+.video { position:relative; margin: 20px 0px; color: #777; }
+a.item .video a { color: #777; }
 .record > div, .video > div { margin-right:30px; background:#fff; min-height:120px; position:relative; }
 .record h3, .video h3 { margin:0px 0px 10px; padding: 0px; }
 .record:before {
