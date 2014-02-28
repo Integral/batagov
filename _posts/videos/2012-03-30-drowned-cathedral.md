@@ -13,6 +13,7 @@ artwork: "http://batagov.s3.amazonaws.com/videos/artwork/drowned_cathedral.jpg"
 ---
 
   
+    
 > Anton Batagov evokes Richter, and his own playing reaches the zone that Richter aims for.
 
 _Allan Evans_
