@@ -493,7 +493,9 @@ html[xmlns] .clearfix {
 	padding: 20px;
 }
 
-.record, .video { width:80%; position:relative; margin: 20px 0px; }
+.record { width:80%; position:relative; margin: 20px 0px; }
+.video { position:relative; margin: 20px 0px; }
+.video a { color: #777; }
 .record > div, .video > div { margin-right:30px; background:#fff; min-height:120px; position:relative; }
 .record h3, .video h3 { margin:0px 0px 10px; padding: 0px; }
 .record:before {
@@ -565,35 +567,7 @@ html[xmlns] .clearfix {
   height: 80px;
   padding:20px;
   position:relative;
-  }
-
-@media (max-width:640px) {
-  .year { margin-right:-2px; margin-left:auto; margin-bottom:40px; }
-  .big.button.final { margin-right:-2px; margin-left:auto; }
-  .record { width:auto; margin:20px 0px 0px 0px; }
-  .record > div { margin-left:0px; margin-right:30px; }
-  .record:after {
-    right:0px; left:auto;
-    margin:-6px -6px 0px 0px;
-    }
-  .record:before {
-    right:10px; left:auto;
-    border-left:10px solid #fff;
-    border-right:10px solid transparent;
-    }
-  .record.feature:before {
-    margin:-2px -5px 0px 0px;
-    border:0px;
-    border-bottom:4px solid #808080;
-    }
-
-  .record.normal .image { left:0px; right:auto; }
-  .record.normal > div { padding-left:120px; padding-right:20px; }
-
-  .timeline:before { right:0px; left:auto; margin:0px -2px; }
-  }
-
-
+  }	
 
 ul.menu {
 	border-left: 1px solid #cecece;
