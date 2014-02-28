@@ -1,38 +1,31 @@
 ---
+published: true
 layout: video
 category: videos
-published: true
 title: Drowned Cathedral
 type: live
-description: Three nights of piano music, Seattle, March 29 – 31, 2012
+description: "Three nights of piano music, Seattle, March 29 – 31, 2012"
 year: "2012"
-thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/rachmaninoff%20cover.jpg"
-permalink: /en/videos/drowned-cathedral
+thumbnail: "http://batagov.s3.amazonaws.com/videos/thumbnails/drowned_cathedral_thumb.jpg"
+permalink: "/en/videos/drowned-cathedral"
 lang: en
+artwork: "http://batagov.s3.amazonaws.com/videos/artwork/drowned_cathedral.jpg"
 ---
 
-- At the Grave of Sergei Rachmaninoff (Kensico Cemetery, Valhalla, NY) [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=lKmYqfQxAdY)
-- [Letter from Sergei Rachmaninoff to Simeon ten Holt](http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3){: .audio} [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=_kOQsIF3KDw)
-- [Letter from Sergei Rachmaninoff to Peter Gabriel](http://batagov.s3.amazonaws.com/records/sounds/to_peter_gabriel.mp3){: .audio} [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=-iiLHdASnqA)
-- Letter from Sergei Rachmaninoff to Arvo Pärt
-- Letter from Sergei Rachmaninoff to Ludovico Einaudi
-- Letter from Sergei Rachmaninoff to Philip Glass
-- Letter from Sergei Rachmaninoff to Wim Mertens and Niccolo Paganini
-- Letter from Sergei Rachmaninoff to Brian Eno
-- Letter from Sergei Rachmaninoff to Vladimir Martynov
-- At the Grave of Sergei Rachmaninoff. Postlude
-{: .playlist}
+> Anton Batagov evokes Richter, and his own playing reaches the zone that Richter aims for.
 
-© 2013 Fancymusic (CD release date: September 12)
+Allan Evans
 
-In October 2012 I visited Rachmaninoff's grave. He is buried at Kensico Cemetery in the hamlet of Valhalla, half an hour’s ride from New York City. The cemetery is surrounded by picturesque mountains, well-tended houses, manicured lawns, and idyllic lakes and streams. Rachmaninoff is buried among actors, writers, politicians, military personnel, and business people, together with "ordinary mortals" from all over the world – Americans, Russians, Estonians, Chinese people... A great musician who heard the universe as a powerful, boundless space resounding with the sounds of bells at once both tragic and triumphant, Rachmaninoff left Russia and became a part of a completely different world…
+> A surgical precision of his piano touch, deeply sensible sound that blooms in all colors under his fingers… Anton Batagov is a unique composer/performer who cannot be compared to anyone else because he is one of a kind.
 
-As I stood at his grave, I found this space resonating within me. When I returned home, I began writing a piano cycle.
+Elena Dubinets
 
-In this cycle, Rachmaninoff writes letters to postmodern composers. Rachmaninoff himself was an anti-modernist. He was not a revolutionary, was never "ahead of his time," and was unafraid of looking old-fashioned. At first glance, it would seem that he bore no influence on late 20th/early 21st century composers. Nonetheless, his invisible, magical presence can in fact be heard in the music of some composers, including so-called "contemporary classical" composers and rock musicians. Likewise, when I hear Rachmaninoff's endless melodies that evolve from a very short motive of literally two or three notes, the word "minimalism" all but rolls off my tongue… However, these connections are so subtle and not readily apparent that I wouldn't want to deaden them by invoking musicological terms.
+<iframe width="560" height="315" src="//www.youtube.com/embed/wI974tzStfU" frameborder="0" allowfullscreen></iframe>
 
-Rachmaninoff thus speaks to the composers that would come after him. Among composers of his time, he did not find a receptive audience – unsurprising, perhaps, given the avant-garde experiments consuming the musical world at the time. The generation that followed Rachmaninoff essentially continued along the avant-garde path. However, Rachmaninoff looked even further ahead, taking sight of those with whom he desired to speak heart-to-heart.
+_Philip Glass: NIGHT TRAIN from Einstein on the Beach  
+Piano transcription by Anton Batagov_
 
-We have long been accustomed to the fact that both early music and classical music are used as the building materials for new compositions. Time runs quickly, and we are already at the next turn of the spiral. Music written only a short while ago becomes itself material for today’s meditation. In this process, there are no quotations; there are only stylistic journeys in a time machine. The turns of this spiral resonate with one another, and we listen to the sounds they make.
+<iframe width="560" height="315" src="//www.youtube.com/embed/ZOvlPvXXggs" frameborder="0" allowfullscreen></iframe>
 
-_Translation by William Quillen and AB_
+_Philip Glass: TRIAL from Einstein on the Beach
+Piano transcription by Anton Batagov_
