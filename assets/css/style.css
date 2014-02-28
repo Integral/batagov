@@ -493,9 +493,9 @@ html[xmlns] .clearfix {
 	padding: 20px;
 }
 
-.record { width:80%; position:relative; margin: 20px 0px; }
-.record > div { margin-right:30px; background:#fff; min-height:120px; position:relative; }
-.record h3 { margin:0px 0px 10px; padding: 0px; }
+.record, .video { width:80%; position:relative; margin: 20px 0px; }
+.record > div, .video > div { margin-right:30px; background:#fff; min-height:120px; position:relative; }
+.record h3, .video h3 { margin:0px 0px 10px; padding: 0px; }
 .record:before {
   display:block;
   content:'';
@@ -530,7 +530,7 @@ html[xmlns] .clearfix {
   margin:-2px -5px 0px 0px;
   border-bottom:1px solid #cecece;
   }
-.record .image {
+.record .image, .video .image {
   background-position:50% 0%;
   background-repeat:no-repeat;
   background-color:#808080;
@@ -538,7 +538,7 @@ html[xmlns] .clearfix {
           background-size:cover;
   }
 
-.record.feature .image {
+.record.feature .image, .video.feature .image {
   margin:0px auto 20px;
   height:370px;
   box-shadow:rgba(0,0,0,0.05) 0px 0px 0px 5px;
@@ -570,31 +570,25 @@ html[xmlns] .clearfix {
 @media (max-width:640px) {
   .year { margin-right:-2px; margin-left:auto; margin-bottom:40px; }
   .big.button.final { margin-right:-2px; margin-left:auto; }
-  .record { width:auto; }
-  .record.even,
-  .record.odd { margin:20px 0px 0px 0px; }
-  .record.even > div,
-  .record.odd > div { margin-left:0px; margin-right:30px; }
-  .record.even:after,
-  .record.odd:after {
+  .record { width:auto; margin:20px 0px 0px 0px; }
+  .record > div { margin-left:0px; margin-right:30px; }
+  .record:after {
     right:0px; left:auto;
     margin:-6px -6px 0px 0px;
     }
-  .record.even:before,
-  .record.odd:before {
+  .record:before {
     right:10px; left:auto;
     border-left:10px solid #fff;
     border-right:10px solid transparent;
     }
-  .record.even.feature:before,
-  .record.odd.feature:before {
+  .record.feature:before {
     margin:-2px -5px 0px 0px;
     border:0px;
     border-bottom:4px solid #808080;
     }
 
-  .record.odd.normal .image { left:0px; right:auto; }
-  .record.odd.normal > div { padding-left:120px; padding-right:20px; }
+  .record.normal .image { left:0px; right:auto; }
+  .record.normal > div { padding-left:120px; padding-right:20px; }
 
   .timeline:before { right:0px; left:auto; margin:0px -2px; }
   }
