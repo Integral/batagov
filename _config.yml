@@ -57,12 +57,81 @@ prose:
       - name: "type"
         field:
           element: "select"
-          label: "Composer"
+          label: "Type"
           options:
             - name: 'Composer'
               value: 'composer'
             - name: 'Performer'
               value: 'performer'
+            - name: 'Live'
+              value: 'live'
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
+      - name: "lang"
+        field:
+          element: "select"
+          label: "Language"
+          options:
+            - name: 'English'
+              value: 'en'
+            - name: 'Russian'
+              value: 'ru'
+      - name: "l10n"
+        field:
+          element: "text"
+          label: "Translation"
+          value: ""
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
+    _posts/videos:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "videos"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "video"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "year"
+        field:
+          element: "text"
+          label: "Year"
+          value: ""
+      - name: "description"
+        field:
+          element: "text"
+          label: "Description"
+          value: ""
+          placeholder: "short description"
+      - name: "artwork"
+        field:
+          element: "text"
+          label: "Artwork url"
+          value: ""
+      - name: "thumbnail"
+        field:
+          element: "text"
+          label: "Thumbnail url"
+          value: ""
+      - name: "type"
+        field:
+          element: "select"
+          label: "Type"
+          options:
+            - name: 'Live'
+              value: 'live'
+            - name: 'Documentary'
+              value: 'doc'
       - name: "permalink"
         field:
           element: "text"

@@ -1,0 +1,15 @@
+---
+layout: none
+---
+{% include header.html %}
+<section id="content" class="record-page">
+	<img class="artwork" src="{{ page.artwork }}" />
+	<h1 class="title">{{ page.title }}</h1>
+	<div class="description">{{ page.description }}</div>
+	<div class="prose">{{ content }}</div>
+</section>
+<script>
+$('li.video a').addClass('active');
+$('dl.video').show();
+</script>
+{% include footer.html %}
