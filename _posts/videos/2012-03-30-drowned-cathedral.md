@@ -27,5 +27,5 @@ Piano transcription by Anton Batagov_
   
     
 <iframe width="560" height="315" src="//www.youtube.com/embed/ZOvlPvXXggs" frameborder="0" allowfullscreen></iframe>
-_Philip Glass: TRIAL from Einstein on the Beach
+_Philip Glass: TRIAL from Einstein on the Beach  
 Piano transcription by Anton Batagov_
