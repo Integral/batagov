@@ -6,13 +6,11 @@ title: After Bach
 type: doc
 lang: en
 year: "2010"
-description: "The portraits of four composers - Vladimir Martynov, Anton Batagov, Pavel Karmanov, Sergei Zagny - the new classics of Russian contemporary music. "
+description: "The first ever documentary about Russian minimalist composers."
 permalink: "/en/videos/after-bach"
 artwork: "http://batagov.s3.amazonaws.com/videos/artwork/bach.jpg"
-thumbnail: "http://batagov.s3.amazonaws.com/videos/artwork/bach_thumb.jpg"
----
-
-The first ever documentary about Russian minimalist composers.  
+thumbnail: "http://batagov.s3.amazonaws.com/videos/thumbnails/bach_thumb.jpg"
+---  
 
 The portraits of four composers - Vladimir Martynov, Anton Batagov, Pavel Karmanov, Sergei Zagny - the new classics of Russian contemporary music.  
 
