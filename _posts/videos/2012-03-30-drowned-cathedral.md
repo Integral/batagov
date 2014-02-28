@@ -12,20 +12,20 @@ lang: en
 artwork: "http://batagov.s3.amazonaws.com/videos/artwork/drowned_cathedral.jpg"
 ---
 
+  
 > Anton Batagov evokes Richter, and his own playing reaches the zone that Richter aims for.
 
-Allan Evans
+_Allan Evans_
 
 > A surgical precision of his piano touch, deeply sensible sound that blooms in all colors under his fingers… Anton Batagov is a unique composer/performer who cannot be compared to anyone else because he is one of a kind.
 
-Elena Dubinets
+_Elena Dubinets_
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/wI974tzStfU" frameborder="0" allowfullscreen></iframe>
-
 _Philip Glass: NIGHT TRAIN from Einstein on the Beach  
 Piano transcription by Anton Batagov_
-
+  
+    
 <iframe width="560" height="315" src="//www.youtube.com/embed/ZOvlPvXXggs" frameborder="0" allowfullscreen></iframe>
-
 _Philip Glass: TRIAL from Einstein on the Beach
 Piano transcription by Anton Batagov_
