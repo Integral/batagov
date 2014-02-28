@@ -20,7 +20,6 @@ permalink: /en/videos/
 				{% capture year_type %}{{ type }}{% endcapture %}
 			{% endif %}
 		{% endif %}
-    {% if forloop.first %}
 	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}">
 		<div class="video feature">
     		<div class="keyline-all pad2">
@@ -30,17 +29,6 @@ permalink: /en/videos/
 			</div>
 		</div>
 	</a>
-	{% else %}
-	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}">
-    	<div class="video normal">
-    		<div class="keyline-all pad2">
-    			<div class="image" style="background-image:url({{ post.thumbnail }})"></div>
-    			<h3>{{ post.title }}</h3>
-    			<small>{{ post.description }}</small>
-			</div>
-		</div>
-	</a>
-	{% endif %}
     {% if forloop.last %}
     <h2 class="year year-{{ this_year }} center {{ year_type }}">{{this_year}}</h2>
     {% else %}
