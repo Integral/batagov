@@ -494,7 +494,40 @@ html[xmlns] .clearfix {
 
 .records {width:560px;}
 
-.records .item .image {top:0px;left:0px;width:100px;height:100px;background-position: 50% 0%;background-repeat: no-repeat;-webkit-background-size: cover;background-size: cover;transition-property: top, left;transition-duration: 1s;transition-timing-function: linear;}
+.records .item .image {top:0px;left:0px;width:100px;height:100px;background-position: 50% 0%;background-repeat: no-repeat;-webkit-background-size: cover;background-size: cover;transition-property: top, left;transition-duration: 1s;transition-timing-function: linear;-webkit-animation: fadein 2s; /* Safari and Chrome */
+       -moz-animation: fadein 2s; /* Firefox */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera */
+            animation: fadein 2s;}
+            
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari and Chrome */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}​
+
+/* Opera */
+@-o-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}​
 .records .item .image:hover {top:-25px;left:-25px;width:150px;height:150px;position: absolute;z-index: 101;border: 1px #f1f1f1 solid;-webkit-transition: all 0.5s ease;-moz-transition: all 0.5s ease;-o-transition: all 0.5s ease;-ms-transition: all 0.5s ease;transition: all 0.5s ease;}
 
 .record { width:80%; position:relative; margin: 20px 0px; }
