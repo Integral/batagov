@@ -26,7 +26,6 @@ $( function() {
   $('.sub a').on( 'click', 'button', function(e) {
     e.preventdefault();
     var filterValue = $( this ).attr('data-menu');
-    filterValue = filterFns[ filterValue ] || filterValue;
     $container.isotope({ filter: filterValue });
   });
 });
