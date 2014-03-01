@@ -24,8 +24,18 @@ $( function() {
     }
   });
   $('.sub a').on( 'click', function(e) {
+    $('dd a.active').removeClass('active');
     var filterValue = $( this ).attr('data-menu');
+    $( this ).parent().addClass('active');
     $container.isotope({ filter: filterValue });
   });
+});
+$( document ).ready(function() {
+	var hash = $(location).attr('hash').replace('#','');
+	if(hash == 'composer' || hash == 'performer') {
+		$('a[data-menu=".' + hash + '"]').parent().addClass('active');
+	} else {
+		$('a[data-menu="*"]').parent().addClass('active');
+	}
 });
 </script>
