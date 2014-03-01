@@ -496,7 +496,7 @@ html[xmlns] .clearfix {
 .records {width:560px;}
 
 .records .item .image {width:100px;height:100px;background-position: 50% 0%;background-repeat: no-repeat;-webkit-background-size: cover;background-size: cover;}
-.records .item .image:hover {width:150px;height:150px;position: absolute;z-index: 101;border: 1px #f1f1f1 solid;-webkit-transition: all 0.5s ease;-moz-transition: all 0.5s ease;-o-transition: all 0.5s ease;-ms-transition: all 0.5s ease;transition: all 0.5s ease;-webkit-animation:record 0.5s infinite;}
+.records .item .image:hover {width:150px;height:150px;position: absolute;z-index: 101;border: 1px #f1f1f1 solid;-webkit-transition: all 0.5s ease;-moz-transition: all 0.5s ease;-o-transition: all 0.5s ease;-ms-transition: all 0.5s ease;transition: all 0.5s ease;-webkit-animation:record 0.5s linear;}
 @-webkit-keyframes record{
 0%{}
 100%{left:-25px;top:-25px;}
