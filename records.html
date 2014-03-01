@@ -3,58 +3,27 @@ layout: default
 permalink: /en/records/
 ---
 
-<div class="clearfix timeline">
-{% assign first_in_year = true %}
+<div class="clearfix records">
 {% for post in site.categories.records  %}
-    {% capture this_year %}{{ post.year }}{% endcapture %}
-    {% capture next_year %}{{ post.previous.year }}{% endcapture %}
-
-	{% if first_in_year == true %}
-		{% capture type %}{{ post.type }}{% endcapture %}
-	{% endif %}
-		{% if stop != true %}
-			{% if post.type != type %}
-				{% capture year_type %}{{ post.type }} {{ type }}{% endcapture %}
-				{% assign stop = true %}
-			{% else %}
-				{% capture year_type %}{{ type }}{% endcapture %}
-			{% endif %}
-		{% endif %}
-    {% if forloop.first %}
-	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}">
-		<div class="record feature">
-    		<div class="keyline-all pad2">
-    			<div class="image" style="background-image:url({{ post.thumbnail }})"></div>
-    			<h3>{{ post.title }}</h3>
-    			<small>{{ post.description }}</small>
-			</div>
+	<a href="{{ site.baseurl }}{{ post.url }}" class="item" data-type="{{ post.type }}" data-year="{{ post.year }}">
+		<div class="record">
+    		<div class="image" style="background-image:url({{ post.thumbnail }})"></div>
 		</div>
 	</a>
-	{% else %}
-	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}">
-    	<div class="record normal">
-    		<div class="keyline-all pad2">
-    			<div class="image" style="background-image:url({{ post.thumbnail }})"></div>
-    			<h3>{{ post.title }}</h3>
-    			<small>{{ post.description }}</small>
-			</div>
-		</div>
-	</a>
-	{% endif %}
-    {% if forloop.last %}
-    <h2 class="year year-{{ this_year }} center {{ year_type }}">{{this_year}}</h2>
-    {% else %}
-    	{% assign first_in_year = false %}
-        {% if this_year != next_year %}
-        <h2 class="year year-{{ this_year }} center {{ year_type }}">{{this_year}}</h2>
-        	{% assign first_in_year = true %}
-        	{% assign stop = false %}
-        {% endif %}
-    {% endif %}
 {% endfor %}
-
 </div>
+<script type="text/javascript" src="http://integral.github.io/batagov/assets/js/libs/isotope/isotope.pkgd.min.js"></script>
 <script>
 $('li.discography a').addClass('active');
 $('dl.discography').show();
+$( function() {
+  // init Isotope
+  var $container = $('.records').isotope({
+    itemSelector: '.item',
+    layoutMode: 'fitRows',
+    getSortData: {
+      year: '[data-year] parseInt',
+      category: '[data-type]',
+    }
+  });
 </script>
