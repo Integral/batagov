@@ -5,7 +5,7 @@ permalink: /en/records/
 
 <div class="clearfix records">
 {% for post in site.categories.records  %}
-	<a href="{{ site.baseurl }}{{ post.url }}" class="item record" data-type="{{ post.type }}" data-year="{{ post.year }}">
+	<a href="{{ site.baseurl }}{{ post.url }}" class="item" data-type="{{ post.type }}" data-year="{{ post.year }}">
     	<div class="image" style="background-image:url({{ post.thumbnail }})"></div>
 	</a>
 {% endfor %}
