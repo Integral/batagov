@@ -24,7 +24,7 @@ $( function() {
     }
   });
   $('.sub a').on( 'click', function(e) {
-    $('dd a.active').removeClass('active');
+    $('dd.active').removeClass('active');
     var filterValue = $( this ).attr('data-menu');
     $( this ).parent().addClass('active');
     $container.isotope({ filter: filterValue });
