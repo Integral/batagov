@@ -26,9 +26,7 @@ $( function() {
   $('.sub a').on( 'click', function(e) {
     e.preventdefault();
     var filterValue = $( this ).attr('data-menu');
-    console.log(e)
-    console.log(filterValue)
-    //$container.isotope({ filter: filterValue });
+    $container.isotope({ filter: filterValue });
   });
 });
 </script>
