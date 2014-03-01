@@ -29,6 +29,7 @@ $( function() {
     $( this ).parent().addClass('active');
     $container.isotope({ filter: filterValue });
   });
+  $(".item .image").bind("load", function () { $(this).hide().fadeIn(3000); });
 });
 $( document ).ready(function() {
 	var hash = $(location).attr('hash').replace('#','');
@@ -38,5 +39,4 @@ $( document ).ready(function() {
 		$('a[data-menu="*"]').parent().addClass('active');
 	}
 });
-$(".item .image").bind("load", function () { $(this).hide().fadeIn(3000); });
 </script>
