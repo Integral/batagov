@@ -496,7 +496,12 @@ html[xmlns] .clearfix {
 .records {width:560px;}
 
 .records .item .image {width:100px;height:100px;background-position: 50% 0%;background-repeat: no-repeat;-webkit-background-size: cover;background-size: cover;}
-.records .item .image:hover {width:150px;height:150px;position: absolute;z-index: 101;border: 1px #f1f1f1 solid;-webkit-transition: all 0.5s ease;-moz-transition: all 0.5s ease;-o-transition: all 0.5s ease;-ms-transition: all 0.5s ease;transition: all 0.5s ease;}
+.records .item .image:hover {width:150px;height:150px;position: absolute;z-index: 101;border: 1px #f1f1f1 solid;-webkit-transition: all 0.5s ease;-moz-transition: all 0.5s ease;-o-transition: all 0.5s ease;-ms-transition: all 0.5s ease;transition: all 0.5s ease;-webkit-animation:movingbox 0.5s infinite;}
+@-webkit-keyframes movingbox{
+0%{left:0px;}
+50%{left:-15px;}
+100%{left:-25px;}
+}
 .record { width:80%; position:relative; margin: 20px 0px; }
 .video { position:relative; margin: 20px 0px; color: #777; }
 a.item .video a { color: #777; }
