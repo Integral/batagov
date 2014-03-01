@@ -23,7 +23,8 @@ $( function() {
       year: '[data-year] parseInt'
     }
   });
-  $('.sub a').on( 'click', 'button', function() {
+  $('.sub a').on( 'click', 'button', function(e) {
+  	e.preventDefault();
     var filterValue = $( this ).attr('data-menu');
     $container.isotope({ filter: filterValue });
   });
