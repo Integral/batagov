@@ -6,9 +6,7 @@ permalink: /en/records/
 <div class="clearfix records">
 {% for post in site.categories.records  %}
 	<a href="{{ site.baseurl }}{{ post.url }}" class="item" data-type="{{ post.type }}" data-year="{{ post.year }}">
-		<div class="record">
-    		<div class="image" style="background-image:url({{ post.thumbnail }})"></div>
-		</div>
+    	<div class="image" style="background-image:url({{ post.thumbnail }})"></div>
 	</a>
 {% endfor %}
 </div>
@@ -26,4 +24,5 @@ $( function() {
       category: '[data-type]',
     }
   });
+});
 </script>
