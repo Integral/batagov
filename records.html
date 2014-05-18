@@ -10,24 +10,26 @@ permalink: /en/records/
 	</a>
 {% endfor %}
 </div>
-<script type="text/javascript" src="http://integral.github.io/batagov/assets/js/libs/isotope/isotope.pkgd.min.js"></script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js"></script>
+<script type="text/javascript" src="http://integral.github.io/batagov/assets/js/libs/shuffle/jquery.shuffle.min.js"></script>
 <script>
 $('li.discography a').addClass('active');
 $('dl.discography').show();
 $( function() {
-  // init Isotope
-  var $container = $('.records').isotope({
+  var $grid = $('.records'),
+  $sizer = $grid.find('a.item');
+  $grid.shuffle({
     itemSelector: '.item',
-    layoutMode: 'fitRows',
-    getSortData: {
-      year: '[data-year] parseInt'
-    }
+    sizer: $sizer
   });
+  
   $('.sub a').on( 'click', function(e) {
     $('dd.active').removeClass('active');
     var filterValue = $( this ).attr('data-menu');
     $( this ).parent().addClass('active');
-    $container.isotope({ filter: filterValue });
+    $grid.shuffle('shuffle', function($el, shuffle) {
+      return $el.hasClass(filterValue);
+    });
   });
 });
 $( document ).ready(function() {
