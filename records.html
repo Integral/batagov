@@ -40,7 +40,7 @@ $( document ).ready(function() {
 	var hash = $(location).attr('hash').replace('#','');
 	if(hash == 'composer' || hash == 'performer') {
 		$('a[data-menu="' + hash + '"]').parent().addClass('active');
-    $grid.shuffle('shuffle', function($el, shuffle) {
+    $('.records').shuffle('shuffle', function($el, shuffle) {
       return $el.hasClass(hash);
     });
 	} else {
