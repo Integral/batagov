@@ -28,14 +28,18 @@ $( function() {
     var filterValue = $( this ).attr('data-menu');
     $( this ).parent().addClass('active');
     $grid.shuffle('shuffle', function($el, shuffle) {
-      return $el.hasClass(filterValue);
+      if(filterValue == 'composer' || filterValue == 'performer') {
+        return $el.hasClass(filterValue);
+      } else {
+        return true;
+      }
     });
   });
 });
 $( document ).ready(function() {
 	var hash = $(location).attr('hash').replace('#','');
 	if(hash == 'composer' || hash == 'performer') {
-		$('a[data-menu=".' + hash + '"]').parent().addClass('active');
+		$('a[data-menu="' + hash + '"]').parent().addClass('active');
 	} else {
 		$('a[data-menu="*"]').parent().addClass('active');
 	}
