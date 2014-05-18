@@ -42,7 +42,7 @@ $( document ).ready(function() {
 		$('a[data-menu="' + hash + '"]').parent().addClass('active');
     $grid.shuffle('shuffle', function($el, shuffle) {
       return $el.hasClass(hash);
-    }
+    });
 	} else {
 		$('a[data-menu="*"]').parent().addClass('active');
 	}
