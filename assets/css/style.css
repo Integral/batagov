@@ -541,7 +541,7 @@ a.item:hover {text-decoration:none;}
 .record .image, .video .image {
   background-position:50% 0%;
   background-repeat:no-repeat;
-  background-color:#808080;
+  background-color:#f0f0f0;
   -webkit-background-size:cover;
           background-size:cover;
   }
