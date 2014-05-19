@@ -28,7 +28,9 @@ Partita No.4 D major
 - [Gigue](http://batagov.s3.amazonaws.com/live/sounds/bach_novosibirsk/7_partita4_gigue.mp3){: .audio}
 {: .playlist}
 
-["Jesus bleibet meine Freude" (Chorale from Cantata No.147)](http://batagov.s3.amazonaws.com/live/sounds/bach_novosibirsk/chorale147.mp3){: .audio}
+Jesus bleibet meine Freude
+
+- ["Jesus bleibet meine Freude" (Chorale from Cantata No.147)](http://batagov.s3.amazonaws.com/live/sounds/bach_novosibirsk/chorale147.mp3){: .audio}
 {: .playlist}
 
 Partita No.6 E minor  
