@@ -12,9 +12,10 @@ permalink: "/en/live/bach-novosibirsk"
 description: "live in Novosibirsk, Feb.21, 2010"
 ---
 
+  
 > 'I have never heard such a fantastic performance in my life! He is a genius...'
 
-Teodor Currentzis, from an interview for Novaya Gazeta
+_Teodor Currentzis, from an interview for Novaya Gazeta_
   
 Partita No.4 D major  
 
@@ -27,7 +28,7 @@ Partita No.4 D major
 - [Gigue](http://batagov.s3.amazonaws.com/live/sounds/bach_novosibirsk/7_partita4_gigue.mp3){: .audio}
 {: .playlist}
 
-- ["Jesus bleibet meine Freude" (Chorale from Cantata No.147)](http://batagov.s3.amazonaws.com/live/sounds/bach_novosibirsk/chorale147.mp3){: .audio}
+["Jesus bleibet meine Freude" (Chorale from Cantata No.147)](http://batagov.s3.amazonaws.com/live/sounds/bach_novosibirsk/chorale147.mp3){: .audio}
 {: .playlist}
 
 Partita No.6 E minor  
@@ -39,5 +40,6 @@ Partita No.6 E minor
 - [Sarabande](http://batagov.s3.amazonaws.com/live/sounds/bach_novosibirsk/5_partita6_sarabande.mp3){: .audio}
 - [Tempo di gavotta](http://batagov.s3.amazonaws.com/live/sounds/bach_novosibirsk/6_partita6_gavotte.mp3){: .audio}
 - [Gigue](http://batagov.s3.amazonaws.com/live/sounds/bach_novosibirsk/7_partita6_gigue.mp3){: .audio}
+{: .playlist}
 
 _Photo by Nadezhda Ivanova_
