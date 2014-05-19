@@ -7,7 +7,7 @@ type: audio
 lang: en
 year: "2010"
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/bach_novosibirsk.jpg"
-thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/bach_novosibirsk.jpg"
+thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/bach_novosibirsk_thumb.jpg"
 permalink: "/en/live/bach-novosibirsk"
 description: "live in Novosibirsk, Feb.21, 2010"
 ---

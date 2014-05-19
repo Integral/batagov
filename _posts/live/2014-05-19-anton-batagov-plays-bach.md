@@ -9,7 +9,7 @@ year: "2014"
 description: "Live at the Moscow House of Music, Apr. 26, 2014"
 permalink: "/en/live/bach-moscow"
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/bach_moscow.jpg"
-thumbnail: "http://batagov.s3.amazonaws.com/live/artwork/bach_moscow_thumb.jpg"
+thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/bach_moscow_thumb.jpg"
 ---
 
    
