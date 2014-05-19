@@ -1,13 +1,13 @@
 ---
 published: true
-layout: video
-category: videos
+layout: live
+category: live
 title: Drowned Cathedral
-type: live
+type: video
 description: "Three nights of piano music, Seattle, March 29 – 31, 2012"
 year: "2012"
 thumbnail: "http://batagov.s3.amazonaws.com/videos/thumbnails/drowned_cathedral_thumb.jpg"
-permalink: "/en/videos/drowned-cathedral"
+permalink: "/en/live/drowned-cathedral"
 lang: en
 artwork: "http://batagov.s3.amazonaws.com/videos/artwork/drowned_cathedral.jpg"
 ---
@@ -21,10 +21,21 @@ _Allan Evans_
 _Elena Dubinets_
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/wI974tzStfU" frameborder="0" allowfullscreen></iframe>
-_Philip Glass: NIGHT TRAIN from Einstein on the Beach  
+_Philip Glass: Night Train from Einstein on the Beach  
 Piano transcription by Anton Batagov_
-  
     
 <iframe width="560" height="315" src="//www.youtube.com/embed/ZOvlPvXXggs" frameborder="0" allowfullscreen></iframe>
-_Philip Glass: TRIAL from Einstein on the Beach  
+_Philip Glass: Trial from Einstein on the Beach  
 Piano transcription by Anton Batagov_
+  
+<iframe width="560" height="315" src="//www.youtube.com/embed/CNbdgfAor88" frameborder="0" allowfullscreen></iframe>
+_Johann Sebastian Bach: Allemande from Partita No.6 E minor_  
+  
+<iframe width="560" height="315" src="//www.youtube.com/embed/q-nFEbIM4Ds" frameborder="0" allowfullscreen></iframe>
+_Anton Batagov: Invisible Lands 4_
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/oiPJOjhREyk" frameborder="0" allowfullscreen></iframe>
+_Claude Debussy: Ce qu'a vu le vent d'Ouest (What the West Wind Saw)_  
+  
+<iframe width="560" height="315" src="//www.youtube.com/embed/mCXVQtKG8to" frameborder="0" allowfullscreen></iframe>
+_Claude Debussy: Des pas sur la neige (Footprints in the Snow)_

@@ -63,8 +63,6 @@ prose:
               value: 'composer'
             - name: 'Performer'
               value: 'performer'
-            - name: 'Live'
-              value: 'live'
       - name: "permalink"
         field:
           element: "text"
@@ -88,15 +86,15 @@ prose:
         field:
           element: "hidden"
           value: "true"
-    _posts/videos:
+    _posts/live:
       - name: "category"
         field:
           element: "hidden"
-          value: "videos"
+          value: "live"
       - name: "layout"
         field:
           element: "hidden"
-          value: "video"
+          value: "live"
       - name: "title"
         field:
           element: "text"
@@ -128,10 +126,10 @@ prose:
           element: "select"
           label: "Type"
           options:
-            - name: 'Live'
-              value: 'live'
-            - name: 'Documentary'
-              value: 'doc'
+            - name: 'Video'
+              value: 'video'
+            - name: 'Audio'
+              value: 'audio'
       - name: "permalink"
         field:
           element: "text"
