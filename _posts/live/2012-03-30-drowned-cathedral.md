@@ -6,10 +6,10 @@ title: Drowned Cathedral
 type: video
 description: "Three nights of piano music, Seattle, March 29 – 31, 2012"
 year: "2012"
-thumbnail: "http://batagov.s3.amazonaws.com/videos/thumbnails/drowned_cathedral_thumb.jpg"
+thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/drowned_cathedral_thumb.jpg"
 permalink: "/en/live/drowned-cathedral"
 lang: en
-artwork: "http://batagov.s3.amazonaws.com/videos/artwork/drowned_cathedral.jpg"
+artwork: "http://batagov.s3.amazonaws.com/live/artwork/drowned_cathedral.jpg"
 ---
 
 > Anton Batagov evokes Richter, and his own playing reaches the zone that Richter aims for.
