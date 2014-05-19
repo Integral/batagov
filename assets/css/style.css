@@ -643,6 +643,7 @@ div.description {
 	font-size: 14px;
 	width: 400px;
 	float: left;
+  padding-bottom: 10px;
 }
 div.links {
 	text-align: right;
