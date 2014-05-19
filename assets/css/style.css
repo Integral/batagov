@@ -613,7 +613,7 @@ div.prose {
 }
 
 /*RECORD*/
-section#content.record-page {
+section#content.record-page, section#content.live-page {
 	padding: 15px 20px 0;
 }
 img.artwork {
