@@ -3,21 +3,38 @@ layout: default
 permalink: /en/live/
 ---
 
-<div class="clearfix">
+<div class="clearfix records">
 {% for post in site.categories.live  %}
-	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}">
-		<div class="live feature">
-    		<div class="keyline-all pad2">
-    			<div class="image" style="background-image:url({{ post.thumbnail }})"></div>
-    			<h3>{{ post.title }}</h3>
-    			<small>{{ post.description }}</small>
-			</div>
-		</div>
+	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
+    	<div class="image" style="background-image:url({{ post.thumbnail }})"></div>
 	</a>
 {% endfor %}
-
 </div>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js"></script>
+<script type="text/javascript" src="http://integral.github.io/batagov/assets/js/libs/shuffle/jquery.shuffle.min.js"></script>
 <script>
 $('li.live a').addClass('active');
 $('dl.live').show();
+
+$( function() {
+  var $grid = $('.records'),
+  $sizer = $grid.find('a.item');
+  $grid.shuffle({
+    itemSelector: '.item',
+    sizer: $sizer
+  });
+  
+  $('.sub a').on( 'click', function(e) {
+    $('dd.active').removeClass('active');
+    var filterValue = $( this ).attr('data-menu');
+    $( this ).parent().addClass('active');
+    $grid.shuffle('shuffle', function($el, shuffle) {
+      if(filterValue == 'composer' || filterValue == 'performer') {
+        return $el.hasClass(filterValue);
+      } else {
+        return true;
+      }
+    });
+  });
+});
 </script>
