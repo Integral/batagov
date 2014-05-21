@@ -649,3 +649,18 @@ div.links {
 	top: -30px;
 	height: 40px;
 }
+
+/* words */
+
+.words-page h1.title {
+  font-size: 30px;
+}
+
+div.subtitle {
+  font-weight: 200;
+  font-style: italic;
+  font-size: 16px;
+  width: 510px;
+  float: left;
+  padding-bottom: 30px;
+}
