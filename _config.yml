@@ -173,6 +173,12 @@ prose:
           label: "Subtitle"
           value: ""
           placeholder: "short description"
+      - name: "source"
+        field:
+          element: "text"
+          label: "Source"
+          value: ""
+          placeholder: "source of publication"
       - name: "year"
         field:
           element: "text"
