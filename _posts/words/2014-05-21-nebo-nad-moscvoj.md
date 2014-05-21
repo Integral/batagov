@@ -7,7 +7,7 @@ type: text
 lang: ru
 source: "Facebook, 8 декабря 2013"
 year: "2013"
-permalink: "/ru/words/concert-bg-60"
+permalink: "/ru/words/nebo-nad-moscvoj"
 ---
 
 Концерт БГ в Москве.
