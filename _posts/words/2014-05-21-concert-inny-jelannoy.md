@@ -45,8 +45,8 @@ permalink: "/ru/words/concert-inny-jelannoy"
 
 обжигающе-горячая
 
-Зима.
-
+Зима.  
+  
   
   
 Инна, спасибо.
