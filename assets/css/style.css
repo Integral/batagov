@@ -656,11 +656,15 @@ div.links {
   font-size: 30px;
 }
 
-div.subtitle {
+.words-page div.subtitle {
   font-weight: 200;
   font-style: italic;
   font-size: 16px;
   width: 510px;
   float: left;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
+}
+.words-page div.source {
+  font-style: italic;
+  padding: 20px 0px;
 }
