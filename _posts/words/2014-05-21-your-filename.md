@@ -2,7 +2,7 @@
 published: true
 layout: words
 category: words
-title: ""
+title: Маркус Ройтер / Намгар / Радик Тюлюш.
 type: text
 lang: en
 ---
