@@ -153,6 +153,67 @@ prose:
         field:
           element: "hidden"
           value: "true"
+    _posts/words:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "words"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "words"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "subtitle"
+        field:
+          element: "text"
+          label: "Subtitle"
+          value: ""
+          placeholder: "short description"
+      - name: "year"
+        field:
+          element: "text"
+          label: "Year"
+          value: ""
+      - name: "type"
+        field:
+          element: "select"
+          label: "Type"
+          options:
+            - name: 'Text'
+              value: 'text'
+            - name: 'About'
+              value: 'about'
+            - name: 'Interview'
+              value: 'interview'
+            - name: 'Other'
+              value: 'other'
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
+      - name: "lang"
+        field:
+          element: "select"
+          label: "Language"
+          options:
+            - name: 'English'
+              value: 'en'
+            - name: 'Russian'
+              value: 'ru'
+      - name: "l10n"
+        field:
+          element: "text"
+          label: "Translation"
+          value: ""
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
     _posts/static:
       - name: "category"
         field:
