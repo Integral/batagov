@@ -10,7 +10,7 @@ year: "2013"
 permalink: "/ru/words/nebo-nad-moscvoj"
 ---
 
-![](/assets/media/sky111213.jpg)
+![](/batagov/assets/media/sky111213.jpg)
 
 Вот такое сегодня небо над г.Москва.
 
