@@ -2,14 +2,42 @@
 layout: default_ru
 permalink: /ru/words/
 ---
-
-<div class="clearfix words">
 {% for post in site.categories.words  %}
+{% if post.lang == 'ru' %}
+<div class="clearfix words">
+  <h3 class="section-title">Избранные тексты А.Б.</div>
+  {% if post.type == 'text' %}
 	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
     	<div class="title">{{ post.title }}</div>
 	</a>
-{% endfor %}
+  {% endif %}
 </div>
+<div class="clearfix words">
+  <h3 class="section-title">Избранные тексты про А.Б.</div>
+  {% if post.type == 'about' %}
+  <a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
+      <div class="title">{{ post.title }}</div>
+  </a>
+  {% endif %}
+</div>
+<div class="clearfix words">
+  <h3 class="section-title">Избранные интервью</div>
+  {% if post.type == 'interview' %}
+  <a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
+      <div class="title">{{ post.title }}</div>
+  </a>
+  {% endif %}
+</div>
+<div class="clearfix words">
+  <h3 class="section-title">Другое/div>
+  {% if post.type == 'other' %}
+  <a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
+      <div class="title">{{ post.title }}</div>
+  </a>
+  {% endif %}
+</div>
+{% endif %}
+{% endfor %}
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js"></script>
 <script type="text/javascript" src="http://integral.github.io/batagov/assets/js/libs/shuffle/jquery.shuffle.min.js"></script>
 <script>
