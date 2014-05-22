@@ -5,8 +5,8 @@ category: words
 title: "Музыка для 35 будд. Рецензия"
 type: about
 lang: ru
-year: "2013"
-permalink: "/ru/words/tayatha-timeout"
+year: "2012"
+permalink: "/ru/words/35buddhas-review"
 ---
 
 ##Диск недели: Антон Батагов. "Музыка для 35 будд"
