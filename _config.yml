@@ -7,7 +7,7 @@ kramdown:
 prose:
   rooturl: '_posts'
   siteurl: 'http://integral.github.io/batagov'
-  media: '{{ site.baseurl }}/assets/media'
+  media: 'assets/media'
   metadata:
     _posts/records:
       - name: "category"
