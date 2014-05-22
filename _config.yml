@@ -1,24 +1,32 @@
-baseurl: ''
+baseurl: 'http://integral.github.io/batagov'
 permalink: pretty
-markdown: rdiscount
+markdown: kramdown
+kramdown:
+  remove_block_html_tags: false
+  html_to_native: true
 prose:
-  rooturl: ''
-  siteurl: ''
+  rooturl: '_posts'
+  siteurl: 'http://integral.github.io/batagov'
   media: 'assets/media'
   metadata:
     _posts/records:
       - name: "category"
         field:
           element: "hidden"
-          value: "discography"
+          value: "records"
       - name: "layout"
         field:
           element: "hidden"
-          value: "default"
+          value: "record"
       - name: "title"
         field:
           element: "text"
           label: "Title"
+          value: ""
+      - name: "year"
+        field:
+          element: "text"
+          label: "Year"
           value: ""
       - name: "description"
         field:
@@ -26,15 +34,30 @@ prose:
           label: "Description"
           value: ""
           placeholder: "short description"
-      - name: "art_thumb"
+      - name: "artwork"
         field:
           element: "text"
-          label: "Artwork thumbnail"
+          label: "Artwork url"
+          value: ""
+      - name: "thumbnail"
+        field:
+          element: "text"
+          label: "Thumbnail url"
+          value: ""
+      - name: "buy"
+        field:
+          element: "text"
+          label: "Buy record url"
+          value: ""
+      - name: "itunes"
+        field:
+          element: "text"
+          label: "Itunes url"
           value: ""
       - name: "type"
         field:
           element: "select"
-          label: "Composer"
+          label: "Type"
           options:
             - name: 'Composer'
               value: 'composer'
@@ -45,18 +68,203 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
-    _posts/static:
+      - name: "lang"
+        field:
+          element: "select"
+          label: "Language"
+          options:
+            - name: 'English'
+              value: 'en'
+            - name: 'Russian'
+              value: 'ru'
+      - name: "l10n"
+        field:
+          element: "text"
+          label: "Translation"
+          value: ""
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
+    _posts/live:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "live"
       - name: "layout"
         field:
           element: "hidden"
-          value: "default"
+          value: "live"
       - name: "title"
         field:
           element: "text"
           label: "Title"
           value: ""
+      - name: "year"
+        field:
+          element: "text"
+          label: "Year"
+          value: ""
+      - name: "description"
+        field:
+          element: "text"
+          label: "Description"
+          value: ""
+          placeholder: "short description"
+      - name: "artwork"
+        field:
+          element: "text"
+          label: "Artwork url"
+          value: ""
+      - name: "thumbnail"
+        field:
+          element: "text"
+          label: "Thumbnail url"
+          value: ""
+      - name: "type"
+        field:
+          element: "select"
+          label: "Type"
+          options:
+            - name: 'Video'
+              value: 'video'
+            - name: 'Audio'
+              value: 'audio'
       - name: "permalink"
         field:
           element: "text"
           label: "Permalink"
           value: ""
+      - name: "lang"
+        field:
+          element: "select"
+          label: "Language"
+          options:
+            - name: 'English'
+              value: 'en'
+            - name: 'Russian'
+              value: 'ru'
+      - name: "l10n"
+        field:
+          element: "text"
+          label: "Translation"
+          value: ""
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
+    _posts/words:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "words"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "words"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "subtitle"
+        field:
+          element: "text"
+          label: "Subtitle"
+          value: ""
+          placeholder: "short description"
+      - name: "source"
+        field:
+          element: "text"
+          label: "Source"
+          value: ""
+          placeholder: "source of publication"
+      - name: "year"
+        field:
+          element: "text"
+          label: "Year"
+          value: ""
+      - name: "type"
+        field:
+          element: "select"
+          label: "Type"
+          options:
+            - name: 'Text'
+              value: 'text'
+            - name: 'About'
+              value: 'about'
+            - name: 'Interview'
+              value: 'interview'
+            - name: 'Other'
+              value: 'other'
+      - name: "redirect"
+        field:
+          element: "text"
+          label: "Redirect"
+          value: ""
+          placeholder: "link to external article"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
+      - name: "lang"
+        field:
+          element: "select"
+          label: "Language"
+          options:
+            - name: 'English'
+              value: 'en'
+            - name: 'Russian'
+              value: 'ru'
+      - name: "l10n"
+        field:
+          element: "text"
+          label: "Translation"
+          value: ""
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
+    _posts/static:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "static"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "static"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "menu"
+        field:
+          element: "text"
+          label: "Menu"
+          value: ""     
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
+      - name: "lang"
+        field:
+          element: "select"
+          label: "Language"
+          options:
+            - name: 'English'
+              value: 'en'
+            - name: 'Russian'
+              value: 'ru'
+      - name: "l10n"
+        field:
+          element: "text"
+          label: "Translation"
+          value: ""
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
