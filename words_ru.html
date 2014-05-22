@@ -2,44 +2,46 @@
 layout: default_ru
 permalink: /ru/words/
 ---
-{% for post in site.categories.words  %}
-{% if post.lang == 'ru' %}
 <div class="clearfix words">
   <h3 class="section-title">Избранные тексты А.Б.</div>
-  {% if post.type == 'text' %}
+  {% for post in site.categories.words  %}
+  {% if post.type == 'text' and post.lang == 'ru' %}
 	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
     	<div class="title">{{ post.title }}</div>
 	</a>
   {% endif %}
+  {% endfor %}
 </div>
 <div class="clearfix words">
   <h3 class="section-title">Избранные тексты про А.Б.</div>
-  {% if post.type == 'about' %}
+  {% for post in site.categories.words  %}
+  {% if post.type == 'about' and post.lang == 'ru' %}
   <a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
       <div class="title">{{ post.title }}</div>
   </a>
   {% endif %}
+  {% endfor %}
 </div>
 <div class="clearfix words">
   <h3 class="section-title">Избранные интервью</div>
-  {% if post.type == 'interview' %}
+  {% for post in site.categories.words  %}
+  {% if post.type == 'interview' and post.lang == 'ru' %}
   <a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
       <div class="title">{{ post.title }}</div>
   </a>
   {% endif %}
+  {% endfor %}
 </div>
 <div class="clearfix words">
-  <h3 class="section-title">Другое/div>
-  {% if post.type == 'other' %}
+  <h3 class="section-title">Другое</div>
+  {% for post in site.categories.words  %}
+  {% if post.type == 'other' and post.lang == 'ru' %}
   <a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
       <div class="title">{{ post.title }}</div>
   </a>
   {% endif %}
+  {% endfor %}
 </div>
-{% endif %}
-{% endfor %}
-<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js"></script>
-<script type="text/javascript" src="http://integral.github.io/batagov/assets/js/libs/shuffle/jquery.shuffle.min.js"></script>
 <script>
 $('li.words a').addClass('active');
 $('dl.words').show();
