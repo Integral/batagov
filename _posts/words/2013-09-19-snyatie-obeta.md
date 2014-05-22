@@ -11,4 +11,4 @@ redirect: "http://www.vedomosti.ru/lifestyle/news/16529791/snyatie-obeta#sel=7:1
 permalink: "/ru/words/snyatie-obeta"
 ---
 
-см [{{ post.redirect }}]({{ post.redirect }})
+см [{{ page.redirect }}]({{ page.redirect }})
