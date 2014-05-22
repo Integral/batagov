@@ -1,0 +1,18 @@
+---
+layout: default
+permalink: /ru/words/
+---
+
+<div class="clearfix words">
+{% for post in site.categories.words  %}
+	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
+    	<div class="title">{{ post.title }}</div>
+	</a>
+{% endfor %}
+</div>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js"></script>
+<script type="text/javascript" src="http://integral.github.io/batagov/assets/js/libs/shuffle/jquery.shuffle.min.js"></script>
+<script>
+$('li.words a').addClass('active');
+$('dl.words').show();
+</script>

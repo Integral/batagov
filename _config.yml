@@ -197,6 +197,12 @@ prose:
               value: 'interview'
             - name: 'Other'
               value: 'other'
+      - name: "redirect"
+        field:
+          element: "text"
+          label: "Redirect"
+          value: ""
+          placeholder: "link to external article"
       - name: "permalink"
         field:
           element: "text"
