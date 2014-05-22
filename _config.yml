@@ -5,9 +5,9 @@ kramdown:
   remove_block_html_tags: false
   html_to_native: true
 prose:
-  rooturl: ''
+  rooturl: '_posts'
   siteurl: 'http://integral.github.io/batagov'
-  media: '{{ site.baseurl }}/assets/media'
+  media: 'media'
   metadata:
     _posts/records:
       - name: "category"
