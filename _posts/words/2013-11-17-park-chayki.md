@@ -3,7 +3,7 @@ published: true
 layout: words
 category: words
 title: Парк. Чайки.
-type: text
+type: about
 lang: ru
 subtitle: Концерт АБ в Константиновском дворце
 year: "2013"
