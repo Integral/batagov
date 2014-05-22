@@ -10,8 +10,8 @@ year: "2013"
 permalink: "/ru/words/park-chayki"
 ---
 
-![konst magia kino.jpg](/{{ site.baseurl }}/assets/media/konst magia kino.jpg)
-![konst park.jpg](/{{ site.baseurl }}/assets/media/konst park.jpg)
+![konst magia kino.jpg]({{ site.baseurl }}/assets/media/konst magia kino.jpg)
+![konst park.jpg]({{ site.baseurl }}/assets/media/konst park.jpg)
 
 Когда я работала журналистом, Тарханов, редактируя, часто говорил: "в заметке должна быть максимум одна мысль".  
 
