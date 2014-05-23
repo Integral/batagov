@@ -100,14 +100,14 @@ div.main {text-align: center;}
 #logo .description {
   position: relative;
   top: -5px;
-  font: 100 60px "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #cecece;
+  font: 100 58px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #a3a3a3;
   line-height: .75;
 }
 
 #logo .caption {
   font: 200 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #C9C9C9;
+  color: #a3a3a3;
   line-height: .75;
   text-transform: uppercase;
   width: 500px;
