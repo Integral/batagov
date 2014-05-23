@@ -12,5 +12,6 @@ layout: none
 <script>
 $('li.discography a').addClass('active');
 $('dl.discography').show();
+$('dl.discography a[data-menu="{{ page.type }}"]').parent().addClass('active');
 </script>
 {% include footer.html %}
