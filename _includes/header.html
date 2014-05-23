@@ -45,5 +45,5 @@
 			</dl>
 		</section>
 		<section id="l10n">
-			<a href="{{ site.baseurl }}{{ page.l10n }}">рус</a> / <span class="active">eng</span>
+			<a href="% if page.l10n %}{{ site.baseurl }}{{ page.l10n }}{% else %}{{ site.baseurl }}/ru{% endif %}">рус</a> / <span class="active">eng</span>
 		</section>
