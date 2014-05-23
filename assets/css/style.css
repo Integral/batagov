@@ -671,6 +671,9 @@ a.item div.subtitle {
   font-style: italic;
 }
 
+div.article {width:470px; float: left;}
+div.post-year {width:470px; float: right;}
+
 .words-page h1.title {
   font-size: 30px;
 }
