@@ -1,7 +1,7 @@
 ---
+published: true
 layout: record
 category: records
-published: true
 title: Избранные письма Сергея Рахманинова
 type: composer
 description: Фортепианный цикл
@@ -11,6 +11,7 @@ permalink: /ru/records/2013/rachmaninoff
 artwork: "http://batagov.s3.amazonaws.com/records/artwork/rachmaninoff.png"
 buy: "http://fancymusic.ru/anton-batagov-selected-letters-of-sergei-rachmaninoff/"
 lang: ru
+l10n: /en/records/2013/rachmaninoff
 ---
 
 - У могилы Рахманинова (кладбище Кенсико, Валхалла, штат Нью-Йорк) [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=lKmYqfQxAdY)
