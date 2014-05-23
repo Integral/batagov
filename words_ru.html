@@ -6,7 +6,7 @@ permalink: /ru/words/
   <h2 id="text" class="section-title">Избранные тексты А.Б.</h2>
   {% for post in site.categories.words  %}
   {% if post.type == 'text' and post.lang == 'ru' %}
-	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
+	<a href="{% if page.redirect %}{{ page.redirect }}{% else %}{{ site.baseurl }}{{ post.url }}{% endif %}" class="item {{ post.type }}" class="item {{ post.type }}" data-year="{{ post.year }}">
     	<div class="article">
         <div class="title">{{ post.title }}</div>
         <div class="subtitle">{{ post.subtitle }}</div>
@@ -20,7 +20,7 @@ permalink: /ru/words/
   <h2 id="about" class="section-title">Избранные тексты про А.Б.</h2>
   {% for post in site.categories.words  %}
   {% if post.type == 'about' and post.lang == 'ru' %}
-  <a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
+  <a href="{% if page.redirect %}{{ page.redirect }}{% else %}{{ site.baseurl }}{{ post.url }}{% endif %}" class="item {{ post.type }}" data-year="{{ post.year }}">
       <div class="article">
         <div class="title">{{ post.title }}</div>
         <div class="subtitle">{{ post.subtitle }}</div>
@@ -34,7 +34,7 @@ permalink: /ru/words/
   <h2 id="interview" class="section-title">Избранные интервью</h2>
   {% for post in site.categories.words  %}
   {% if post.type == 'interview' and post.lang == 'ru' %}
-  <a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
+  <a href="{% if page.redirect %}{{ page.redirect }}{% else %}{{ site.baseurl }}{{ post.url }}{% endif %}" class="item {{ post.type }}" class="item {{ post.type }}" data-year="{{ post.year }}">
       <div class="article">
         <div class="title">{{ post.title }}</div>
         <div class="subtitle">{{ post.subtitle }}</div>
@@ -48,7 +48,7 @@ permalink: /ru/words/
   <h2 id="other" class="section-title">Другое</h2>
   {% for post in site.categories.words  %}
   {% if post.type == 'other' and post.lang == 'ru' %}
-  <a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
+  <a href="{% if page.redirect %}{{ page.redirect }}{% else %}{{ site.baseurl }}{{ post.url }}{% endif %}" class="item {{ post.type }}" class="item {{ post.type }}" data-year="{{ post.year }}">
       <div class="article">
         <div class="title">{{ post.title }}</div>
         <div class="subtitle">{{ post.subtitle }}</div>

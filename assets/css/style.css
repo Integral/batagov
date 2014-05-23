@@ -596,6 +596,8 @@ ul.menu > li > a.active {
 
 ul.menu > li > a.active:after {
 	content:" →";
+  left: 5px;
+  position: relative;
 }
 
 dl.sub {
