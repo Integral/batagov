@@ -664,6 +664,13 @@ section.live-page iframe { padding-top: 20px; }
 
 /* words */
 
+a.item {color: #858585;}
+
+a.item div.subtitle {
+  font-size: 12px;
+  font-style: italic;
+}
+
 .words-page h1.title {
   font-size: 30px;
 }
