@@ -2,95 +2,91 @@
 layout: record
 category: records
 published: true
-title: "The Musicmaker's Contract"
+title: "Контракт сочиняльщика"
 type: composer
 year: "2007"
-description: NTV/NTV+ channels greatest hits
-permalink: "/en/records/2007/the-musicmakers-contract"
+description: музыка для телеканалов НТВ и НТВ+
+permalink: "/ru/records/2007/the-musicmakers-contract"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/contract.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/contract.jpg"
-lang: en
-l10n: /ru/records/2007/the-musicmakers-contract
+lang: ru
+l10n: /en/records/2007/the-musicmakers-contract
 ---
 
-- non-special report 0:08 
-- tomorrow 1:31 
-- a girl and a ball 0:12 
-- "total": foreword 1:40 
-- weather report: summer 1997 2:02 
-- horror 0:16 
-- drama 0:18 
-- comedy 0:17 
-- action 0:18 
-- fiction 0:19 
-- thriller 0:17 
-- western 0:17 
-- fairy tale 0:17 
-- russian century 1:51 
-- a girl and doves 0:12 
-- today 0:18 
-- today: what happened 2:39 
-- a man and a fish 0:12 
-- made in hollywood 1:47 
-- a squirrel 0:13 
-- [tomorrow's weather 1:50](http://batagov.s3.amazonaws.com/records/sounds/weather.mp3){: .audio}
-- strongman 0:12 
-- "total" at 9 pm 1:45 
-- girls with drums 0:12 
-- what's the movie? 1:45 
-- unknown russia 0:17 
-- at home with... 1:19 
-- big money 0:17 
-- countdown to 2000 1:52
-- a bear 0:12 
-- about "that" 0:22 
+- неспециальный репортаж 0:08 
+- завтра 1:31 
+- девушка и шар 0:12 
+- итоги: предисловие 1:40 
+- погода летом 1997 года 2:02 
+- ужасы 0:16 
+- драма 0:18 
+- комедия 0:17 
+- боевик 0:18 
+- фантастика 0:19 
+- триллер 0:17 
+- вестерн 0:17 
+- сказка 0:17 
+- русский век 1:51 
+- девушка и голуби 0:12 
+- сегоднячко 0:18 
+- сегоднячко: что было 2:39 
+- человек и рыба 0:12 
+- сделано в голливуде 1:47 
+- белка 0:13 
+- [погода на завтречко 1:50](http://batagov.s3.amazonaws.com/records/sounds/weather.mp3){: .audio}
+- силач 0:12 
+- итоги в 21:00 1:45 
+- девушки с барабанами 0:12 
+- угадай кино 1:45 
+- неизвестная россия 0:17 
+- без галстука 1:19 
+- большие деньги 0:17 
+- до 2000 года осталось... 1:52 
+- медведь 0:12
+- про это 0:22
 - kremlin drive 4:13
-- a boy opening a door 0:13 
-- autumn 0:31 
-- a rabbit 0:13 
-- the court is in session 0:46 
-- today: hot off the press 0:12 
-- night channel 1:04 
-- a man and a satellite 0:12 
-- voluntary confession 1:41
-- cats 0:12 
-- weather report: autumn 1997 2:02 
-- a sea-lion 0:12 
-- culture for the masses 0:24
-- sport news 0:33 
-- green globe 0:33
-- strolling around moscow 1:41 
-- the wedding 0:49 
-- a boy pretending he is an angel 0:12 
-- next up in "total" 2:25 
-- an eagle 0:13 
-- [vintage tv 1:36](http://batagov.s3.amazonaws.com/records/sounds/vintage_tv.mp3){: .audio}
+- мальчик, открывающий дверь 0:13
+- осень 0:31 
+- кролик 0:13 
+- суд идет 0:46 
+- сегоднячко: прямо с колес 0:12 
+- ночной канал 1:04 
+- человек и спутник 0:12 
+- чистосердечное признание 1:41 
+- коты 0:12 
+- погода осенью 1997 года 2:02 
+- морской котик 0:12 
+- культпросвет 0:24 
+- спорт 0:33 
+- зеленый шар 0:33
+- прогулки по москве 1:41 
+- свадьба 0:49 
+- мальчик, изображающий ангела 0:12
+- далее в "итогах" 2:25 
+- орел 0:13
+- [старый телевизор 1:36](http://batagov.s3.amazonaws.com/records/sounds/vintage_tv.mp3){: .audio}
 {: .playlist}
 
-total time 48:55  
+общее время 48:55  
 
-written and recorded in 1997-98  
-cd version edited and mastered in march 2005  
+сочинено и записано в 1997-98 г.  
+редакция и мастеринг cd-версии сделаны в марте 2005 г.  
   
-artwork: Nick Shtok  
-pictures from the original design of the NTV channel: Yelena Kitaeva, Andrei Shelutto  
+дизайн: Николай Шток  
+фрагменты оформления НТВ: Елена Китаева, Андрей Шелютто  
 
 © 2007 Long Arms Records / Tummo CDLA 07088
 
-In the spring of 1997 Russia's NTV channel offered me the position of chief composer. This position required me to write original music for all the channel's productions, ie. music which appears in and between the programs. The duration of all this material was between 3 and 30 seconds, although some tunes were longer (one minute and more): for titles, weather reports, news, and other important events.  
+Весной 1997 года меня пригласили поработать композитором в телекомпанию НТВ. В мои обязанности входило сочинение всей той музыки, которая на телевидении именуется музыкальным оформлением, т.е. звучит в передачах и заполняет так называемое межпрограммное пространство. Длительность всевозможных заставок, шапок, отбивок и других тому подобных произведений варьируется в интервале от 3 до 30 секунд. Бывают, правда, и очень длинные: минута и более – для титров, прогнозов погоды, анонсов, обзоров новостей и прочих важных событий.
 
-It was not an easy decision to accept this offer as it demanded that I confront myself about certain basic issues:  
-- what is my profession, what are the frames of this profession?  
-- what is my music style and language, what is the limit to which I can expand them without losing my identity?  
-- where is the border between art and commercialism?  
-I had before raised these questions in various situations. At the beginning of my career, I was a classical pianist, then – a pianist playing mostly XX century music, then an avant-garde pianist and an avant-garde/minimalist composer, and after this, a post-minimalist composer who sometimes wrote also music for the theatre, movies, and non-commercial TV projects. At every change I had to answer differently the question "What am I doing?"  
-But this time I had to gather all the above-mentioned identities, pass them through the food processor, and see what came out.  
+Согласиться на это предложение было для меня непростым шагом. Прежде всего потому, что я должен был в очередной раз поставить перед собой ряд основных вопросов:
+- кто я по профессии, и каковы рамки этой профессии?
+- что такое мой музыкальный стиль и язык, и до каких пределов можно его расширять, оставаясь при этом "собой"?
+- где граница между искусством и коммерцией?
 
-I accepted the offer, and was the chief NTV channel composer for about a year and a half. During that period I wrote more than 500 tunes.  
+Раньше я уже ставил перед собой подобные вопросы в различных ситуациях. Я был классическим пианистом, потом – пианистом, который играет в основном музыку ХХ века, потом – пианистом-авангардистом и композитором-авангардистом-минималистом, потом – композитором-постминималистом, который иногда сочиняет также музыку для театра, кино и "неформатных" телепередач, и каждый раз мне приходилось по-другому отвечать на вопрос "чем я занимаюсь". Но, похоже, на сей раз мне предстояло собрать вместе всё вышеперечисленное, пропустить через кухонный комбайн и посмотреть, что из этого получится.
 
-It turned out that in addition to the musical output, this job also had some philosophical results. When you are writing something "serious" (all composers think like this) you are worried about preserving the features of your style and the uniqueness of your individuality. A TV job has a different goal and a different mode: it is momentary by definition, like today's news which will be yesterday's tomorrow. The fruits of this creative activity penetrate into the viewers' ears day and night, and leave imprints on their minds. However, within a year the entire design of a TV channel will be thrown away and replaced with a new one.  
+Итак, я принял предложение, после чего занимал должность штатного телекомпозитора НТВ около полутора лет. За это время было сочинено более 500 вещей. Как выяснилось, кроме музыкального результата у этой работы был и другой, если угодно, философский смысл. Когда сочиняешь нечто "серьезное", несиюминутное (композиторам всегда так кажется), то заботишься о том, чтобы сохранить узнаваемость своего стиля и неповторимость своей индивидуальности. У телевизионной работы другая задача и другой режим: она по определению сиюминутна, как новости, которые завтра уже будут вчерашними. Плоды этого творчества с утра до ночи лезут в уши телезрителей и отпечатываются в сознании, зато через год оформление телеканала будет выкинуто в помойку и заменено на новое. Поэтому в этом деле необходима спонтанность и умение мгновенно перевоплощаться и смотреть на себя и на происходящее с разных сторон. И тут вдруг выясняется, что музыкальная пьеса длиной 15 секунд – абсолютно полноценна. За это время можно успеть сказать о главном, а остальное просто не нужно. Когда после этого пишешь двухминутную вещь, то время выстраивается уже иначе: этих двух минут теперь хватает для "полнометражной" медитации. А тяжелые сомнения на тему "серьезность-несерьезность", "свое-чужое", "я-не я" на мгновение повисают в воздухе и исчезают навсегда, как пейзажи, созерцаемые из окна скорого поезда. Мы сидим и смотрим в это окно-телеэкран, а там постоянно мелькают события и люди, и нет ни малейшей возможности отличить так называемую реальность от так называемого вымысла. Поэтому остается только один выход: расслабиться и медитировать на полном ходу. Тогда всё происходящее в телевизоре, а заодно и все музыкально-стилистические приключения композитора NN предстанут перед нами в своем истинном виде: в виде абсолютной, никуда не спешащей, ни к чему не стремящейся, никому не принадлежащей, очень красивой полной пустоты.
 
-Because of this, this job demands spontaneity and an ability to change one's "dress" momentarily, and see oneself and the whole picture from different perspectives. Suddenly I discovered that a 15-second piece of music could be a fully complete work in itself. It is enough to articulate the essence, and there is nothing to add. After that, when you are writing a two-minute piece, you structure this span in a different manner: these two minutes are now enough for a full-length meditation. And all your hard scruples about "serious/not serious", "my work/somebody else's", "me/not me" flash in the air for a second and disappear forever like landscapes being observed from a fast train's window. We sit and look out of this window/TV screen and watch the events and people running rapidly and switching between one another, and there is no chance to distinguish between so-called reality and so-called fiction. So we have only one choice: we must relax and try to meditate at full speed. And then we shall see all the TV pictures as well as all the composer NN's stylistic adventures in their natural form: in the form of emptiness which never hurries, never wants to achieve something, never belongs to anybody, and which is simply beautiful and ultimate.
-
-_Anton Batagov, may 2007  
-(english translation by A.B. edited by Peter Ringwood)_
+ 
+_А.Б., май 2007_
