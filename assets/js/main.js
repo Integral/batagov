@@ -22,9 +22,3 @@ $(function(){
     }
   })
 })
-
-$(window).load(function(){
-    $('#l10n img').BlackAndWhite({
-        hoverEffect : true,
-    });
-});
