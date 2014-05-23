@@ -3,7 +3,7 @@ layout: default_ru
 permalink: /ru/words/
 ---
 <div class="clearfix words">
-  <h2 id="text" class="section-title">Избранные тексты А.Б.</div>
+  <h2 id="text" class="section-title">Избранные тексты А.Б.</h2>
   {% for post in site.categories.words  %}
   {% if post.type == 'text' and post.lang == 'ru' %}
 	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
@@ -17,31 +17,43 @@ permalink: /ru/words/
   {% endfor %}
 </div>
 <div class="clearfix words">
-  <h2 id="about" class="section-title">Избранные тексты про А.Б.</div>
+  <h2 id="about" class="section-title">Избранные тексты про А.Б.</h2>
   {% for post in site.categories.words  %}
   {% if post.type == 'about' and post.lang == 'ru' %}
   <a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
-      <div class="title">{{ post.title }}</div>
+      <div class="article">
+        <div class="title">{{ post.title }}</div>
+        <div class="subtitle">{{ post.subtitle }}</div>
+      </div>
+      <div class="post-year">{{ post.year }}</div>
   </a>
   {% endif %}
   {% endfor %}
 </div>
 <div class="clearfix words">
-  <h2 id="interview" class="section-title">Избранные интервью</div>
+  <h2 id="interview" class="section-title">Избранные интервью</h2>
   {% for post in site.categories.words  %}
   {% if post.type == 'interview' and post.lang == 'ru' %}
   <a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
-      <div class="title">{{ post.title }}</div>
+      <div class="article">
+        <div class="title">{{ post.title }}</div>
+        <div class="subtitle">{{ post.subtitle }}</div>
+      </div>
+      <div class="post-year">{{ post.year }}</div>
   </a>
   {% endif %}
   {% endfor %}
 </div>
 <div class="clearfix words">
-  <h2 id="other" class="section-title">Другое</div>
+  <h2 id="other" class="section-title">Другое</h2>
   {% for post in site.categories.words  %}
   {% if post.type == 'other' and post.lang == 'ru' %}
   <a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
-      <div class="title">{{ post.title }}</div>
+      <div class="article">
+        <div class="title">{{ post.title }}</div>
+        <div class="subtitle">{{ post.subtitle }}</div>
+      </div>
+      <div class="post-year">{{ post.year }}</div>
   </a>
   {% endif %}
   {% endfor %}

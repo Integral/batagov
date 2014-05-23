@@ -664,14 +664,14 @@ section.live-page iframe { padding-top: 20px; }
 
 /* words */
 
-a.item {color: #858585;}
+a.item {color: #858585; display: block;}
 
 a.item div.subtitle {
   font-size: 12px;
   font-style: italic;
 }
 
-div.article {width:470px; float: left;}
+div.article {width:470px; float: left;padding-bottom: 10px;}
 div.post-year {float: right;}
 
 .words-page h1.title {
