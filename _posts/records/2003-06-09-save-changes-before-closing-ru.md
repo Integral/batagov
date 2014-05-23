@@ -6,11 +6,11 @@ title: "Save changes before closing?"
 type: composer
 year: "2003"
 description: ""
-permalink: "/en/records/2003/save-changes-before-closing"
+permalink: "/ru/records/2003/save-changes-before-closing"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/save.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/save.jpg"
-lang: en
-l10n: /ru/records/2003/save-changes-before-closing
+lang: ru
+l10n: /en/records/2003/save-changes-before-closing
 ---
 
 - open 7:40	 
@@ -27,12 +27,22 @@ l10n: /ru/records/2003/save-changes-before-closing
 
 © 2003 Strange Sounds Records / Tummo SSR 03005    
 
-don't raise your eyebrow -  
-the schizopointed star is crawling  
-above the cape of crashes  
-a disheveled wave  
-will hiss into your ear  
-its icy-electric  
-"yes"  
+В композиции 10 частей.  
+1-я часть - "Open". Минимализм, цирк, ритм, развитие, мотор!, декорации, титры.  
+Четные части называются буквами: a, b, c, d. Четыре абсолютно разных музыки: разные стили, жанры, инструменты.  
+Нечетные - цифрами. Четыре фазы развития одной и той же ритмической структуры для ударных инструментов. Суровый ритуал трансформации. Мы покидаем один иллюзорный мир, чтобы немедленно оказаться в другом, столь же иллюзорном.  
+10-я часть - "Close". Голоса, машины, поезда, самолеты, люди, рояль, океан.  
+  
+В правом (у Макинтоша в левом) верхнем углу окна - квадратик, а в нем крестик. Щелкнул по крестику мышью - и изволь   отвечать на вопрос "Save changes before closing?". Вариантов ответа три: Yes, No и Cancel. Но это только у компьютера!
 
-_Eugene Golovin_
+***
+ 	 
+не поднимайте бровь -   
+над мысом катастроф  
+ползет шизоконечная звезда  
+лохматая волна  
+нам в ухо прошипит  
+электро-ледяное  
+"да"  
+  
+_Евгений Головин_
