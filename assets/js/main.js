@@ -22,3 +22,17 @@ $(function(){
     }
   })
 })
+
+$(window).load(function(){
+    $('#l10n img').BlackAndWhite({
+        hoverEffect : true,
+        webworkerPath : false,
+        responsive:true,
+        invertHoverEffect: false,
+        intensity:1,
+        speed: { 
+            fadeIn: 200, 
+            fadeOut: 800 
+        }
+    });
+});
