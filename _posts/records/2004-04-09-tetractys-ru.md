@@ -2,51 +2,53 @@
 layout: record
 category: records
 published: true
-title: Tetractys
+title: Тетрактис
 type: composer
 year: "2004"
 description: OPUS POSTH Ensemble
-permalink: /en/records/2004/tetractys
+permalink: /ru/records/2004/tetractys
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/tetractys.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/tetractys.jpg"
-lang: en
-l10n: /ru/records/2004/tetractys
+lang: ru
+l10n: /en/records/2004/tetractys
 ---
-
-Director: Tatiana Grindenko  
 
 - [Tetractys](http://batagov.s3.amazonaws.com/records/sounds/tetractys.mp3){: .audio}
 {: .playlist} 
 
-Tatiana Grindenko violin  
-Elena Poluyanchenko violin  
-Ludmila Egorova viola  
-Vladimir Metelev viola  
-Nikita Kochergin cello  
-Igor Solokhin double bass   
+Ансамбль OPUS POSTH  
+руководитель Татьяна Гринденко  
+  
+Татьяна Гринденко: скрипка  
+Елена Полуянченко: скрипка  
+Людмила Егорова: альт  
+Владимир Метелев: альт  
+Никита Кочергин: виолончель  
+Игорь Солохин: контрабас  
+  
+  
+Сочинено осенью 2001 года  
+Записано в Малом Зале Московской Консерватории 19-20 октября 2003  
+Запись: Владимир Копцов  
+Сведение, монтаж и мастеринг: XMZ  
+Дизайн: Николай Шток  
+Продюсер: Николай Дмитриев  
+  
+Общее время 50:56   
+  
+© 2004 Long Arms Records / Tummo CDLA 04064   
 
-Written in the fall of 2001  
-Recorded at the Chamber Hall of the Moscow Conservatory, October 19th-20th, 2003  
-Recording: Vladimir Koptsov  
-Mixing, editing, mastering: XMZ  
-Artwork: Nick Shtok  
-Producer: Nick Dmitriev  
+Тетрактис Пифагора (пирамида из десяти точек) был символом огромной важности, потому что он открывал проницательному уму тайну мироздания. Пифагорейцы связывали себя следующей клятвой: "Клянусь именем Того, Кто даровал нам Тетрактис, в котором содержится исток и первопричина вечно живой вселенной".
 
-Total time 50:56  
+Согласно Пифагору, музыка находилась в подчинении у высшей из наук - математики, и ее гармонии жестко регулировались математическими пропорциями. Пифагорейцы утверждали, что математика демонстрирует точный метод сотворения вселенной и принцип ее функционирования. Числа, следовательно, стоят выше гармонии, так как их непреложные законы управляют всеми гармоническими пропорциями. Ключ к соотношениям обертонов скрыт в знаменитом тетрактисе. Тетрактис образован из первых четырех чисел: 1, 2, 3 и 4, а из их пропорций получаются такие интервалы, как октава, диапенте и диатессарон. Открыв эти соотношения, Пифагор посвятил своих последователей в это учение как в высшую тайну Мистерий.
 
-© 2004 Long Arms Records / Tummo CDLA 04064  
+Пифагор создал теорию гармонии, работая с монохордом, однострунным инструментом собственного изобретения. Он рассматривал вселенную как колоссальный монохорд, единственная струна которого прикреплена вверху к абсолютному духу, а внизу - к абсолютной материи. Иными словами, эта струна связывает земное с небесным.
 
-The ten dots, or tetractys of Pythagoras, was a symbol of the greatest
-importance, for to the discerning mind it revealed the mystery of universal nature. The Pythagoreans bound themselves by the following oath: "By Him who gave to our soul the tetractys, which hath the fountain and root of ever-springing nature."
-To Pythagoras music was one of the dependencies of the divine science of mathematics, and its harmonies were inflexibly controlled by mathematical proportions. The Pythagoreans averred that mathematics demonstrated the exact method by which the Good established and maintained its universe. Number therefore preceded harmony, since it was the immutable law that governs all harmonic proportions.
+Пифагорейцы давали названия различным нотам диатонической гаммы, исходя из расчетов скорости и величины небесных тел. Каждая из этих гигантских сфер, мчась сквозь бесконечное пространство, как полагали, издает звук определенной высоты, который возникает за счет непрерывного смещения эфирной пыли. Эти тоны есть манифестации небесного порядка и движения.
 
-The key to harmonic ratios is hidden in the famous tetractys. The tetractys is made up of the first four numbers - 1, 2, 3, and 4 - which in their proportions reveal the intervals of the octave, the diapente, and the diatessaron. After discovering these harmonic ratios, Pythagoras gradually initiated his disciples into this, the supreme arcanum of his Mysteries.
+Пифагорейцы верили, что всё, что существует, имеет голос, и что всё сущее вечно возносит хвалу Первоединому. Человек не в состоянии услышать эту изначальную музыку, потому что его душа запуталась в иллюзии материального существования. Когда он освободится от рабства низшего мира с его ограниченным чувственным восприятием, музыка сфер вновь станет слышна, как это было в Золотой Век. Две гармонии воссоединятся, и когда человеческая душа возвратится в свое истинное состояние, она не только услышит небесное пение, но и сольется с ним в вечнодлящемся гимне.
 
-Pythagoras worked out his theory of harmony from the monochord - a contrivance consisting of a single string stretched between two pegs and supplied with movable frets. Pythagoras conceived the universe to be an immense monochord, with its single string connected at its upper end to absolute spirit and at its lower end to absolute matter - in other words, a cord stretched between heaven and earth.
-
-The names given by the Pythagoreans to the various notes of the diatonic scale were derived from an estimation of the velocity and magnitude of the planetary bodies. Each of these gigantic spheres as it rushed endlessly through space was believed to sound a certain tone caused by its continuous displacement of the aethereal diffusion. These tones were a manifestation of divine order and motion.
-
-The Pythagoreans believed that everything which existed had a voice and that all creatures were eternally singing the praise of the Creator. Man fails to hear these divine melodies because his soul is enmeshed in the illusion of material existence. When he liberates himself from the bondage of the lower world with its sense limitations, the music of the spheres will again be audible as it was in the Golden Age. Harmony recognizes harmony, and when the human soul regains its true estate it will not only hear the celestial choir but also join with it in an everlasting anthem of praise.
-
-_Manly P.Hall  
-An Encyclopedic Outline of Masonic, Hermetic, Quabbalistic and Rosicrucian Symbolical Philosophy_
+  
+Мэнли П.Холл  
+_Энциклопедическое изложение масонской, герметической, каббалистической и_  
+_розенкрейцеровской символической философии_

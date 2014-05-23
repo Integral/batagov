@@ -2,47 +2,55 @@
 layout: record
 category: records
 published: true
-title: "From the Beginning up to the End"
+title: "С начала и до конца"
 type: composer
 year: "2004"
 description: ""
-permalink: "/en/records/2004/from-the-beginning-up-to-the-end"
+permalink: "/ru/records/2004/from-the-beginning-up-to-the-end"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/s_nachala.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/s_nachala.jpg"
-lang: en
-l10n: /ru/records/2004/from-the-beginning-up-to-the-end
+lang: ru
+l10n: /en/records/2004/from-the-beginning-up-to-the-end
 ---
 
-- from the beginning up to the end, episode 1 0:50	 
-- classical symphony 3:24	 
-- from the beginning up to the end, episode 2 3:55	 
-- the song 2:32	 
-- prepared piano factory 7:58	 
-- from the beginning up to the end, episode 3 3:23	 
-- knocking at the door 6:02	 
-- from the beginning up to the end, episode 4 2:41	 
-- [for dmitri pokrovsky 7:10](http://batagov.s3.amazonaws.com/records/sounds/for_Pokrovsky.mp3){: .audio}
-- [from the beginning up to the end, episode 5 1:50](http://batagov.s3.amazonaws.com/records/sounds/from_to_5.mp3){: .audio}	
+- с начала и до конца, эпизод 1 0:50	 
+- классическая симфония 3:24	 
+- с начала и до конца, эпизод 2 3:55	 
+- песня 2:32	 
+- фабрика по изготовлению подготовленных роялей 7:58	 
+- с начала и до конца, эпизод 3 3:23	 
+- стук в дверь 6:02	 
+- с начала и до конца, эпизод 4 2:41
+- [для дмитрия покровского 7:10](http://batagov.s3.amazonaws.com/records/sounds/for_Pokrovsky.mp3){: .audio}
+- [с начала и до конца, эпизод 5 1:50](http://batagov.s3.amazonaws.com/records/sounds/from_to_5.mp3){: .audio}	
 - coitus reservatus 7:03	 
-- promenade #4 5:54
+- прогулка №4 5:54
 {: .playlist} 
 
-Anton Batagov piano, prepared piano, samplers, synthesizers, voice  
-Leo Rubinstein text, voice  
-Natalia Pshenichnikova flute, voice  
-Nazar Kozhuhar violin  
-Dmitri Feygin cello  
-The Dmitri Pokrovsky Ensemble  
+Антон Батагов: рояль, подготовленный рояль, сэмплеры, синтезаторы, голос  
+Лев Рубинштейн: текст, голос  
+Наталья Пшеничникова: флейта, голос  
+Назар Кожухарь: скрипка  
+Дмитрий Фейгин: виолончель  
+Ансамбль Дмитрия Покровского  
+  
+дизайн: Николай Шток  
 
-1, 3, 6, 8, 10: composed in the summer of 1990, recorded in December, 1990 at the Alternativa festival  
-2, 7: composed and recorded in the fall of 1992 for the theater production of "A Dream Play" by August Strindberg directed by Maria Fridh (Stockholm, Sweden)  
-4: composed and recorded in the fall of 1996  
-5: composed and recorded in the summer of 1993  
-9: composed in the summer of 1995, recorded on June 21, 1996  
-(Dmitri Pokrovsky's last recording)  
-11: composed and recorded in the winter of 1996 for the tv series "Catch-22"  
-12: composed and recorded in the summer of 1991  
+1, 3, 6, 8, 10: сочинено летом 1990 г., записано в декабре 1990 г. на фестивале "Альтернатива"  
+2, 7: сочинено и записано осенью 1992 г. для спектакля "Игра снов" по пьесе А.Стриндберга в постановке Марии Фрид (Стокгольм, Швеция)  
+4: сочинено и записано зимой 1996 г.  
+5: сочинено и записано летом 1993 г.  
+9: сочинено летом 1995 г., записано 21 июня 1996 г. (Это последняя запись Дмитрия Покровского)  
+11: сочинено и записано зимой 1996 г. для телепрограммы "Уловка-22"  
+12: сочинено и записано летом 1991 г.  
+  
+редакция и мастеринг сделаны весной 2002 г.  
 
-edited and mastered in the spring of 2002  
-
+В этот альбом вошли избранные неизданные сочинения, написанные в 1990 - 96 г., и ставшие результатом сотрудничества с такими разными людьми, как поэт-концептуалист Лев 
+Рубинштейн, гениальный фольклорист Дмитрий Покровский, выдающиеся исполнители современной музыки Наталья Пшеничникова и Назар Кожухарь, шведский театральный режиссер 
+Мария Фрид и русский кино/телережиссер Иван Дыховичный. Альбом по-своему уникален: Вы услышите голос Рубинштейна и игру Пшеничниковой и Кожухаря, записанные на фестивале 
+"Альтернатива" в далеком 1990 г., услышите последнюю запись Покровского, сделанную 21 июня 1996 г. (29 июня он умер), услышите полную версию музыки к "эротическому выпуску" 
+телепрограммы "Уловка-22" с И.Дыховичным (1996 г.), и многое другое. Но этот диск - не "сборник". Все его компоненты отредактированы и выстроены в форме классического рондо, 
+так что из старого материала получилась новая по смыслу 12-частная композиция. Такая форма поможет слушателю найти баланс между разными стилями и состояниями, а одинокому "лирическому герою" она поможет не сбиться с курса в неустанных поисках несуществующей истины.  
+  
 © 2004 Long Arms Records / Tummo CDLA 04065  
