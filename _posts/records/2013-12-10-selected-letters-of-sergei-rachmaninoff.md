@@ -39,3 +39,5 @@ Rachmaninoff thus speaks to the composers that would come after him. Among compo
 We have long been accustomed to the fact that both early music and classical music are used as the building materials for new compositions. Time runs quickly, and we are already at the next turn of the spiral. Music written only a short while ago becomes itself material for today’s meditation. In this process, there are no quotations; there are only stylistic journeys in a time machine. The turns of this spiral resonate with one another, and we listen to the sounds they make.
 
 _Translation by William Quillen and AB_
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F91266614"></iframe>
