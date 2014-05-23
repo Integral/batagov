@@ -126,6 +126,10 @@ nav a {
   color: #858585;
 }
 
+#l10n {position: absolute; bottom: 30px;}
+#l10n img {height: 23px; padding: 3px;-webkit-filter: grayscale(100%);-moz-filter: grayscale(100%);filter: grayscale(100%);}
+#l10n span.active {border: 1px solid #cecece;}
+
 /* secondary page logo */
 
 .inner header {
