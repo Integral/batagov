@@ -11,5 +11,6 @@ layout: none
 <script>
 $('li.words a').addClass('active');
 $('dl.words').show();
+$('dl.words a[data-menu="{{ page.type }}"]').parent().addClass('active');
 </script>
 {% include footer.html %}

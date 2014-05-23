@@ -11,5 +11,6 @@ layout: none
 <script>
 $('li.live a').addClass('active');
 $('dl.live').show();
+$('dl.live a[data-menu="{{ page.type }}"]').parent().addClass('active');
 </script>
 {% include footer.html %}
