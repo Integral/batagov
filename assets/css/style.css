@@ -129,7 +129,7 @@ nav a {
 #l10n {position: absolute; bottom: 30px;}
 #l10n img {height: 23px; padding: 3px;-webkit-filter: grayscale(100%);-moz-filter: grayscale(100%);filter: grayscale(100%);}
 #l10n span.active img {border: 1px solid #cecece;}
-#l10n span.active a img {border: 1px solid #cecece;-webkit-filter: grayscale(0%);-moz-filter: grayscale(0%);filter: grayscale(0%);}
+#l10n a img:hover {border: 1px solid #cecece;-webkit-filter: grayscale(0%);-moz-filter: grayscale(0%);filter: grayscale(0%);}
 
 /* secondary page logo */
 
