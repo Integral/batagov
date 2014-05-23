@@ -2,35 +2,35 @@
 layout: record
 category: records
 published: true
-title: Bodhicharyāvatāra
+title: Бодхичарья-Аватара
 type: composer
 year: "2009"
-description: "The Way of the Bodhisattva, selected chapters from the poem by Shantideva"
-permalink: /en/records/2009/bodhicharyavatara
+description: "Путь Бодхисаттвы, избранные главы из поэмы Шантидевы"
+permalink: /ru/records/2009/bodhicharyavatara
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/bodhicharyavatara.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/bodhicharyavatara.jpg"
-lang: en
-l10n: /ru/records/2009/bodhicharyavatara
+lang: ru
+l10n: /en/records/2009/bodhicharyavatara
 ---
 
-music by Anton Batagov  
-chanted by Telo Tulku Rinpoche, _The Shajin-Lama of Kalmykia_
+музыка: Антон Батагов    
+пение: Тэло Тулку Ринпоче, _Шаджин-лама Калмыкии_
 
-- The Excellence of Bodhichitta (1st chapter) 11:33
-- [Adopting the Spirit of Awakening (3rd chapter) 9:48](http://batagov.s3.amazonaws.com/records/sounds/bodhicharyavatara%20excerpt1.mp3){: .audio}
-- The Practice of Patience (6th chapter) 24:55
-- [Dedication (10th chapter) 13:27](http://batagov.s3.amazonaws.com/records/sounds/bodhicharyavatara%20excerpt2.mp3){: .audio}
+- Хвала бодхичитте (глава первая) 11:33
+- [Зарождение бодхичитты (глава третья) 9:48](http://batagov.s3.amazonaws.com/records/sounds/bodhicharyavatara%20excerpt1.mp3){: .audio}
+- Учение о терпении (глава шестая) 24:55
+- [Посвящение (глава десятая) 13:27](http://batagov.s3.amazonaws.com/records/sounds/bodhicharyavatara%20excerpt2.mp3){: .audio}
 {: .playlist}
-Total time 60:06  
+Общее время 60:06  
 
-Composed and recorded in December 2008 – February 2009  
-Design and cover photo: Nick Shtok  
-The Boat photo by Hieromonk Damian  
-Photos of Telo Tulku Rinpoche by Igor Yancheglov  
-Photo of Anton Batagov by Alexei Maishev  
-Special thanks to: Andrian Melnikov, Galina Kubareva, Julia Zhironkina, Igor Gorely   
-
-This release has been made possible through the generous support of _Save Tibet Foundation_  
+Сочинено и записано в декабре 2008 – феврале 2009  
+Дизайн и фото на обложке: Николай Шток  
+Фото "Лодка": иеромонах Дамиан  
+Фото Тэло Тулку Ринпоче: Игорь Янчеглов  
+Фото Антона Батагова: Алексей Майшев  
+Спасибо: Андриану Мельникову, Галине Кубаревой, Юлии Жиронкиной, Игорю Горелому  
+  
+Издание осуществлено благодаря неоценимой поддержке фонда _"Сохраним Тибет!"_   
 
 © 2009 Tummo TCD 09017  
 
@@ -38,7 +38,9 @@ This release has been made possible through the generous support of _Save Tibet 
 ![](http://batagov.s3.amazonaws.com/records/artwork/ABmar09med.jpg)
 ![](http://batagov.s3.amazonaws.com/records/artwork/boat.jpg)  
 
-This 60-minute composition is based on selected chapters from the famous poem [BODHICHARYĀVATĀRA](http://www.batagov.com/slova/bodhicharyavatara_text_e.htm) (_The Way of the Bodhisattva_), composed by the eighth-century Indian master Shantideva. The vocal part is chanted by Telo Tulku Rinpoche, _The Shajin-Lama_ (Supreme Lama) of Kalmykia. At the age of seven he was recognized by the Dalai Lama as the current reincarnation of Tilopa (988 - 1069), a great Buddhist saint. Amazingly, Rinpoche's traditional Tibetan-style chanting sounds almost like a rock vocal. In the original music written by Anton Batagov, stylistic patterns from renaissance ballads and minimalism, Tibetan ritual music and rock, chamber/symphonic textures and modern jazz, constitute a seamless unity. Telo Tulku Rinpoche has said about the music: _"It's not just a meditation music. It's a real drama which leads a listener towards deeper understanding of a heroic path of the Bodhisattvas, those who vow to become enlightened in order to help all beings awaken into the state of freedom and fulfillment"_.  
+В основе этого 60-минутного сочинения – главы из поэмы "БОДХИЧАРЬЯ-АВАТАРА" (Путь Бодхисаттвы), сочиненной в VIII веке великим индийским мастером Шантидевой. В качестве солиста выступил _Шаджин-лама_ (Верховный лама) Калмыкии Тэло Тулку Ринпоче, который в семилетнем возрасте был признан новым воплощением Тилопы (988 - 1069), одного из величайших святых в буддийской традиции. Его пение, выдержанное в традиционной тибетской манере интонирования, при этом наполнено поистине рокерским драйвом. В музыке Антона Батагова стилистические черты средневековой баллады и минимализма, тибетского ритуала и рока, камерно-симфонической музыки и современного джаза слиты в неразрывное целое. Ринпоче сказал об этой музыке так: _"Это не просто музыка для медитации. Это подлинная драма, раскрывающая глубинный смысл героического образа Бодхисаттвы, – подвижника, давшего обет достичь просветления во имя счастья и благоденствия всех живых существ"_.  
+  
+Текст поэмы читайте [здесь]({{ site.baseurl }}/ru/words/bodhicharyavatara-text)
 
-[Watch video](http://www.myspace.com/antonbatagov/videos/bodhicharyavatara/57655618)  
-[Read review](http://www.batagov.com/slova/Bodhicharyavatara%20review%20aquarius.htm)
+[смотреть видео](http://www.myspace.com/antonbatagov/videos/bodhicharyavatara/57655618)  
+[читать рецензию]({{ site.baseurl }}/ru/words/bodhicharyavatara-review/)
