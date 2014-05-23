@@ -2,15 +2,15 @@
 layout: record
 category: records
 published: true
-title: Piano Works
+title: Сочинения для фортепиано
 type: performer
 year: "1993"
-description: Maurice Ravel
-permalink: "/en/records/1993/maurice-ravel-piano"
+description: Морис Равель
+permalink: "/ru/records/1993/maurice-ravel-piano"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/maurice.gif"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/maurice.gif"
-lang: en
-l10n: /ru/records/1993/maurice-ravel-piano
+lang: ru
+l10n: /en/records/1993/maurice-ravel-piano
 ---
 
 _Le Tombeau De Couperin._  	 
@@ -32,6 +32,6 @@ _Gaspard De La Nuit._
 
 _Valses Nobles Et Sentimentales_  
 
-recorded in 1987  
+Запись 1987 г    
 
 © 1993 SoLyd Records, SLR 0005

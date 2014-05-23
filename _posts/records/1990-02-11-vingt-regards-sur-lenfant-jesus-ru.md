@@ -2,49 +2,49 @@
 layout: record
 category: records
 published: true
-title: Vingt Regards sur l'Enfant-Jesus
+title: Двадцать взглядов на младенца-Иисуса
 type: performer
 year: "1990"
-description: Messiaen (3 CDs)
-permalink: "/en/records/1990/vingt-regards-sur-lenfant-jesus"
+description: Мессиан (3 CDs)
+permalink: "/ru/records/1990/vingt-regards-sur-lenfant-jesus"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/mess.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/mess.jpg"
-lang: en
-l10n: /ru/records/1990/vingt-regards-sur-lenfant-jesus
+lang: ru
+l10n: /en/records/1990/vingt-regards-sur-lenfant-jesus
 ---
 
-disc 1  
+диск 1  
 
-- Regard du Pere - 9.09
-- Regard de l'etoile - 4.17
-- L'echange - 3.39
-- Regard de la Vierge - 7.08
-- Regard du Fils sur le Fils - 10.15
-- Par Lui tout a ete fait - 13. 35
+- Взгляд Отца - 9.09
+- Взгляд Звезды - 4.17
+- Взаимопроникновение - 3.39
+- Взгляд Девы - 7.08
+- Взгляд Сына на Сына - 10.15
+- Все через Него начало быть - 13.35
 {: .playlist}
 
-disc 2  
+диск 2  
 
-- Regard de la Croix - 5.51
-- [Regard des hauteurs - 2.43](http://batagov.s3.amazonaws.com/records/sounds/Regard%20des%20hauteurs.mp3){: .audio} 
-- Regard du temps - 3.59
-- Regard de l'Esprit de joie - 11.10
-- Premiere communion de la Vierge - 8.56
-- La parole toute puissante - 2.53
-- Noel - 5.08
-- Regard des Anges - 5.06
+- Взгляд Креста - 5.51
+- [Взгляд небес - 2.43](http://batagov.s3.amazonaws.com/records/sounds/Regard%20des%20hauteurs.mp3){: .audio} 
+- Взгляд времени - 3.59
+- Взгляд Духа радости - 11.10
+- Первое причастие Девы - 8.56
+- Всемогущее Слово - 2.53
+- Рождество - 5.08
+- Взгляд Ангелов - 5.06
 {: .playlist}
 
-disc 3  
+диск 3  
 
-- Le baiser de l'Enfant-Jesus - 18.05
-- Regard des prophetes, des bergers et des Mages - 3.44
-- Regard du silence - 7.02
-- Regard de l'Onction terrible - 7.05
-- Je dors, mais mon coeur veille - 13.38
-- Regard de l'Eglise d'amour - 16.24
+- Поцелуй Младенца-Иисуса - 18.05
+- Взгляд пророков, пастухов и волхвов - 3.44
+- Взгляд безмолвия - 7.02
+- Взгляд страшного помазания на царство - 7.05
+- Я сплю, а сердце мое бодрствует - 13.38
+- Взгляд Церкви любви - 16.24
 {: .playlist}
 
-recorded in 1988
+запись 1988 г.  
 
-© 1990 Melodiya, 3 CDs: SUCD 10-00041/42/43
+© 1990 Мелодия 3 CDs: SUCD 10-00041/42/43

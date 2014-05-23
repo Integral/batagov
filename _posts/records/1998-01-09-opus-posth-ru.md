@@ -5,15 +5,15 @@ published: true
 title: Opus posth
 type: performer
 year: "1998"
-description: Vladimir Martynov
-permalink: "/en/records/1998/opus-posth"
+description: Владимир Мартынов
+permalink: "/ru/records/1998/opus-posth"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/opuspost.gif"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/opuspost.gif"
-lang: en
-l10n: /ru/records/1998/opus-posth
+lang: ru
+l10n: /en/records/1998/opus-posth
 ---
 
-Anton Batagov and Alexei Lubimov, pianos  
+Антон Батагов и Алексей Любимов, фортепиано    
 
 - Opus Posthumum	 
 - Opus Prenatum
