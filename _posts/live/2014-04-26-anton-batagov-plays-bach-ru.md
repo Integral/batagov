@@ -15,16 +15,13 @@ l10n: /en/live/bach-moscow
 
 ###Авангард вчера. Минимализим сегодня. Завтра Бах.
    
-<a id="partita-4"></a>
-<iframe width="560" height="315" src="//www.youtube.com/embed/2p5OiaIsZL8" frameborder="0" allowfullscreen></iframe>
+<a id="partita-4"></a><iframe width="560" height="315" src="//www.youtube.com/embed/2p5OiaIsZL8" frameborder="0" allowfullscreen></iframe>
 _Партита №4 Ре мажор_   
   
-<a id="chorale"></a>
-<iframe width="560" height="315" src="//www.youtube.com/embed/NWlx4Gipn74" frameborder="0" allowfullscreen></iframe>
+<a id="chorale"></a><iframe width="560" height="315" src="//www.youtube.com/embed/NWlx4Gipn74" frameborder="0" allowfullscreen></iframe>
 _“Jesus bleibet meine Freude” (Chorale from Cantata No.147)_  
  
-<a id="partita-6"></a>  
-<iframe width="560" height="315" src="//www.youtube.com/embed/LbSFqlqd9QU" frameborder="0" allowfullscreen></iframe>
+<a id="partita-6"></a><iframe width="560" height="315" src="//www.youtube.com/embed/LbSFqlqd9QU" frameborder="0" allowfullscreen></iframe>
 _Партита №6 Ми минор_
 
 Не имеет никакого значения, когда и кем была записана та или иная последовательность нот. Имеет значение, что скрыто за этими нотами, внутри этих нот. Можно сыграть то, что пришло в голову в данный момент, а можно – то, что было записано кем-то 300 лет назад. Важна не новизна и не имя автора, а внутреннее состояние и мотивация: зачем я сейчас это делаю, и что я хочу сказать, издавая эти звуки.
