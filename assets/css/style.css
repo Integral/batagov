@@ -123,6 +123,8 @@ nav a {
 }
 
 #l10n {position: fixed; bottom: 30px;}
+#l10n span.active {color:#858585;}
+#l10n a {color:#cecece;}
 #l10n img {height: 23px; padding: 3px;-webkit-filter: grayscale(100%);-moz-filter: grayscale(100%);filter: grayscale(100%);}
 #l10n span.active img {border: 1px dashed #cecece;}
 #l10n a img:hover {border: 1px dashed #cecece;-webkit-filter: grayscale(0%);-moz-filter: grayscale(0%);filter: grayscale(0%);}
