@@ -13,7 +13,8 @@ thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/bach_moscow_thumb.jp
 l10n: /en/live/bach-moscow
 ---
 
-##Авангард вчера. Минимализим сегодня. Завтра Бах.
+###Авангард вчера. Минимализим сегодня. Завтра Бах.
+   
    
 <iframe width="560" height="315" src="//www.youtube.com/embed/2p5OiaIsZL8" frameborder="0" allowfullscreen></iframe>
 _Партита №4 Ре мажор_   
