@@ -21,28 +21,22 @@ _Allan Evans_
 
 _Elena Dubinets_
 
-<a id="night-train"></a>  
-<iframe width="560" height="315" src="//www.youtube.com/embed/wI974tzStfU" frameborder="0" allowfullscreen></iframe>
+<iframe id="night-train" width="560" height="315" src="//www.youtube.com/embed/wI974tzStfU" frameborder="0" allowfullscreen></iframe>
 _Philip Glass: Night Train from Einstein on the Beach  
 Piano transcription by Anton Batagov_
 
-<a id="trial"></a>      
-<iframe width="560" height="315" src="//www.youtube.com/embed/ZOvlPvXXggs" frameborder="0" allowfullscreen></iframe>
+<iframe id="trial" width="560" height="315" src="//www.youtube.com/embed/ZOvlPvXXggs" frameborder="0" allowfullscreen></iframe>
 _Philip Glass: Trial from Einstein on the Beach  
 Piano transcription by Anton Batagov_
 
-<a id="allemande"></a>    
-<iframe width="560" height="315" src="//www.youtube.com/embed/CNbdgfAor88" frameborder="0" allowfullscreen></iframe>
+<iframe id="allemande" width="560" height="315" src="//www.youtube.com/embed/CNbdgfAor88" frameborder="0" allowfullscreen></iframe>
 _Johann Sebastian Bach: Allemande from Partita No.6 E minor_  
 
-<a id="invisible-lands"></a>
-<iframe width="560" height="315" src="//www.youtube.com/embed/q-nFEbIM4Ds" frameborder="0" allowfullscreen></iframe>
+<iframe id="invisible-lands" width="560" height="315" src="//www.youtube.com/embed/q-nFEbIM4Ds" frameborder="0" allowfullscreen></iframe>
 _Anton Batagov: Invisible Lands 4_
 
-<a id="west-wind"></a>
-<iframe width="560" height="315" src="//www.youtube.com/embed/oiPJOjhREyk" frameborder="0" allowfullscreen></iframe>
+<iframe id="west-wind" width="560" height="315" src="//www.youtube.com/embed/oiPJOjhREyk" frameborder="0" allowfullscreen></iframe>
 _Claude Debussy: Ce qu'a vu le vent d'Ouest (What the West Wind Saw)_  
 
-<a id="footprints"></a>
-<iframe width="560" height="315" src="//www.youtube.com/embed/mCXVQtKG8to" frameborder="0" allowfullscreen></iframe>
+<iframe id="footprints" width="560" height="315" src="//www.youtube.com/embed/mCXVQtKG8to" frameborder="0" allowfullscreen></iframe>
 _Claude Debussy: Des pas sur la neige (Footprints in the Snow)_

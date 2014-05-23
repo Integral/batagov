@@ -13,18 +13,11 @@ thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/bach_moscow_thumb.jp
 l10n: /ru/live/bach-moscow
 ---
 
-   
-   
-   
-<iframe width="560" height="315" src="//www.youtube.com/embed/2p5OiaIsZL8" frameborder="0" allowfullscreen></iframe>
+<iframe id="partita-4" width="560" height="315" src="//www.youtube.com/embed/2p5OiaIsZL8" frameborder="0" allowfullscreen></iframe>  
 _Partita No.4 D major_  
   
-  
-  
-<iframe width="560" height="315" src="//www.youtube.com/embed/NWlx4Gipn74" frameborder="0" allowfullscreen></iframe>
+<iframe id="chorale" width="560" height="315" src="//www.youtube.com/embed/NWlx4Gipn74" frameborder="0" allowfullscreen></iframe>  
 _“Jesus bleibet meine Freude” (Chorale from Cantata No.147)_  
   
-  
-  
-<iframe width="560" height="315" src="//www.youtube.com/embed/LbSFqlqd9QU" frameborder="0" allowfullscreen></iframe>
+<iframe id="partita-6" width="560" height="315" src="//www.youtube.com/embed/LbSFqlqd9QU" frameborder="0" allowfullscreen></iframe>  
 _Partita No.6 E minor_
