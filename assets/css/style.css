@@ -57,7 +57,6 @@ blockquote {
 }
 
 h3 {
-  background: url(images/hr.png) top center no-repeat;
   margin-top: 40px;
   padding-top: 50px;
   padding-bottom: 5px;
@@ -651,6 +650,11 @@ div.links {
 	top: -30px;
 	height: 40px;
 }
+
+/* live */
+
+section.live-page iframe { padding-top: 20px; }
+
 
 /* words */
 
