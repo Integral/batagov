@@ -595,7 +595,7 @@ ul.menu > li > a.active {
 }
 
 ul.menu > li > a.active:after {
-	content:" ⟶";
+	content:" →";
 }
 
 dl.sub {
