@@ -9,7 +9,7 @@ year: "2010"
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/bach_novosibirsk.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/bach_novosibirsk_thumb.jpg"
 permalink: "/ru/live/bach-novosibirsk"
-description: "Концерт в Новосибирске, Feb.21, 2010"
+description: "Концерт в Новосибирске, 21 февраля 2010"
 l10n: "/en/live/bach-novosibirsk"
 ---
 
