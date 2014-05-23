@@ -2,15 +2,15 @@
 published: true
 layout: live
 category: live
-title: Anton Batagov plays Bach
+title: Антон Батагов играет Баха
 type: audio
-lang: en
+lang: ru
 year: "2010"
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/bach_novosibirsk.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/bach_novosibirsk_thumb.jpg"
-permalink: "/en/live/bach-novosibirsk"
-description: "live in Novosibirsk, Feb.21, 2010"
-l10n: "/ru/live/bach-novosibirsk"
+permalink: "/ru/live/bach-novosibirsk"
+description: "Концерт в Новосибирске, Feb.21, 2010"
+l10n: "/en/live/bach-novosibirsk"
 ---
 
   
@@ -45,4 +45,4 @@ Partita No.6 E minor
 - [Gigue](http://batagov.s3.amazonaws.com/live/sounds/bach_novosibirsk/7_partita6_gigue.mp3){: .audio}
 {: .playlist}
 
-_Photo by Nadezhda Ivanova_
+_Фото: Надежда Иванова_

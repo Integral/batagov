@@ -10,6 +10,7 @@ thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/drowned_cathedral_th
 permalink: "/en/live/drowned-cathedral"
 lang: en
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/drowned_cathedral.jpg"
+l10n: "/ru/live/drowned-cathedral"
 ---
 
 > Anton Batagov evokes Richter, and his own playing reaches the zone that Richter aims for.
