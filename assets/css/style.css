@@ -672,7 +672,7 @@ a.item div.subtitle {
 }
 
 div.article {width:470px; float: left;}
-div.post-year {width:470px; float: right;}
+div.post-year {float: right;}
 
 .words-page h1.title {
   font-size: 30px;
