@@ -11,6 +11,7 @@ body {
   color: #777;
   background:#f0f0f0;
   width: 980px;
+  min-width: 980px;
 }
 
 h1, h2, h3 {
