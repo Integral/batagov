@@ -588,7 +588,7 @@ ul.menu li {
 	list-style: none;
 }
 ul.menu > li > a {
-	color: #cecece;
+	color: #a3a3a3;
 }
 ul.menu > li > a.active {
 	color: #858585;
