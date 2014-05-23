@@ -2,15 +2,15 @@
 layout: record
 category: records
 published: true
-title: Passionate Desire to Be an Angel
+title: Страстное желание быть ангелом
 type: composer
 year: "2005"
 description: ""
-permalink: "/en/records/2005/passionate-desire-to-be-an-angel"
+permalink: "/ru/records/2005/passionate-desire-to-be-an-angel"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/angel.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/angel.jpg"
-lang: en
-l10n: /ru/records/2005/passionate-desire-to-be-an-angel
+lang: ru
+l10n: /en/records/2005/passionate-desire-to-be-an-angel
 ---
 
 - [can you feel the rhythm?](http://batagov.s3.amazonaws.com/records/sounds/can_you_feel.mp3){: .audio}
@@ -19,32 +19,33 @@ l10n: /ru/records/2005/passionate-desire-to-be-an-angel
 - umbra solis
 {: .playlist}
 
-total time 61:43
+общее время 61:43
 
-piano, organ, celesta, samplers: A.B.  
-vibraphone: Peteris Shuniatis  
-guitars: Theophrastus  
-vocals on track 1: V.L.  
-trombone on track 1: Philip Spagyrov  
-harp on track 2: Maya  
-cello on track 3: Nikita Kochergin  
-Vitriolum vocal ensemble  
-
-artwork: Nick Shtok  
-executive producer: Ludmila Dmitrieva  
-
-written in the spring of 1998  
-recorded, mixed and mastered in 2004  
+рояль, орган, челеста, сэмплеры: А.Б.  
+вибрафон: Петерис Шунятис   
+гитары: Теофраст   
+вокал (1): V.L.   
+тромбон (1): Филипп Спагиров  
+арфа (2): Майя  
+виолончель (3): Никита Кочергин  
+вокальный ансамбль Vitriolum  
   
+дизайн: Николай Шток  
+исполнительный продюсер: Людмила Дмитриева  
+  
+сочинено весной 1998 года  
+запись, сведение и мастеринг сделаны в 2004 году  
+   
 © 2005 Long Arms Records / Tummo CDLA 05085  
 
-If a philosopher were to state that a living man could be made from a stone, the unenlightened would probably exclaim, "Impossible!" Thus would they reveal their ignorance, for to the wise it is known that in every stone is the seed of man. A philosopher might declare that a universe could be made out of a man, but the foolish would regard this as an impossibility, not realizing that a man is a seed from which a universe may be brought forth.  
+Если бы философ заявил, что живого человека можно сделать из камня, то непросвещенные, скорее всего, воскликнули бы: "Невозможно!". Тем самым они обнаружили бы свое невежество, потому что мудрым известно, что в каждом камне есть семя человека. Философ также мог бы провозгласить, что вселенная сделана из человека, но глупцы сочли бы и это невозможным, не понимая, что человек есть семя, из которого действительно можно вырастить всю вселенную.
 
-"Within everything is the seed of everything". Therefore, every grain of sand contains not only the seed of the precious metals as well as the seed of the priceless gems, but also the seeds of sun, moon, and stars. These seeds – unrecognizable and incomprehensible – await the time assigned them for growth and expression. There are two methods whereby growth may be accomplished. The first is by Nature, the second is by art, and through art is produced in a comparatively short time that which requires Nature almost endless periods to duplicate.
+"Во всем есть семена всего". Следовательно, каждая песчинка содержит не только семена драгоценных металлов и камней, но и семена солнца, луны и звезд. Эти семена, нераспознаваемые и непостижимые, ожидают своего времени, чтобы проявиться и начать расти. Есть два метода, посредством которых может быть обеспечен рост. Первый – Природа, второй – _Искусство_, и посредством _Искусства_ результат достигается за сравнительно короткое время, тогда как Природе для этого требуется бесконечно много времени.
 
-Alchemy is a mystery in three worlds – the divine, the human, and the elemental.
-There is no greater miracle in the growing and multiplication of gold by the alchemist than in a tiny mustard seed producing a bush many thousands of times the size of the seed. God is the spiritual seed planted in the dark earth (the material universe). By art it is possible so to grow and expand this seed that the entire universe of substance is tinctured thereby and becomes like unto the seed – pure gold. Unless the greater alchemy has first taken place within the soul of man, he cannot perform the lesser alchemy in the retort. Unless a man be "born again" he cannot accomplish the Great Work.
-
-Manly P.Hall  
-_An Encyclopedic Outline of Masonic, Hermetic,  
-Quabbalistic and Rosicrucian Symbolical Philosophy_
+Алхимия есть мистерия трех уровней: божественного, человеческого, и мира элементов. 
+Рост и размножение золота в алхимической лаборатории – ничуть не большее чудо, чем куст, выросший из крошечного семени.
+Бог есть духовное семя, брошенное в темную землю материи. С помощью искусства алхимии можно трансформировать материальную субстанцию вселенной в духовное золото. До тех пор, пока высшая алхимия не свершится в душе человека, он не сможет выполнить алхимию в реторте. До тех пор, пока человек не "родится вновь", он не сможет довести до конца _Великую Работу_.  
+  
+Мэнли П.Холл  
+_Энциклопедическое изложение масонской, герметической,_   
+_каббалистической и розенкрейцеровской символической философии_
