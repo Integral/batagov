@@ -1,7 +1,7 @@
 ---
+published: true
 layout: record
 category: records
-published: true
 title: Selected Letters of Sergei Rachmaninoff
 type: composer
 description: A piano cycle
@@ -11,6 +11,7 @@ permalink: /en/records/2013/rachmaninoff
 artwork: "http://batagov.s3.amazonaws.com/records/artwork/rachmaninoff.png"
 buy: "http://fancymusic.ru/anton-batagov-selected-letters-of-sergei-rachmaninoff/"
 lang: en
+l10n: /ru/records/2013/rachmaninoff
 ---
 
 - At the Grave of Sergei Rachmaninoff (Kensico Cemetery, Valhalla, NY) [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=lKmYqfQxAdY)
