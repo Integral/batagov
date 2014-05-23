@@ -8,6 +8,8 @@ permalink: /ru/words/
   {% if post.type == 'text' and post.lang == 'ru' %}
 	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
     	<div class="title">{{ post.title }}</div>
+      <div class="subtitle">{{ post.subtitle }}</div>
+      <div class="year">{{ post.year }}</div>
 	</a>
   {% endif %}
   {% endfor %}
