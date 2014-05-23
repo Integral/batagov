@@ -664,6 +664,8 @@ section.live-page iframe { padding-top: 20px; }
 
 /* words */
 
+h2.section-title {margin: 30px 0px 15px;}
+
 a.item {color: #858585; display: block;}
 
 a.item div.subtitle {
