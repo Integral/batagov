@@ -3,7 +3,7 @@ layout: default_ru
 permalink: /ru/words/
 ---
 <div class="clearfix words">
-  <h3 id="text" class="section-title">Избранные тексты А.Б.</div>
+  <h2 id="text" class="section-title">Избранные тексты А.Б.</div>
   {% for post in site.categories.words  %}
   {% if post.type == 'text' and post.lang == 'ru' %}
 	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
@@ -13,7 +13,7 @@ permalink: /ru/words/
   {% endfor %}
 </div>
 <div class="clearfix words">
-  <h3 id="about" class="section-title">Избранные тексты про А.Б.</div>
+  <h2 id="about" class="section-title">Избранные тексты про А.Б.</div>
   {% for post in site.categories.words  %}
   {% if post.type == 'about' and post.lang == 'ru' %}
   <a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
@@ -23,7 +23,7 @@ permalink: /ru/words/
   {% endfor %}
 </div>
 <div class="clearfix words">
-  <h3 id="interview" class="section-title">Избранные интервью</div>
+  <h2 id="interview" class="section-title">Избранные интервью</div>
   {% for post in site.categories.words  %}
   {% if post.type == 'interview' and post.lang == 'ru' %}
   <a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
@@ -33,7 +33,7 @@ permalink: /ru/words/
   {% endfor %}
 </div>
 <div class="clearfix words">
-  <h3 id="other" class="section-title">Другое</div>
+  <h2 id="other" class="section-title">Другое</div>
   {% for post in site.categories.words  %}
   {% if post.type == 'other' and post.lang == 'ru' %}
   <a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
