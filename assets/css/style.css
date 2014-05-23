@@ -75,10 +75,6 @@ a:hover {
   text-decoration: underline;
 }
 
-:target {
-  padding-top: 100px;
-}
-
 nav a {
   font-size: 12px;
   color: #7B838A;
@@ -690,5 +686,6 @@ div.post-year {float: right;}
 }
 .words-page div.source {
   font-style: italic;
-  padding: 20px 0px;
+  padding: 20px 0px 0px;
+  text-align: right;
 }
