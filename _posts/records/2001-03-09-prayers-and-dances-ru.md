@@ -2,75 +2,74 @@
 layout: record
 category: records
 published: true
-title: Prayers and Dances
+title: Молитвы и танцы
 type: composer
 year: "2001"
-description: "a music documentary (traditional tibetan buddhist rituals) (2CDs)"
-permalink: "/en/records/2001/prayers-and-dances"
+description: "документальная музыка (традиционные ритуалы тибетского буддизма) (2CDs)"
+permalink: "/ru/records/2001/prayers-and-dances"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/prayers_and_dances2.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/prayers_and_dances2.jpg"
-lang: en
-l10n: /ru/records/2001/prayers-and-dances
+lang: ru
+l10n: /en/records/2001/prayers-and-dances
 ---
 
-_disc 1_  
+_диск 1_  
 
-- The Prayer Wheel, Kopan Monastery 4:22	 
-- [Evening Prayer 1 4:11](http://batagov.s3.amazonaws.com/records/sounds/evening_prayer1.mp3){: .audio}
-- Dance 1 5:11	 
-- [Long Mandala Offering 1:36](http://batagov.s3.amazonaws.com/records/sounds/long_mandala.mp3){: .audio}
-- Morning Prayer 1 4:58	 
-- The Great Stupa at 5:00AM 1:19	 
-- Evening Prayer 2 11:16	 
-- Dance 2 1:13	 
-- Prostration to the 35 Buddhas 4:13	 
-- The Dalai Lama Long Life Puja, episode 1 3:22	 
-- Morning Prayer 2 6:06	 
-- The Great Stupa at 5:30AM 1:48	 
-- Evening Prayer 3 3:59	 
-- Dance 3 2:20	 
-- General Confession Prayer 1:06	 
+- Молитвенное колесо, монастырь Копан 4:22	 
+- [Вечерняя молитва 1 4:11](http://batagov.s3.amazonaws.com/records/sounds/evening_prayer1.mp3){: .audio}
+- Танец 1 5:11	 
+- [Подношение мандалы (полное) 1:36](http://batagov.s3.amazonaws.com/records/sounds/long_mandala.mp3){: .audio}
+- Утренняя молитва 1 4:58	 
+- Великая Ступа в 5 часов утра 1:19	 
+- Вечерняя молитва 2 11:16	 
+- Танец 2 1:13	 
+- Простирания пред 35 Буддами 4:13	 
+- Пуджа во здравие Далай-Ламы, эпизод 1 3:22	 
+- Утренняя молитва 2 6:06	 
+- Великая Ступа в 5:30 утра 1:48	 
+- Вечерняя молитва 3 3:59	 
+- Танец 3 2:20	 
+- Символ веры 1:06	 
 {: .playlist}
 
-total time 57:01  
+общее время 57:01  
 
-_disc 2_  
+_диск 2_  
 
-- Mahakala Puja, episode 1 2:23	 
-- The Prayer Wheel / Dance 4 2:54	 
-- Evening Prayer 4 9:32	 
-- [Dance 5 2:47](http://batagov.s3.amazonaws.com/records/sounds/dance5.mp3){: .audio}
-- Short Mandala Offering 1:50	 
-- Morning Prayer 3 2:35	 
-- [Mahakala Puja, episode 2 5:10](http://batagov.s3.amazonaws.com/records/sounds/mahakala_puja2.mp3){: .audio}
-- Prayer Wheels at the Great Stupa 7:25	 
-- Vajrasattva Mantra 1:01	 
-- The Dalai Lama Long Life Puja, episode 2 5:27	 
-- The Great Stupa at 6:00AM 0:28	 
-- Mahakala Puja, episode 3 8:29	 
-- Dedication 0:27	 
-- Evening Prayer 5 3:07	 
-- The Prayer Wheel, Kopan Monastery 1:30	 
+- Махакала пуджа, эпизод 1 2:23	 
+- Молитвенное колесо / Танец 4 2:54	 
+- Вечерняя молитва 4 9:32
+- [Танец 5 2:47](http://batagov.s3.amazonaws.com/records/sounds/dance5.mp3){: .audio}
+- Подношение мандалы (краткое) 1:50	 
+- Утренняя молитва 3 2:35	 
+- [Махакала пуджа, эпизод 2 5:10](http://batagov.s3.amazonaws.com/records/sounds/mahakala_puja2.mp3){: .audio}
+- Молитвенные колеса у Великой Ступы 7:25	 
+- Ваджрасаттва мантра 1:01	 
+- Пуджа во здравие Далай-Ламы, эпизод 2 5:27	 
+- Великая Ступа в 6 часов утра 0:28	 
+- Махакала пуджа, эпизод 3 8:29	 
+- Посвящение 0:27	 
+- Вечерняя молитва 5 3:07	 
+- Молитвенное колесо, монастырь Копан 1:30 
 {: .playlist}  
 
-total time 55:08  
+общее время 55:08  
 
-Geshe Thubten Tashi (solo voice)  
-Monks of the Kopan Monastery  
-Monks of the Ka-Nying Shedrup Ling Monastery  
-Monks and lay people at the Great Stupa of Boudhanath  
-Anton Batagov (the idea of this composition; recording, editing, mixing, mastering)  
-
-Recorded at the Kopan and Ka-Nying Shedrup Ling monasteries and at the  
-Great Stupa of Boudhanath, Nepal, in November / December 2000  
-Edited, mixed and mastered in Moscow in December 2000 / January 2001  
-
-artwork: Nick Shtok   
-
+Геше Тхубтен Таши  
+Монахи монастыря Копан  
+Монахи монастыря Ка-Ньинг Шедруп Линг   
+Монахи и мирские люди у Великой Ступы Буднатх  
+Антон Батагов (идея композиции; запись, редакция, сведение, мастеринг)  
+  
+Запись сделана в монастырях Копан и Ка-Ньинг Шедруп Линг и у Великой Ступы Буднатх (Непал) в ноябре / декабре 2000 г.  
+Редакция, сведение и мастеринг - в Москве в декабре 2000 / январе 2001 г.  
+  
+Дизайн: Николай Шток   
+  
 © 2001 Tummo (TCD0101A / TCD0101B) 
 
-It is not a composition in the conventional sense because it contains no composed material. All one hears is authentic Tibetan prayers, ritual masked dances, the sounds of prayer wheels and bells, voices of monks, lay people, and birds. The subject of my work was form, structure, and studio processing. Why then, did I choose to build this new structure?  
+Это не композиция в привычном смысле слова, так как в ней нет сочиненного материала, а все, что звучит - это подлинные тибетские молитвы, ритуальные танцы масок, звуки молитвенных колес и колоколов, голоса монахов, мирских людей и птиц. Предмет "авторской" работы - форма, структура, студийная обработка. Зачем вообще нужно было выстраивать какую-то новую структуру?  
 
-Let me explain. There are already numerous CD's in existence with complete recordings of services and other rituals, but they are incapable of transmitting a sense of authenticity because in order to get this feeling one would need to live in a monastery (since one's childhood if possible) and to have a life completely different from ours and to have a mind pointed differently. Without that this CD would be just another object on the ethnic music shelf, and the wall between "them" and "us" would remain where it is. The only thing I consider relevant in this recording is to realize all that I've heard and seen as my own emotional experience - otherwise it makes no sense at all. In order to express that, I therefore needed to consider the structure of the current recording. This form gave me a chance to share my experience with other people who, like myself, are living in the territories called "The West" and trying to understand how everything works, who we are, and what we are doing in this so-called life.  
+А вот зачем. Дисков с полными записями служб и других ритуалов и так существует достаточно, но они все равно не в состоянии передать подлинность происходящего, потому что для ощущения этой подлинности надо находиться в монастыре (желательно с детства), вести жизнь, мало похожую на ту, которую ведем мы, и иметь сознание, ориентированное иначе, чем наше. В противном случае этот диск оказывается просто очередной вещью на полке с этнической музыкой, а стена между "ними" и "нами" остается на своем законном месте. Единственное, что показалось мне возможным - это ощутить услышанное и увиденное как свое личное переживание и личный опыт (а иначе это вообще лишается смысла). Для того, чтобы выразить это, понадобилась работа над формой. Такая форма позволит мне поделиться этим переживанием с другими людьми, которые, как и я, живут на территориях, условно называемых "Запад", и пытаются понять, как все устроено, кто мы, что и зачем мы делаем в этой так называемой жизни.
 
-_Anton Batagov, May 2001_
+_Антон Батагов, май 2001_
