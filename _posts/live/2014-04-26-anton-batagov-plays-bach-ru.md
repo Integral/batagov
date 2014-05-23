@@ -15,13 +15,15 @@ l10n: /en/live/bach-moscow
 
 ###Авангард вчера. Минимализим сегодня. Завтра Бах.
    
-   
+<a id="partita-4"></a>
 <iframe width="560" height="315" src="//www.youtube.com/embed/2p5OiaIsZL8" frameborder="0" allowfullscreen></iframe>
 _Партита №4 Ре мажор_   
   
+<a id="chorale"></a>
 <iframe width="560" height="315" src="//www.youtube.com/embed/NWlx4Gipn74" frameborder="0" allowfullscreen></iframe>
 _“Jesus bleibet meine Freude” (Chorale from Cantata No.147)_  
-  
+ 
+<a id="partita-6"></a>  
 <iframe width="560" height="315" src="//www.youtube.com/embed/LbSFqlqd9QU" frameborder="0" allowfullscreen></iframe>
 _Партита №6 Ми минор_
 
