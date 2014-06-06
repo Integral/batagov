@@ -14,10 +14,10 @@ l10n: /ru/live/bach-moscow
 ---
 
 <iframe id="partita-4" width="560" height="315" src="//www.youtube.com/embed/2p5OiaIsZL8" frameborder="0" allowfullscreen></iframe>  
-_Partita No.4 D major_  
+_Part 1: Partita No.4 D major, “Jesus bleibet meine Freude” (Chorale from Cantata No.147)_  
+  
+<iframe id="partita-6" width="560" height="315" src="//www.youtube.com/embed/LbSFqlqd9QU" frameborder="0" allowfullscreen></iframe>  
+_Part 2: Partita No.6 E minor_
   
 <iframe id="chorale" width="560" height="315" src="//www.youtube.com/embed/NWlx4Gipn74" frameborder="0" allowfullscreen></iframe>  
 _“Jesus bleibet meine Freude” (Chorale from Cantata No.147)_  
-  
-<iframe id="partita-6" width="560" height="315" src="//www.youtube.com/embed/LbSFqlqd9QU" frameborder="0" allowfullscreen></iframe>  
-_Partita No.6 E minor_

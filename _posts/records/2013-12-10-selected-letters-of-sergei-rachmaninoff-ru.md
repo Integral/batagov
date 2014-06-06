@@ -15,15 +15,15 @@ l10n: /en/records/2013/rachmaninoff
 ---
 
 - У могилы Рахманинова (кладбище Кенсико, Валхалла, штат Нью-Йорк) [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=lKmYqfQxAdY)
-- [Письмо Сергея Рахманинова Симеону тен Холту](http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3){: .audio} [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=_kOQsIF3KDw)
-- [Письмо Сергея Рахманинова Питеру Гэбриэлу](http://batagov.s3.amazonaws.com/records/sounds/to_peter_gabriel.mp3){: .audio} [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=-iiLHdASnqA)
-- Письмо Сергея Рахманинова Арво Пярту
-- Письмо Сергея Рахманинова Людовико Эйнауди
-- Письмо Сергея Рахманинова Филипу Глассу
-- Письмо Сергея Рахманинова Виму Мертенсу и Никколо Паганини
-- Письмо Сергея Рахманинова Брайану Ино
-- Письмо Сергея Рахманинова Владимиру Мартынову
-- У могилы Рахманинова. Постлюдия
+- Письмо Сергея Рахманинова Симеону тен Холту [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=_kOQsIF3KDw)
+- Письмо Сергея Рахманинова Питеру Гэбриэлу [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=-iiLHdASnqA)
+- Письмо Сергея Рахманинова Арво Пярту [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=u6Vh7Lnzugo)
+- Письмо Сергея Рахманинова Людовико Эйнауди [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=CUN6AsNIDBo)
+- Письмо Сергея Рахманинова Филипу Глассу [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=68hs-n94uT8)
+- Письмо Сергея Рахманинова Виму Мертенсу и Никколо Паганини [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=MUbEUL7RckA)
+- Письмо Сергея Рахманинова Брайану Ино [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=eF8iQ2QamTU)
+- Письмо Сергея Рахманинова Владимиру Мартынову [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=mWt0Sib7wZg)
+- У могилы Рахманинова. Постлюдия [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=cPDARo-YOzE)
 {: .playlist}
 
 © 2013 Fancymusic

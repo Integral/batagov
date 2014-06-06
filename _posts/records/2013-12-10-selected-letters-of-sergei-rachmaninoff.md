@@ -15,15 +15,15 @@ l10n: /ru/records/2013/rachmaninoff
 ---
 
 - At the Grave of Sergei Rachmaninoff (Kensico Cemetery, Valhalla, NY) [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=lKmYqfQxAdY)
-- [Letter from Sergei Rachmaninoff to Simeon ten Holt](http://batagov.s3.amazonaws.com/records/sounds/to_simeon_ten_holt.mp3){: .audio} [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=_kOQsIF3KDw)
-- [Letter from Sergei Rachmaninoff to Peter Gabriel](http://batagov.s3.amazonaws.com/records/sounds/to_peter_gabriel.mp3){: .audio} [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=-iiLHdASnqA)
-- Letter from Sergei Rachmaninoff to Arvo Pärt
-- Letter from Sergei Rachmaninoff to Ludovico Einaudi
-- Letter from Sergei Rachmaninoff to Philip Glass
-- Letter from Sergei Rachmaninoff to Wim Mertens and Niccolo Paganini
-- Letter from Sergei Rachmaninoff to Brian Eno
-- Letter from Sergei Rachmaninoff to Vladimir Martynov
-- At the Grave of Sergei Rachmaninoff. Postlude
+- Letter from Sergei Rachmaninoff to Simeon ten Holt [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=_kOQsIF3KDw)
+- Letter from Sergei Rachmaninoff to Peter Gabriel [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=-iiLHdASnqA)
+- Letter from Sergei Rachmaninoff to Arvo Pärt [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=u6Vh7Lnzugo)
+- Letter from Sergei Rachmaninoff to Ludovico Einaudi [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=CUN6AsNIDBo)
+- Letter from Sergei Rachmaninoff to Philip Glass [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=68hs-n94uT8)
+- Letter from Sergei Rachmaninoff to Wim Mertens and Niccolo Paganini [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=MUbEUL7RckA)
+- Letter from Sergei Rachmaninoff to Brian Eno [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=eF8iQ2QamTU)
+- Letter from Sergei Rachmaninoff to Vladimir Martynov [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=mWt0Sib7wZg)
+- At the Grave of Sergei Rachmaninoff. Postlude [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=cPDARo-YOzE)
 {: .playlist}
 
 © 2013 Fancymusic (CD release date: September 12)
