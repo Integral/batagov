@@ -130,10 +130,10 @@ div.main {text-align: center;}
 
 #l10n {position: fixed; bottom: 30px;}
 #l10n span.active {color:#858585;}
-#l10n a {color:#cecece;}
+#l10n a {color:#666;}
 #l10n img {height: 23px; padding: 3px;-webkit-filter: grayscale(100%);-moz-filter: grayscale(100%);filter: grayscale(100%);}
-#l10n span.active img {border: 1px dashed #cecece;}
-#l10n a img:hover {border: 1px dashed #cecece;-webkit-filter: grayscale(0%);-moz-filter: grayscale(0%);filter: grayscale(0%);}
+#l10n span.active img {border: 1px dashed #666;}
+#l10n a img:hover {border: 1px dashed #666;-webkit-filter: grayscale(0%);-moz-filter: grayscale(0%);filter: grayscale(0%);}
 
 /* secondary page logo */
 
@@ -480,7 +480,7 @@ html[xmlns] .clearfix {
   position:absolute;
   top:20px; bottom:0px; left:80%; width:1px;
   margin:0px 0px 0px -2px;
-  background:#cecece;
+  background:#666;
   }
 
 .year {
@@ -493,7 +493,7 @@ html[xmlns] .clearfix {
   width:100px; height:50px;
   top:20px;
   text-align: center;
-  border: 1px dashed #cecece;
+  border: 1px dashed #666;
   font-weight:normal;
   }
 
@@ -530,7 +530,7 @@ a.item:hover {text-decoration:none;}
   height:8px; width:8px;
   margin:-6px -3px 0px 0px;
   border-radius:50%;
-  border:1px solid #cecece;
+  border:1px solid #666;
   background:#fff;
   box-sizing:border-box;
   -moz-box-sizing:border-box;
@@ -541,7 +541,7 @@ a.item:hover {text-decoration:none;}
   border:0px;
   width:65px;
   margin:-2px -5px 0px 0px;
-  border-bottom:1px solid #cecece;
+  border-bottom:1px solid #666;
   }
 .record .image, .video .image {
   background-position:50% 0%;
@@ -581,7 +581,7 @@ a.item:hover {text-decoration:none;}
   }	
 
 ul.menu {
-	border-left: 1px solid #cecece;
+	border-left: 1px solid #666;
 	float: left;
 }
 ul.menu li {
@@ -606,7 +606,7 @@ dl.sub {
 }
 
 dl.sub dd a {
-	color: #cecece;
+	color: #666;
 }
 
 dl.sub dd.active a {
