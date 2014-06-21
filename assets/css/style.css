@@ -8,7 +8,7 @@ body {
   font: 400 14px/1.6 "Open Sans", sans-serif;
   margin: 0px auto;
   padding: 0;
-  color: #353535;
+  color: #474747;
   background:#f0f0f0;
   width: 980px;
   min-width: 980px;
@@ -17,13 +17,13 @@ body {
 h1, h2, h3 {
   margin: 5px 0;
   font-weight: normal;
-  color: #353535;
+  color: #474747;
   -webkit-font-smoothing: antialiased;
 }
 
 p em {
   font-style: italic;
-  color: #353535;
+  color: #474747;
 }
 
 p {
@@ -31,7 +31,7 @@ p {
 }
 
 strong {
-  color: #353535;
+  color: #474747;
 }
 
 .inner {
@@ -185,7 +185,7 @@ p code {
 }
 
 pre {
-  color: #353535;
+  color: #474747;
   font-size: 14px;
   line-height: 1.4;
   margin: 20px 0;
@@ -258,7 +258,7 @@ nav a:last-child {
 
 nav a.active {
   font-weight: bold;
-  color: #353535;
+  color: #474747;
 }
 
 /* clearfix */
@@ -343,7 +343,7 @@ html[xmlns] .clearfix {
 }
 
 #menu > li > a {
-  color: #353535;
+  color: #474747;
   font-weight: bold;
 }
 
@@ -591,7 +591,7 @@ ul.menu > li > a {
 	color: #666;
 }
 ul.menu > li > a.active {
-	color: #353535;
+	color: #474747;
 }
 
 ul.menu > li > a.active:after {
@@ -611,7 +611,7 @@ dl.sub dd a {
 
 dl.sub dd.active a {
 	font-style: italic;
-	color: #353535;
+	color: #474747;
 }
 
 h1.title {
