@@ -89,13 +89,8 @@ prose:
     _posts/live:
       - name: "category"
         field:
-          element: "multiselect"
-          label: "Type"
-          options:
-            - name: 'Concerts'
-              value: 'concerts'
-            - name: 'Live'
-              value: 'live'
+          element: "hidden"
+          value: "live"
       - name: "layout"
         field:
           element: "hidden"
@@ -110,6 +105,12 @@ prose:
           element: "text"
           label: "Year"
           value: ""
+      - name: "live"
+        field:
+          element: "button"
+          label: "Live"
+          on: "true"
+          off: "false"
       - name: "description"
         field:
           element: "text"

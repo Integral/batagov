@@ -5,7 +5,7 @@ l10n: /ru/concerts
 ---
 
 <div class="clearfix records">
-{% for post in site.categories.concerts  %}
+{% for post in site.categories.live  %}
 {% if post.lang == 'en' %}
 	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
     	<div class="image" style="background-image:url({{ post.thumbnail }})"></div>
