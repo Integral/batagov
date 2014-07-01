@@ -3,6 +3,7 @@ published: true
 layout: live
 category: live
 title: Антон Батагов играет Баха
+live: true
 type: video
 lang: ru
 year: "2014"

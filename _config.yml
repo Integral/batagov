@@ -63,6 +63,16 @@ prose:
               value: 'composer'
             - name: 'Performer'
               value: 'performer'
+      - name: "front"
+        field:
+          element: "checkbox"
+          label: "Front page"
+          value: "false"
+      - name: "teaser"
+        field:
+          element: "textarea"
+          label: "Teaser"
+          value: ""
       - name: "permalink"
         field:
           element: "text"
@@ -135,6 +145,16 @@ prose:
               value: 'video'
             - name: 'Audio'
               value: 'audio'
+      - name: "front"
+        field:
+          element: "checkbox"
+          label: "Front page"
+          value: "false"
+      - name: "teaser"
+        field:
+          element: "textarea"
+          label: "Teaser"
+          value: ""
       - name: "permalink"
         field:
           element: "text"
@@ -208,6 +228,16 @@ prose:
           label: "Redirect"
           value: ""
           placeholder: "link to external article"
+      - name: "front"
+        field:
+          element: "checkbox"
+          label: "Front page"
+          value: "false"
+      - name: "teaser"
+        field:
+          element: "textarea"
+          label: "Teaser"
+          value: ""
       - name: "permalink"
         field:
           element: "text"
