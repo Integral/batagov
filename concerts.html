@@ -1,0 +1,54 @@
+---
+layout: default
+permalink: /en/concerts/
+l10n: /ru/concerts
+---
+
+<div class="clearfix records">
+{% for post in site.categories.concerts  %}
+{% if post.lang == 'en' %}
+	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
+    	<div class="image" style="background-image:url({{ post.thumbnail }})"></div>
+	</a>
+{% endif %}
+{% endfor %}
+</div>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js"></script>
+<script type="text/javascript" src="http://integral.github.io/batagov/assets/js/libs/shuffle/jquery.shuffle.min.js"></script>
+<script>
+$('li.live a').addClass('active');
+$('dl.live').show();
+
+$( function() {
+  var $grid = $('.records'),
+  $sizer = $grid.find('a.item');
+  $grid.shuffle({
+    itemSelector: '.item',
+    sizer: $sizer
+  });
+  
+  $('.sub a').on( 'click', function(e) {
+    $('dd.active').removeClass('active');
+    var filterValue = $( this ).attr('data-menu');
+    $( this ).parent().addClass('active');
+    $grid.shuffle('shuffle', function($el, shuffle) {
+      if(filterValue == 'video' || filterValue == 'audio') {
+        return $el.hasClass(filterValue);
+      } else {
+        return true;
+      }
+    });
+  });
+});
+$( document ).ready(function() {
+	var hash = $(location).attr('hash').replace('#','');
+	if(hash == 'video' || hash == 'audio') {
+		$('a[data-menu="' + hash + '"]').parent().addClass('active');
+    $('.records').shuffle('shuffle', function($el, shuffle) {
+      return $el.hasClass(hash);
+    });
+	} else {
+		$('a[data-menu="*"]').parent().addClass('active');
+	}
+});
+</script>
