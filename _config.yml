@@ -105,11 +105,6 @@ prose:
           element: "text"
           label: "Year"
           value: ""
-      - name: "live"
-        field:
-          element: "checkbox"
-          label: "Live"
-          value: "false"
       - name: "description"
         field:
           element: "text"
@@ -126,6 +121,11 @@ prose:
           element: "text"
           label: "Thumbnail url"
           value: ""
+      - name: "live"
+        field:
+          element: "checkbox"
+          label: "Live"
+          value: "false"
       - name: "type"
         field:
           element: "select"
