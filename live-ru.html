@@ -6,10 +6,12 @@ l10n: /en/live
 
 <div class="clearfix records">
 {% for post in site.categories.live  %}
+{% if post.live == true %}
 {% if post.lang == 'ru' %}
 	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
     	<div class="image" style="background-image:url({{ post.thumbnail }})"></div>
 	</a>
+{% endif %}
 {% endif %}
 {% endfor %}
 </div>

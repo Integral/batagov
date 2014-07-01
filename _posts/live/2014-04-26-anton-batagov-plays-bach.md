@@ -2,7 +2,7 @@
 published: true
 layout: live
 category: live
-live: false
+live: true
 title: Anton Batagov plays Bach
 type: video
 lang: en

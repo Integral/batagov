@@ -3,6 +3,7 @@ published: true
 layout: live
 category: live
 title: Как проехать из до минора в до мажор
+live: true
 type: video
 lang: ru
 year: "2013"

@@ -3,6 +3,7 @@ published: true
 layout: live
 category: live
 title: Контрапункт 7
+live: true
 type: video
 lang: ru
 year: "2014"

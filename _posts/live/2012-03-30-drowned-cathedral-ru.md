@@ -3,6 +3,7 @@ published: true
 layout: live
 category: live
 title: Затонувший собор
+live: true
 type: video
 description: "Три вечера фортепианной музыки, Сиэтл, 29 - 31 марта 2012"
 year: "2012"

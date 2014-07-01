@@ -3,6 +3,7 @@ published: true
 layout: live
 category: live
 title: Counterpoint 7
+live: true
 type: video
 lang: en
 year: "2014"
