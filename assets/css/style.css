@@ -92,6 +92,15 @@ div.main .teaser {
 }
 div.main a {
   padding-bottom: 30px;
+  display: block;
+}
+div.main a h1 {
+  font-size: 23px;
+}
+div.main a div.description {
+  float: none;
+  padding-bottom: 8px;
+  width: 100%;
 }
 
 /* logo */
