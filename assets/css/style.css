@@ -86,7 +86,7 @@ div.main {padding-top: 30px;}
 div.main img {width: 400px;}
 div.main {text-align: center;}
 div.main a {text-decoration: none;}
-div.main .concerts .teaser {
+div.main .teaser {
   clear: both;
   font-weight: 100;
 }
