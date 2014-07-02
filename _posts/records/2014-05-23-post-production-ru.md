@@ -7,16 +7,14 @@ type: composer
 description: ""
 year: "2014"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/post_production_thumb.jpg"
-front: "true"
-teaser: "Новый диск Антона Батагова в продаже с 19 мая"
-front: false
+front: true
 teaser: ""
-permalink: /ru/records/2014/post-production
+permalink: "/ru/records/2014/post-production"
 artwork: "http://batagov.s3.amazonaws.com/records/artwork/post_production.jpg"
 buy: "http://fancymusic.ru/anton-batagov-post-production/"
 itunes: "https://itunes.apple.com/ru/album/post-production/id845023502"
 lang: ru
-l10n: /en/records/2014/post-production
+l10n: "/en/records/2014/post-production"
 ---
 
 - Озеро
