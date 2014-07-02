@@ -16,16 +16,16 @@ lang: en
 l10n: /ru/records/2013/rachmaninoff
 ---
 
-- At the Grave of Sergei Rachmaninoff (Kensico Cemetery, Valhalla, NY) [<i class="fa fa-youtube-play"></i>](/en/live/rachmaninoff#part-1)
-- Letter from Sergei Rachmaninoff to Simeon ten Holt [<i class="fa fa-youtube-play"></i>](/en/live/rachmaninoff#part-2)
-- Letter from Sergei Rachmaninoff to Peter Gabriel [<i class="fa fa-youtube-play"></i>](/en/live/rachmaninoff#part-3)
-- Letter from Sergei Rachmaninoff to Arvo Pärt [<i class="fa fa-youtube-play"></i>](/en/live/rachmaninoff#part-4)
-- Letter from Sergei Rachmaninoff to Ludovico Einaudi [<i class="fa fa-youtube-play"></i>](/en/live/rachmaninoff#part-5)
-- Letter from Sergei Rachmaninoff to Philip Glass [<i class="fa fa-youtube-play"></i>](/en/live/rachmaninoff#part-6)
-- Letter from Sergei Rachmaninoff to Wim Mertens and Niccolo Paganini [<i class="fa fa-youtube-play"></i>](/en/live/rachmaninoff#part-7)
-- Letter from Sergei Rachmaninoff to Brian Eno [<i class="fa fa-youtube-play"></i>](/en/live/rachmaninoff#part-8)
-- Letter from Sergei Rachmaninoff to Vladimir Martynov [<i class="fa fa-youtube-play"></i>](/en/live/rachmaninoff#part-9)
-- At the Grave of Sergei Rachmaninoff. Postlude [<i class="fa fa-youtube-play"></i>](/en/live/rachmaninoff#part-10)
+- At the Grave of Sergei Rachmaninoff (Kensico Cemetery, Valhalla, NY) [<i class="fa fa-youtube-play"></i>]({{ site.baseurl }}/en/live/rachmaninoff#part-1)
+- Letter from Sergei Rachmaninoff to Simeon ten Holt [<i class="fa fa-youtube-play"></i>]({{ site.baseurl }}/en/live/rachmaninoff#part-2)
+- Letter from Sergei Rachmaninoff to Peter Gabriel [<i class="fa fa-youtube-play"></i>]({{ site.baseurl }}/en/live/rachmaninoff#part-3)
+- Letter from Sergei Rachmaninoff to Arvo Pärt [<i class="fa fa-youtube-play"></i>]({{ site.baseurl }}/en/live/rachmaninoff#part-4)
+- Letter from Sergei Rachmaninoff to Ludovico Einaudi [<i class="fa fa-youtube-play"></i>]({{ site.baseurl }}/en/live/rachmaninoff#part-5)
+- Letter from Sergei Rachmaninoff to Philip Glass [<i class="fa fa-youtube-play"></i>]({{ site.baseurl }}/en/live/rachmaninoff#part-6)
+- Letter from Sergei Rachmaninoff to Wim Mertens and Niccolo Paganini [<i class="fa fa-youtube-play"></i>]({{ site.baseurl }}/en/live/rachmaninoff#part-7)
+- Letter from Sergei Rachmaninoff to Brian Eno [<i class="fa fa-youtube-play"></i>]({{ site.baseurl }}/en/live/rachmaninoff#part-8)
+- Letter from Sergei Rachmaninoff to Vladimir Martynov [<i class="fa fa-youtube-play"></i>]({{ site.baseurl }}/en/live/rachmaninoff#part-9)
+- At the Grave of Sergei Rachmaninoff. Postlude [<i class="fa fa-youtube-play"></i>]({{ site.baseurl }}/en/live/rachmaninoff#part-10)
 {: .playlist}
 
 © 2013 Fancymusic (CD release date: September 12)
