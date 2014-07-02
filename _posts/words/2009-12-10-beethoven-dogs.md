@@ -7,6 +7,8 @@ source: "интервью для сайта сети зоомагазинов \"
 type: interview
 lang: ru
 year: "2009"
+front: false
+teaser: ""
 permalink: "/ru/words/beethoven-dogs"
 ---
 

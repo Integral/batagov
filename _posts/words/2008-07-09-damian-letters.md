@@ -6,6 +6,8 @@ title: "Письма иеромонаха Дамиана"
 type: other
 lang: ru
 year: "2008"
+front: false
+teaser: ""
 permalink: "/ru/words/damian-letters"
 ---
 

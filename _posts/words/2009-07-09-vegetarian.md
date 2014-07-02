@@ -6,6 +6,8 @@ title: "Письмо православного сельского священ�
 type: other
 lang: ru
 year: "2009"
+front: false
+teaser: ""
 permalink: "/ru/words/vegetarian"
 ---
 

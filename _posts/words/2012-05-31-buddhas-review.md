@@ -6,6 +6,8 @@ title: "Музыка для 35 будд. Рецензия"
 type: about
 lang: ru
 year: "2012"
+front: false
+teaser: ""
 permalink: "/ru/words/35buddhas-review"
 ---
 

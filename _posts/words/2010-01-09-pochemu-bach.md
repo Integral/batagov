@@ -6,6 +6,8 @@ title: "Почему Бах?"
 type: text
 lang: ru
 year: "2010"
+front: false
+teaser: ""
 permalink: "/ru/words/pochemu-bach"
 ---
 

@@ -7,6 +7,8 @@ type: text
 lang: ru
 subtitle: День св.Франциска Ассизского в соборе Saint John The Divine 7 октября 2012 года
 year: "2012"
+front: false
+teaser: ""
 permalink: "/ru/words/messa-dlya-zhivotnyh"
 ---
 

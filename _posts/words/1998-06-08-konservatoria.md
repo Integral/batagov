@@ -7,6 +7,8 @@ source: "журнал \"Вечерняя Москва\", 8 июня 1998"
 type: about
 lang: ru
 year: "1998"
+front: false
+teaser: ""
 permalink: /ru/words/konservatoria
 subtitle: "Фирма \"Длинные руки\" выпускает три пластинки Антона Батагова"
 ---

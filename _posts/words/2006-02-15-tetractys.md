@@ -7,6 +7,8 @@ source: "shadowplay.ru"
 type: about
 lang: ru
 year: "2006"
+front: false
+teaser: ""
 permalink: "/ru/words/tetractys-review"
 ---
 

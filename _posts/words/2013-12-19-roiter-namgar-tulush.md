@@ -6,6 +6,8 @@ title: Маркус Ройтер / Намгар / Радик Тюлюш.
 type: text
 lang: ru
 subtitle: Концерт в центре Открытый Мир 18 декабря 2013 года.
+front: false
+teaser: ""
 permalink: "/ru/words/roiter-namgar-tulush"
 source: "Facebook, 19 декабря 2013"
 year: "2013"

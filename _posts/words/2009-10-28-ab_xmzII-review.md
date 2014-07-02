@@ -8,6 +8,8 @@ source: "Журнал Результаты"
 type: about
 lang: ru
 year: "2009"
+front: false
+teaser: ""
 permalink: "/ru/words/ab_xmzII-review"
 ---
 

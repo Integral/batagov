@@ -8,6 +8,8 @@ source: "Время новостей, 09 февраля 2010"
 type: about
 lang: ru
 year: "2010"
+front: false
+teaser: ""
 permalink: "/ru/words/emptiness-review"
 ---
 

@@ -5,6 +5,8 @@ category: words
 title: "\"Колесо Учения\" в Америке"
 type: about
 lang: ru
+front: false
+teaser: ""
 permalink: "/ru/words/wheel-review"
 year: "2010"
 ---

@@ -8,6 +8,8 @@ lang: ru
 subtitle: Концерт в ММДМ 6 декабря 2013 года
 source: "Facebook, 7 декабря 2013"
 year: "2013"
+front: false
+teaser: ""
 permalink: "/ru/words/concert-inny-jelannoy"
 ---
 

@@ -8,6 +8,8 @@ lang: ru
 subtitle: "в Доме музыки 21 декабря 2013 года"
 source: "Facebook, 20/21 декабря"
 year: "2013"
+front: false
+teaser: ""
 permalink: "/ru/words/deti-vydry"
 ---
 

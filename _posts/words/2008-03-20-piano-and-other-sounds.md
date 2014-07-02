@@ -6,6 +6,8 @@ title: The Piano and Other Sounds
 type: text
 lang: ru
 year: "2008"
+front: false
+teaser: ""
 permalink: "/ru/words/piano-and-other-sounds"
 ---
 

@@ -8,6 +8,8 @@ source: "Маркус Эрикссон, The Shadows Commence (Швеция)"
 type: about
 lang: ru
 year: "2008"
+front: false
+teaser: ""
 permalink: "/ru/words/daily-practice-review"
 ---
 

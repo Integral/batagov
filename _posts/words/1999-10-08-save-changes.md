@@ -7,6 +7,8 @@ source: "zvuki.ru"
 type: about
 lang: ru
 year: "1999"
+front: false
+teaser: ""
 permalink: "/ru/words/save-changes"
 ---
 

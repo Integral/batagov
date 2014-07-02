@@ -7,6 +7,8 @@ type: about
 lang: ru
 subtitle: Концерт АБ в Константиновском дворце
 year: "2013"
+front: false
+teaser: ""
 permalink: "/ru/words/park-chayki"
 ---
 

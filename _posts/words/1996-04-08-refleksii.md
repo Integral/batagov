@@ -8,6 +8,8 @@ source: "газета \"Сегодня\", апрель 1996"
 type: about
 lang: ru
 year: "1996"
+front: false
+teaser: ""
 permalink: "/ru/words/refleksii"
 ---
 

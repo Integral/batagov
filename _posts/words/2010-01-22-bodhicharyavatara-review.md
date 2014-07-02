@@ -7,6 +7,8 @@ source: "Журнал Результаты"
 type: about
 lang: ru
 year: "2010"
+front: false
+teaser: ""
 permalink: "/ru/words/bodhicharyavatara-review"
 ---
 

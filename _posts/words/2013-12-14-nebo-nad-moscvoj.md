@@ -7,6 +7,8 @@ type: text
 lang: ru
 source: "Facebook, 14 декабря 2013"
 year: "2013"
+front: false
+teaser: ""
 permalink: "/ru/words/nebo-nad-moscvoj"
 ---
 

@@ -8,6 +8,8 @@ source: "Звуки.ру"
 type: about
 lang: ru
 year: "2008"
+front: false
+teaser: ""
 permalink: "/ru/words/ab_xmz-review"
 ---
 

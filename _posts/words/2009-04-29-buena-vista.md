@@ -7,6 +7,8 @@ type: text
 lang: ru
 subtitle: Революция форевер
 year: "2009"
+front: false
+teaser: ""
 permalink: "/ru/words/buena-vista"
 ---
 

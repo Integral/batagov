@@ -7,6 +7,8 @@ subtitle: избранные главы из поэмы Шантидевы
 type: other
 lang: ru
 year: ""
+front: false
+teaser: ""
 permalink: "/ru/words/bodhicharyavatara-text"
 ---
 

@@ -7,6 +7,8 @@ source: "журнал Культ личностей #1, 1998"
 type: about
 lang: ru
 year: "1998"
+front: false
+teaser: ""
 permalink: "/ru/words/strategia-uskolzania"
 ---
 

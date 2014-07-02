@@ -6,6 +6,8 @@ title: Бараний рог
 type: text
 lang: ru
 year: "2001"
+front: false
+teaser: ""
 permalink: "/ru/words/baraniy-rog"
 ---
 

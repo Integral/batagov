@@ -8,6 +8,8 @@ type: interview
 lang: ru
 source: "газета \"Частный корреспондент\" 23 августа 2010. Вопросы задавал Дмитрий Бавильский.  В тексте также использована статья А.Б. \"Почему Бах?\""
 year: "2010"
+front: false
+teaser: ""
 permalink: "/ru/words/bach-authentic"
 ---
 

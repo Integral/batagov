@@ -8,6 +8,8 @@ type: interview
 lang: ru
 source: "Three Pieces"
 year: "2012"
+front: false
+teaser: ""
 redirect: "http://threepieces.org/anton-batagov"
 permalink: "/ru/words/three-pieces"
 ---

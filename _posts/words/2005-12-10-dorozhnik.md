@@ -7,6 +7,8 @@ type: text
 lang: ru
 subtitle: заметки переводчика
 year: "2005"
+front: false
+teaser: ""
 permalink: /ru/words/dorozhnik
 ---
 

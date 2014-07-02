@@ -9,6 +9,8 @@ lang: ru
 source: "infox.ru/Афиша"
 year: "2010"
 redirect: "http://www.infox.ru/afisha/cinema/2010/08/13/kinoshkola_batagov_dva.phtml"
+front: false
+teaser: ""
 permalink: "/ru/words/o-kinomuzyke-2"
 ---
 

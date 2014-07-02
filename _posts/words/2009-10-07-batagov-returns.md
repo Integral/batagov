@@ -8,6 +8,8 @@ source: "The Gathering Note"
 type: about
 lang: ru
 year: "2009"
+front: false
+teaser: ""
 permalink: "/ru/words/batagov-returns"
 ---
 

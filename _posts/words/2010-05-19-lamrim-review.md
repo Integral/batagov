@@ -7,6 +7,8 @@ source: "Журнал Sea of Tranquility (США)"
 type: about
 lang: ru
 year: "2010"
+front: false
+teaser: ""
 permalink: "/ru/words/lamrim-review"
 ---
 

@@ -6,6 +6,8 @@ title: "Tayatha. Рецензия"
 type: about
 lang: ru
 year: "2013"
+front: false
+teaser: ""
 permalink: "/ru/words/tayatha-timeout"
 ---
 

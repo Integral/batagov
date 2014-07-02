@@ -8,6 +8,8 @@ source: "Журнал \"ИТОГИ\", 2 сентября 1997"
 type: interview
 lang: ru
 year: "1997"
+front: false
+teaser: ""
 permalink: /ru/words/fotograf-zvuka
 ---
 
