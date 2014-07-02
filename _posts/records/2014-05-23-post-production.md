@@ -7,12 +7,13 @@ type: composer
 description: ""
 year: "2014"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/post_production_thumb.jpg"
-permalink: /en/records/2014/post-production
+permalink: "/en/records/2014/post-production"
 artwork: "http://batagov.s3.amazonaws.com/records/artwork/post_production.jpg"
 buy: "http://fancymusic.ru/anton-batagov-post-production/"
 itunes: "https://itunes.apple.com/ru/album/post-production/id845023502"
 lang: en
-l10n: /ru/records/2014/post-production
+l10n: "/ru/records/2014/post-production"
+front: true
 ---
 
 - The Lake
