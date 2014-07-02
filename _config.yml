@@ -70,7 +70,7 @@ prose:
           value: "false"
       - name: "teaser"
         field:
-          element: "textarea"
+          element: "text"
           label: "Teaser"
           value: ""
       - name: "permalink"
@@ -152,9 +152,9 @@ prose:
           value: "false"
       - name: "teaser"
         field:
-          element: "textarea"
+          element: "text"
           label: "Teaser"
-          placeholder: "test"
+          value: ""
       - name: "permalink"
         field:
           element: "text"
@@ -235,7 +235,7 @@ prose:
           value: "false"
       - name: "teaser"
         field:
-          element: "textarea"
+          element: "text"
           label: "Teaser"
           value: ""
       - name: "permalink"
