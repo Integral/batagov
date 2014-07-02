@@ -8,6 +8,7 @@ type: video
 lang: ru
 year: "2014"
 description: "Концерт в Московском Международном Доме Музыки"
+teaser: "Партита №4 Ре мажор, “Jesus bleibet meine Freude” (Chorale from Cantata No.147), Партита №6 Ми минор"
 permalink: "/ru/live/bach-moscow"
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/bach_moscow.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/bach_moscow_thumb.jpg"

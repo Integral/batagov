@@ -17,18 +17,5 @@ l10n: /ru/concerts
 {% endfor %}
 </div>
 <script>
-$('li.live a').addClass('active');
-$('dl.live').show();
-
-$( document ).ready(function() {
-	var hash = $(location).attr('hash').replace('#','');
-	if(hash == 'video' || hash == 'audio') {
-		$('a[data-menu="' + hash + '"]').parent().addClass('active');
-    $('.records').shuffle('shuffle', function($el, shuffle) {
-      return $el.hasClass(hash);
-    });
-	} else {
-		$('a[data-menu="*"]').parent().addClass('active');
-	}
-});
+$('li.concerts a').addClass('active');
 </script>
