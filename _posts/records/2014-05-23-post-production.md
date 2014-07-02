@@ -7,6 +7,8 @@ type: composer
 description: ""
 year: "2014"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/post_production_thumb.jpg"
+front: "true"
+teaser: "Anton Batagov's new album!"
 permalink: "/en/records/2014/post-production"
 artwork: "http://batagov.s3.amazonaws.com/records/artwork/post_production.jpg"
 buy: "http://fancymusic.ru/anton-batagov-post-production/"
