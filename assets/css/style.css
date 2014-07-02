@@ -129,8 +129,8 @@ div.main {text-align: center;}
 }
 
 #l10n {position: fixed; bottom: 30px;}
-#l10n span.active {color:#858585;}
-#l10n a {color:#666;}
+#l10n span.active {color:#666;}
+#l10n a {color:#858585;}
 #l10n img {height: 23px; padding: 3px;-webkit-filter: grayscale(100%);-moz-filter: grayscale(100%);filter: grayscale(100%);}
 #l10n span.active img {border: 1px dashed #666;}
 #l10n a img:hover {border: 1px dashed #666;-webkit-filter: grayscale(0%);-moz-filter: grayscale(0%);filter: grayscale(0%);}
@@ -704,4 +704,16 @@ div.post-year {float: right;}
   font-style: italic;
   padding: 20px 0px 0px;
   text-align: right;
+}
+
+/* concerts */
+
+.concerts h2 {
+  font-weight: normal;
+  padding-top: 50px;
+}
+
+.concerts .teaser {
+  clear: both;
+  font-weight: 100;
 }
