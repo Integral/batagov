@@ -5,6 +5,7 @@ permalink: /ru/
 
 <div class="main">
 {% for post in site.posts  %}
+{% if post.lang == 'ru' %}
 {% if post.front == true %}
   <a href="{{ site.baseurl }}{{ post.url }}">
     <img class="artwork" src="{{ post.artwork }}" >
@@ -12,6 +13,7 @@ permalink: /ru/
     <div class="description">{{ post.description }}</div>
     <div class="teaser">{{ post.teaser }}</div>
   </a>
+{% endif %}
 {% endif %}
 {% endfor %}
 </div>
