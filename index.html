@@ -4,8 +4,16 @@ permalink: /
 ---
 
 <div class="main">
-  <a href="{{ site.baseurl }}/en/records/2014/post-production/">
-    <img class="artwork" src="http://batagov.s3.amazonaws.com/records/artwork/post_production.jpg" >
-    <h1 class="title">Post Production</h1>
+{% for post in site.posts  %}
+{% if post.lang == 'ru' %}
+{% if post.front == true %}
+  <a href="{{ site.baseurl }}{{ post.url }}">
+    <img class="artwork" src="{{ post.artwork }}" >
+    <h1 class="title">{{ post.title }}</h1>
+    <div class="description">{{ post.description }}</div>
+    <div class="teaser">{{ post.teaser }}</div>
   </a>
+{% endif %}
+{% endif %}
+{% endfor %}
 </div>
