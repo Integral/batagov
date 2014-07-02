@@ -7,12 +7,36 @@ permalink: /ru/
 {% for post in site.posts  %}
 {% if post.lang == 'ru' %}
 {% if post.front == true %}
+{% case post.category %}
+{% when 'records' %}
   <a href="{{ site.baseurl }}{{ post.url }}">
     <img class="artwork" src="{{ post.artwork }}" >
     <h1 class="title">{{ post.title }}</h1>
     <div class="description">{{ post.description }}</div>
     <div class="teaser">{{ post.teaser }}</div>
   </a>
+{% when 'live' %}
+{% if post.live == true %}
+  <a href="{{ site.baseurl }}{{ post.url }}">
+    <img class="artwork" src="{{ post.artwork }}" >
+    <h1 class="title">{{ post.title }}</h1>
+    <div class="description">{{ post.description }}</div>
+    <div class="teaser">{{ post.teaser }}</div>
+  </a>
+{% else %}
+  <a href="{{ site.baseurl }}{{ post.url }}">
+    <h1 class="title">{{ post.title }}</h1>
+    <div class="description">{{ post.description }}</div>
+    <div class="teaser">{{ post.teaser }}</div>
+  </a>
+{% endif %}
+{% 'words' %}
+  <a href="{{ site.baseurl }}{{ post.url }}">
+    <h1 class="title">{{ post.title }}</h1>
+    <div class="subtitle">{{ post.description }}</div>
+    <div class="teaser">{{ post.teaser }}</div>
+  </a>
+{% endcase %}
 {% endif %}
 {% endif %}
 {% endfor %}
