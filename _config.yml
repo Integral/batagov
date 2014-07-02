@@ -154,7 +154,6 @@ prose:
         field:
           element: "textarea"
           label: "Teaser"
-          value: "test"
           placeholder: "test"
       - name: "permalink"
         field:
