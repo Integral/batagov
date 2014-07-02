@@ -6,6 +6,8 @@ title: Бодхичарья-Аватара
 type: composer
 year: "2009"
 description: "Путь Бодхисаттвы, избранные главы из поэмы Шантидевы"
+front: false
+teaser: ""
 permalink: /ru/records/2009/bodhicharyavatara
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/bodhicharyavatara.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/bodhicharyavatara.jpg"

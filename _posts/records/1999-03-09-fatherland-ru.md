@@ -6,6 +6,8 @@ title: "Родина"
 type: composer
 year: "1999"
 description: ""
+front: false
+teaser: ""
 permalink: "/ru/records/1999/fatherland"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/rodina.gif"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/rodina.gif"

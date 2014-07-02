@@ -6,6 +6,8 @@ title: Музыка для 35 Будд
 type: composer
 year: "2001"
 description: ""
+front: false
+teaser: ""
 permalink: "/ru/records/2001/music-for-the-35-buddhas"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/35bcover.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/35bcover.jpg"

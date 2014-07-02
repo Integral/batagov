@@ -7,6 +7,8 @@ type: composer
 description: "Music by Anton Batagov, chanted by Lama Sonam Dorje"
 year: "2012"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/samantabhadra.jpg"
+front: false
+teaser: ""
 permalink: "/en/records/2012/the-prayer-of-samantabhadra"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/samantabhadra.jpg"
 itunes: "http://itunes.apple.com/us/album/prayer-samantabhadra-single/id499997840"

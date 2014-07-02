@@ -6,6 +6,8 @@ title: Prayers and Dances
 type: composer
 year: "2001"
 description: "a music documentary (traditional tibetan buddhist rituals) (2CDs)"
+front: false
+teaser: ""
 permalink: "/en/records/2001/prayers-and-dances"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/prayers_and_dances2.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/prayers_and_dances2.jpg"

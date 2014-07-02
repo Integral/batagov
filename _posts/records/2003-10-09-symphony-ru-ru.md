@@ -6,6 +6,8 @@ title: Symphony.ru
 type: composer
 year: "2003"
 description: ""
+front: false
+teaser: ""
 permalink: "/ru/records/2003/symphony-ru"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/symph.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/symph.jpg"

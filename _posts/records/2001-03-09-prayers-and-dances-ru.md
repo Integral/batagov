@@ -6,6 +6,8 @@ title: Молитвы и танцы
 type: composer
 year: "2001"
 description: "документальная музыка (традиционные ритуалы тибетского буддизма) (2CDs)"
+front: false
+teaser: ""
 permalink: "/ru/records/2001/prayers-and-dances"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/prayers_and_dances2.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/prayers_and_dances2.jpg"

@@ -6,6 +6,8 @@ title: Die Kunst der Fuge
 type: performer
 year: "1993"
 description: Bach (2 CDs)
+front: false
+teaser: ""
 permalink: "/en/records/1993/die-kunst-der-fuge"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/bach.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/bach.jpg"

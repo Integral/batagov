@@ -6,6 +6,8 @@ title: Passionate Desire to Be an Angel
 type: composer
 year: "2005"
 description: ""
+front: false
+teaser: ""
 permalink: "/en/records/2005/passionate-desire-to-be-an-angel"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/angel.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/angel.jpg"

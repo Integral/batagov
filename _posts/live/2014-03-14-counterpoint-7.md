@@ -8,6 +8,8 @@ type: video
 lang: en
 year: "2014"
 description: "Seven transcriptions for two pianos"
+front: false
+teaser: ""
 permalink: "/en/live/counterpoint-7"
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/kontrapunkt7.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/kontrapunkt7_thumb.jpg"

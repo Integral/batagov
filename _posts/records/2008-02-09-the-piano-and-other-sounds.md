@@ -6,6 +6,8 @@ title: "ab & xmz. The Piano And Other Sounds"
 type: composer
 year: "2008"
 description: "a collaboration with Ilya Khmyz"
+front: false
+teaser: ""
 permalink: "/en/records/2008/the-piano-and-other-sounds"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/ab_xmz.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/ab_xmz.jpg"

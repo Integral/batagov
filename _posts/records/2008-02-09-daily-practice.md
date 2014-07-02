@@ -6,6 +6,8 @@ title: Daily Practice
 type: composer
 year: "2008"
 description: "Lama Sonam Dorje & Anton Batagov"
+front: false
+teaser: ""
 permalink: "/en/records/2008/daily-practice"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/daily_practice.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/daily_practice.jpg"

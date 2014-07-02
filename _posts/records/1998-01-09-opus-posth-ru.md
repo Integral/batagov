@@ -6,6 +6,8 @@ title: Opus posth
 type: performer
 year: "1998"
 description: Владимир Мартынов
+front: false
+teaser: ""
 permalink: "/ru/records/1998/opus-posth"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/opuspost.gif"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/opuspost.gif"

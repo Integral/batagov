@@ -7,6 +7,8 @@ type: composer
 description: "Музыка: Антон Батагов, пение: Лама Сонам Дордже"
 year: "2012"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/samantabhadra_rus.jpg"
+front: false
+teaser: ""
 permalink: "/ru/records/2012/the-prayer-of-samantabhadra"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/samantabhadra_rus.jpg"
 itunes: "http://itunes.apple.com/us/album/prayer-samantabhadra-single/id499997840"

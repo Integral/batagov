@@ -6,6 +6,8 @@ title: Bodhicharyāvatāra
 type: composer
 year: "2009"
 description: "The Way of the Bodhisattva, selected chapters from the poem by Shantideva"
+front: false
+teaser: ""
 permalink: /en/records/2009/bodhicharyavatara
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/bodhicharyavatara.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/bodhicharyavatara.jpg"

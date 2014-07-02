@@ -6,6 +6,8 @@ title: Двадцать взглядов на младенца-Иисуса
 type: performer
 year: "1990"
 description: Мессиан (3 CDs)
+front: false
+teaser: ""
 permalink: "/ru/records/1990/vingt-regards-sur-lenfant-jesus"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/mess.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/mess.jpg"

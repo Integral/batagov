@@ -6,6 +6,8 @@ title: "С начала и до конца"
 type: composer
 year: "2004"
 description: ""
+front: false
+teaser: ""
 permalink: "/ru/records/2004/from-the-beginning-up-to-the-end"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/s_nachala.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/s_nachala.jpg"

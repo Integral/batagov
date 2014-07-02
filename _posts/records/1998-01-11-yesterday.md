@@ -6,6 +6,8 @@ title: Yesterday (Russian post-minimalist piano music)
 type: performer
 year: "1998"
 description: Peletsis, Zagny, Rabinovitch
+front: false
+teaser: ""
 permalink: "/en/records/1998/yesterday"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/yest.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/yest.jpg"

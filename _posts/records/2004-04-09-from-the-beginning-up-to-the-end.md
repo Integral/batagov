@@ -6,6 +6,8 @@ title: "From the Beginning up to the End"
 type: composer
 year: "2004"
 description: ""
+front: false
+teaser: ""
 permalink: "/en/records/2004/from-the-beginning-up-to-the-end"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/s_nachala.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/s_nachala.jpg"

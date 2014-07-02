@@ -6,6 +6,8 @@ title: Ежедневная практика
 type: composer
 year: "2008"
 description: "Лама Сонам Дордже & Антон Батагов"
+front: false
+teaser: ""
 permalink: "/ru/records/2008/daily-practice"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/daily_practice.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/daily_practice.jpg"

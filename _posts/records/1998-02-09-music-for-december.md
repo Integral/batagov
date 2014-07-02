@@ -6,6 +6,8 @@ title: "Music for December"
 type: composer
 year: "1998"
 description: ""
+front: false
+teaser: ""
 permalink: "/en/records/1998/music-for-december"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/dec.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/dec.jpg"

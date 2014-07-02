@@ -6,6 +6,8 @@ title: Vingt Regards sur l'Enfant-Jesus
 type: performer
 year: "1990"
 description: Messiaen (3 CDs)
+front: false
+teaser: ""
 permalink: "/en/records/1990/vingt-regards-sur-lenfant-jesus"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/mess.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/mess.jpg"

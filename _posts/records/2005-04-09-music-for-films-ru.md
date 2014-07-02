@@ -6,6 +6,8 @@ title: Music for Films
 type: composer
 year: "2005"
 description: 2CDs
+front: false
+teaser: ""
 permalink: "/ru/records/2005/music-for-films"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/films.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/films.jpg"

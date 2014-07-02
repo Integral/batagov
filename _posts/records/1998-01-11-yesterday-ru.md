@@ -6,6 +6,8 @@ title: Вчера (Советский поставангард 70-х - 90-х)
 type: performer
 year: "1998"
 description: Пелецис, Загний, Рабинович
+front: false
+teaser: ""
 permalink: "/ru/records/1998/yesterday"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/yest.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/yest.jpg"

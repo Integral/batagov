@@ -8,6 +8,8 @@ type: video
 lang: ru
 year: "2013"
 description: "Концерт в Гоголь-центре 5 декабря 2013 года"
+front: false
+teaser: ""
 permalink: "/ru/live/dom-to-dom"
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/dom_to_dom.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/dom_to_dom_thumb.jpg"

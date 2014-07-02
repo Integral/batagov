@@ -6,6 +6,8 @@ title: "Тридцать семь наставлений монаха Тогме
 type: composer
 year: "2007"
 description: ""
+front: false
+teaser: ""
 permalink: "/ru/records/2007/the-monk-thogmeys-thirty-seven-precepts"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/37.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/37.jpg"

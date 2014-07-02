@@ -7,6 +7,8 @@ type: composer
 description: Фортепианный цикл
 year: "2013"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/rachmaninoff%20cover.jpg"
+front: false
+teaser: ""
 permalink: /ru/records/2013/rachmaninoff
 artwork: "http://batagov.s3.amazonaws.com/records/artwork/rachmaninoff.png"
 buy: "http://fancymusic.ru/anton-batagov-selected-letters-of-sergei-rachmaninoff/"

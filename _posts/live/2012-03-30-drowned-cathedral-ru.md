@@ -8,6 +8,8 @@ type: video
 description: "Три вечера фортепианной музыки, Сиэтл, 29 - 31 марта 2012"
 year: "2012"
 thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/drowned_cathedral_thumb.jpg"
+front: false
+teaser: ""
 permalink: "/ru/live/drowned-cathedral"
 lang: ru
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/drowned_cathedral.jpg"

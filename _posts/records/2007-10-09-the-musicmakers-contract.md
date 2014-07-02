@@ -6,6 +6,8 @@ title: "The Musicmaker's Contract"
 type: composer
 year: "2007"
 description: NTV/NTV+ channels greatest hits
+front: false
+teaser: ""
 permalink: "/en/records/2007/the-musicmakers-contract"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/contract.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/contract.jpg"

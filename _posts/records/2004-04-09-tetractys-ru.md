@@ -6,6 +6,8 @@ title: Тетрактис
 type: composer
 year: "2004"
 description: OPUS POSTH Ensemble
+front: false
+teaser: ""
 permalink: /ru/records/2004/tetractys
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/tetractys.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/tetractys.jpg"

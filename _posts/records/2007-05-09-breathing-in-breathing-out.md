@@ -6,6 +6,8 @@ title: "Breathing In Breathing Out"
 type: composer
 year: "2007"
 description: "original motion picture soundtrack"
+front: false
+teaser: ""
 permalink: "/en/records/2007/breathing-in-breathing-out"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/V_V.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/V_V.jpg"

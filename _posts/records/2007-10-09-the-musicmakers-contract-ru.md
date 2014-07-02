@@ -6,6 +6,8 @@ title: "Контракт сочиняльщика"
 type: composer
 year: "2007"
 description: музыка для телеканалов НТВ и НТВ+
+front: false
+teaser: ""
 permalink: "/ru/records/2007/the-musicmakers-contract"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/contract.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/contract.jpg"

@@ -6,6 +6,8 @@ title: Сочинения для фортепиано
 type: performer
 year: "1993"
 description: Морис Равель
+front: false
+teaser: ""
 permalink: "/ru/records/1993/maurice-ravel-piano"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/maurice.gif"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/maurice.gif"

@@ -6,6 +6,8 @@ title: The Wheel of the Law
 type: composer
 year: "2002"
 description: 3CDs
+front: false
+teaser: ""
 permalink: "/en/records/2002/the-wheel-of-the-law"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/wheel.gif"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/wheel.gif"

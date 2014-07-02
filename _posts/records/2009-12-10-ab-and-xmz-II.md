@@ -7,6 +7,8 @@ type: composer
 description: A collaboration with Ilya Khmyz
 year: "2009"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/ab_xmzII.jpg"
+front: false
+teaser: ""
 permalink: "/en/records/2009/ab-and-xmz-2"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/ab_xmzII.jpg"
 lang: en

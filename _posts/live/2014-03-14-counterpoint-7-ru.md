@@ -8,6 +8,8 @@ type: video
 lang: ru
 year: "2014"
 description: "Семь транскрипций для двух роялей"
+front: false
+teaser: ""
 permalink: "/ru/live/counterpoint-7"
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/kontrapunkt7.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/kontrapunkt7_thumb.jpg"

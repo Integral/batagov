@@ -6,6 +6,8 @@ title: Music for Piano
 type: composer
 year: "2003"
 description: ""
+front: false
+teaser: ""
 permalink: "/en/records/2003/music-for-piano"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/piano.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/piano.jpg"

@@ -6,6 +6,8 @@ title: "Save changes before closing?"
 type: composer
 year: "2003"
 description: ""
+front: false
+teaser: ""
 permalink: "/en/records/2003/save-changes-before-closing"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/save.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/save.jpg"

@@ -6,6 +6,8 @@ title: "Вдох Выдох"
 type: composer
 year: "2007"
 description: "музыка к фильму"
+front: false
+teaser: ""
 permalink: "/ru/records/2007/breathing-in-breathing-out"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/V_V.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/thumbnails/V_V.jpg"

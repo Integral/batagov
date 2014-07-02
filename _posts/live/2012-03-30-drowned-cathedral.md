@@ -8,6 +8,8 @@ type: video
 description: "Three nights of piano music, Seattle, March 29 – 31, 2012"
 year: "2012"
 thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/drowned_cathedral_thumb.jpg"
+front: false
+teaser: ""
 permalink: "/en/live/drowned-cathedral"
 lang: en
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/drowned_cathedral.jpg"
