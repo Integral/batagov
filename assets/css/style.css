@@ -90,6 +90,9 @@ div.main .teaser {
   clear: both;
   font-weight: 100;
 }
+div.main a {
+  padding-bottom: 30px;
+}
 
 /* logo */
 
