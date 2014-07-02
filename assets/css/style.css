@@ -651,6 +651,7 @@ img.artwork {
 	max-width: 100%;
 	max-height: 100%;
 }
+ul.playlist {width: 525px;}
 ul.playlist li a.audio:after {
 	content: "\00a0 \f144";
 	display: inline-block;

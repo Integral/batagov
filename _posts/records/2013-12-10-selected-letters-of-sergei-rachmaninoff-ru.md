@@ -16,16 +16,16 @@ lang: ru
 l10n: /en/records/2013/rachmaninoff
 ---
 
-- У могилы Рахманинова (кладбище Кенсико, Валхалла, штат Нью-Йорк) [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=lKmYqfQxAdY)
-- Письмо Сергея Рахманинова Симеону тен Холту [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=_kOQsIF3KDw)
-- Письмо Сергея Рахманинова Питеру Гэбриэлу [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=-iiLHdASnqA)
-- Письмо Сергея Рахманинова Арво Пярту [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=u6Vh7Lnzugo)
-- Письмо Сергея Рахманинова Людовико Эйнауди [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=CUN6AsNIDBo)
-- Письмо Сергея Рахманинова Филипу Глассу [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=68hs-n94uT8)
-- Письмо Сергея Рахманинова Виму Мертенсу и Никколо Паганини [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=MUbEUL7RckA)
-- Письмо Сергея Рахманинова Брайану Ино [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=eF8iQ2QamTU)
-- Письмо Сергея Рахманинова Владимиру Мартынову [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=mWt0Sib7wZg)
-- У могилы Рахманинова. Постлюдия [<i class="fa fa-youtube-play"></i>](http://www.youtube.com/watch?v=cPDARo-YOzE)
+- У могилы Рахманинова (кладбище Кенсико, Валхалла, штат Нью-Йорк) [<i class="fa fa-youtube-play"></i>](/ru/live/rachmaninoff#part-1)
+- Письмо Сергея Рахманинова Симеону тен Холту [<i class="fa fa-youtube-play"></i>](/ru/live/rachmaninoff#part-2)
+- Письмо Сергея Рахманинова Питеру Гэбриэлу [<i class="fa fa-youtube-play"></i>](/ru/live/rachmaninoff#part-3)
+- Письмо Сергея Рахманинова Арво Пярту [<i class="fa fa-youtube-play"></i>](/ru/live/rachmaninoff#part-4)
+- Письмо Сергея Рахманинова Людовико Эйнауди [<i class="fa fa-youtube-play"></i>](/ru/live/rachmaninoff#part-5)
+- Письмо Сергея Рахманинова Филипу Глассу [<i class="fa fa-youtube-play"></i>](/ru/live/rachmaninoff#part-6)
+- Письмо Сергея Рахманинова Виму Мертенсу и Никколо Паганини [<i class="fa fa-youtube-play"></i>](/ru/live/rachmaninoff#part-7)
+- Письмо Сергея Рахманинова Брайану Ино [<i class="fa fa-youtube-play"></i>](/ru/live/rachmaninoff#part-8)
+- Письмо Сергея Рахманинова Владимиру Мартынову [<i class="fa fa-youtube-play"></i>](/ru/live/rachmaninoff#part-9)
+- У могилы Рахманинова. Постлюдия [<i class="fa fa-youtube-play"></i>](/ru/live/rachmaninoff#part-10)
 {: .playlist}
 
 © 2013 Fancymusic
