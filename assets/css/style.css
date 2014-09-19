@@ -110,7 +110,6 @@ div.main a div.description {
   margin-top: 180px;
   margin-bottom: 180px;
   width: 400px;
-  border-left: 1px dotted #eee;
   -webkit-font-smoothing: antialiased;
   position:	fixed;
 }
@@ -697,7 +696,7 @@ section.words-page h3 {
   padding: 0px;
 }
 
-a.item {color: #858585; display: block;}
+a.item {color: #d3d3d3; display: block;}
 
 a.item div.subtitle {
   font-size: 12px;
