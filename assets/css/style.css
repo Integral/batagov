@@ -8,8 +8,8 @@ body {
   font: 400 14px/1.6 "Open Sans", sans-serif;
   margin: 0px auto;
   padding: 0;
-  color: #474747;
-  background:#f0f0f0;
+  color: #fff;
+  background:#000;
   width: 980px;
   min-width: 980px;
 }
@@ -17,7 +17,7 @@ body {
 h1, h2, h3 {
   margin: 5px 0;
   font-weight: normal;
-  color: #474747;
+  color: #fff;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -67,7 +67,7 @@ h3 {
 /* links */
 
 a {
-  color: #666;
+  color: #d3d3d3;
   text-decoration: none;
 }
 
@@ -125,7 +125,7 @@ div.main a div.description {
 
 #logo .caption {
   font: 200 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #a3a3a3;
+  color: #fff;
   line-height: .75;
   text-transform: uppercase;
   width: 500px;
@@ -147,7 +147,7 @@ div.main a div.description {
 }
 
 #l10n {position: fixed; bottom: 30px;}
-#l10n span.active {color:#666;}
+#l10n span.active {color:#d3d3d3;}
 #l10n a {color:#858585;}
 #l10n img {height: 23px; padding: 3px;-webkit-filter: grayscale(100%);-moz-filter: grayscale(100%);filter: grayscale(100%);}
 #l10n span.active img {border: 1px dashed #666;}
@@ -606,7 +606,7 @@ ul.menu li {
 	list-style: none;
 }
 ul.menu > li > a {
-	color: #666;
+	color: #d3d3d3;
 }
 ul.menu > li > a.active {
 	color: #474747;
