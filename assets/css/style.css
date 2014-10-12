@@ -23,7 +23,7 @@ h1, h2, h3 {
 
 p em {
   font-style: italic;
-  color: #474747;
+  color: #fff;
 }
 
 p {
@@ -117,7 +117,7 @@ div.main a div.description {
 #logo .description {
   position: relative;
   top: -5px;
-  font: 100 58px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 200 58px "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #a3a3a3;
   line-height: .75;
 }
@@ -632,7 +632,7 @@ dl.sub dd.active a {
 }
 
 h1.title {
-	font: 100 34px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: 200 34px "Helvetica Neue", Helvetica, Arial, sans-serif;
 	padding: 15px 0;
 }
 div.prose {
