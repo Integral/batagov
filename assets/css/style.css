@@ -608,7 +608,7 @@ ul.menu > li > a {
 	color: #d3d3d3;
 }
 ul.menu > li > a.active {
-	color: #474747;
+	color: #fff;
 }
 
 ul.menu > li > a.active:after {
@@ -623,12 +623,12 @@ dl.sub {
 }
 
 dl.sub dd a {
-	color: #666;
+	color: #d3d3d3;
 }
 
 dl.sub dd.active a {
 	font-style: italic;
-	color: #474747;
+	color: #d3d3d3;
 }
 
 h1.title {
