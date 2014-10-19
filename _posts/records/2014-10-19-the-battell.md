@@ -18,7 +18,9 @@ l10n: "/ru/records/2014/the-battell"
 front: true
 ---
 
-William Byrd (1540 – 1623)  
+William Byrd (1540 – 1623) 
+
+The Battell (1-10)  
 
 - The souldiers sommons
 - The marche of footemen
@@ -31,6 +33,7 @@ William Byrd (1540 – 1623)
 - The retreat
 - The galliarde for the victorie
 - Will yow walke the woods soe wylde  
+{: .playlist}
 
 Johann Pachelbel (1653 – 1706)  
 
