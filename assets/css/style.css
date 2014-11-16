@@ -315,7 +315,7 @@ code .number { color: #2F6FAD }
 
 #top {
   line-height: 0;
-  background: black;
+  background: #ccc;
   -webkit-border-radius: 2px;
   position: fixed;
   bottom: 15px;
