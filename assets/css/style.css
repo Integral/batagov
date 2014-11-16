@@ -254,7 +254,7 @@ ul.navbar-nav li a:hover, a.navbar-brand:hover {
 nav.submenu {
   position: relative;
   top: 0px;
-  height: 50px;
+  height: 25px;
   display: block;
   right: 88px;
 }
