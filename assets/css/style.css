@@ -812,3 +812,9 @@ div.post-year {float: right;}
   clear: both;
   font-weight: 100;
 }
+
+/* photos */ 
+
+div.galleria-container {
+  margin: 0px auto;
+}
