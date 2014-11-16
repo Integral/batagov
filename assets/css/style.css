@@ -208,12 +208,14 @@ ul.navbar-nav {
   float: right;
   list-style: none;
   padding: 0px;
-  width: 700px;
 }
 ul.navbar-nav li {
   float: left;
   position: relative;
   display: block;
+}
+ul.navbar-nav li a {
+  text-transform: uppercase;
 }
 
 /* code */
