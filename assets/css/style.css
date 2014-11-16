@@ -217,8 +217,9 @@ div.navbar-header {
 div.navbar-header a.navbar-brand {
   font-size: 25px;
   color: #fff;
-  padding: 8px 0px 0px 8px;
+  padding: 2px 0px 0px 8px;
   font-weight: 100;
+  display: block;
 }
 div.navbar-container {
   float: right;
@@ -774,7 +775,7 @@ div.post-year {float: right;}
   font-weight: 200;
   font-style: italic;
   font-size: 16px;
-  width: 510px;
+  width: 780px;
   float: left;
   padding-bottom: 20px;
 }
