@@ -194,7 +194,8 @@ ul.playlist li.sm2_playing a.sm2_link,
 ul.playlist li.sm2_paused a.sm2_link {
  margin-right:4.5em; /* room for timing stuff */
  padding: 5px 0px 0px 10px;
- font-weight: 400;
+ font-weight: 200;
+ font-style: italic;
 }
 
 ul.playlist li .timing {
