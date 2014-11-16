@@ -810,7 +810,7 @@ div.post-year {float: right;}
 
 /* concerts */
 
-.concerts {
+#content .concerts {
   display: block;
   width: 600px;
   margin: 0px auto;
