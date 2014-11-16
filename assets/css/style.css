@@ -720,6 +720,7 @@ h1.title {
 div.prose {
 	font: 200 14px/1.6 "Open Sans", sans-serif;
 	clear: both;
+  max-width: 600px;
 }
 
 div.prose img {width:100%;}
@@ -810,7 +811,7 @@ div.post-year {float: right;}
 
 /* concerts */
 
-#content .concerts {
+#content .concerts, #content .words {
   display: block;
   width: 600px;
   margin: 0px auto;
