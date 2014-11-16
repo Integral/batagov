@@ -208,7 +208,7 @@ nav.navbar {
   margin-bottom: 0px;
   position: relative;
   top: 0px;
-  height: 70px;
+  height: 65px;
   padding: 10px 0px;
 }
 div.navbar-header {
@@ -259,7 +259,7 @@ ul.navbar-nav li a:hover, a.navbar-brand:hover {
 nav.submenu {
   position: relative;
   top: 0px;
-  height: 25px;
+  height: 30px;
   display: block;
   right: 88px;
 }
@@ -729,7 +729,9 @@ section#content.record-page, section#content.live-page {
 	padding: 15px 20px 0;
 }
 img.artwork {
-	max-width: 100%;
+	margin: 0px auto;
+  display: block;
+  max-width: 600px;
 	max-height: 100%;
 }
 ul.playlist {width: 525px;}
@@ -807,6 +809,12 @@ div.post-year {float: right;}
 }
 
 /* concerts */
+
+.concerts {
+  display: block;
+  width: 600px;
+  margin: 0px auto;
+}
 
 .concerts h2 {
   font-weight: normal;
