@@ -14,7 +14,7 @@
 		<script type="text/javascript" src="{{ site.baseurl }}/assets/js/page-player.js"></script>
 		<script type="text/javascript" src="{{ site.baseurl }}/assets/js/main.js"></script>
 	</head>
-	<body>
+	<body class="not-front">
 		<nav class="navbar" role="navigation">
   		<div class="container">
 		    <div class="navbar-header">
@@ -29,7 +29,7 @@
 						<li class="life"><a href="{{ site.baseurl }}/ru/life">Жизнь</a></li>
 						<li class="photos"><a href="{{ site.baseurl }}/ru/photos">Фото</a></li>
 						<li class="l10n">
-							<a href="{% if page.l10n %}{{ site.baseurl }}{{ page.l10n }}{% else %}{{ site.baseurl }}{% endif %}">eng</a>
+							<a href="{% if page.l10n %}{{ site.baseurl }}{{ page.l10n }}{% else %}{{ site.baseurl }}{% endif %}">English</a>
 						</li>
 		    	</ul>
 		    </div>
