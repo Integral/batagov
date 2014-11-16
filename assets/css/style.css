@@ -197,9 +197,15 @@ nav.navbar {
   margin-bottom: 0px;
   position: relative;
   top: 0px;
+  height: 70px;
+  padding: 10px 0px 10px 24px;
 }
 div.navbar-header {
   float: left;
+}
+div.navbar-header a.navbar-brand {
+  font-size: 25px;
+  color: #fff;
 }
 div.navbar-container {
   float: right;
@@ -208,6 +214,7 @@ ul.navbar-nav {
   float: right;
   list-style: none;
   padding: 0px;
+  font-size: 14px;
 }
 ul.navbar-nav li {
   float: left;
