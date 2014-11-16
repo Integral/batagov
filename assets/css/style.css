@@ -190,6 +190,32 @@ div.main a div.description {
   display: none;
 }
 
+/* navbar */
+
+nav.navbar {
+  background-color: #000;
+  margin-bottom: 0px;
+  position: relative;
+  top: 0px;
+}
+div.navbar-header {
+  float: left;
+}
+div.navbar-container {
+  float: right;
+}
+ul.navbar-nav {
+  float: right;
+  list-style: none;
+  padding: 0px;
+  width: 700px;
+}
+ul.navbar-nav li {
+  float: left;
+  position: relative;
+  display: block;
+}
+
 /* code */
 
 p code {
