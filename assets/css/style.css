@@ -36,7 +36,7 @@ p {
 }
 
 strong {
-  color: #474747;
+  color: #fff;
 }
 
 .inner {
@@ -262,6 +262,9 @@ nav.submenu {
   height: 30px;
   display: block;
   right: 88px;
+}
+nav.submenu.ru {
+  right: 82px;
 }
 nav.submenu dl {
   float: right;
