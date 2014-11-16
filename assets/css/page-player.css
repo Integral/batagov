@@ -61,7 +61,7 @@ ul.playlist li {
 
 ul.playlist li a {
  text-decoration:none;
- color:#777;
+ color:#fff;
  outline:none;
  position:relative;
  z-index:2;
@@ -78,12 +78,12 @@ ul.playlist li:hover {
 }
 
 ul.playlist li:hover a {
- color:#333;
+ color:#fff;
 }
 
 ul.playlist li.sm2_playing,
 ul.playlist li.sm2_playing:hover {
- background-color:#f0f0f0;
+ background-color:#000;
 }
 
 ul.playlist li.sm2_paused {
