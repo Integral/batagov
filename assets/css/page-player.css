@@ -71,6 +71,7 @@ ul.playlist li.sm2_playing,
 ul.playlist li.sm2_paused,
 ul.playlist li.sm2_playing a {
  border-radius:3px;
+ padding-top: 5px;
 }
 
 ul.playlist li:hover {
