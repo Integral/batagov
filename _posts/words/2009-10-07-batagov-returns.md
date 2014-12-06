@@ -10,6 +10,7 @@ lang: ru
 year: "2009"
 front: false
 teaser: ""
+l10n: "/en/words/batagov-returns"
 permalink: "/ru/words/batagov-returns"
 ---
 
