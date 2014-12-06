@@ -9,6 +9,7 @@ lang: ru
 year: "2010"
 front: false
 teaser: ""
+l10n: "/en/words/lamrim-review"
 permalink: "/ru/words/lamrim-review"
 ---
 
