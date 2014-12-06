@@ -12,7 +12,7 @@ permalink: "/en/words/wheel-review"
 year: "2010"
 ---
 
-##Anton Batagov: [The Wheel Of The Law]({{ site.baseurl }}/en/records/2002/the-wheel-of-the-law)
+###Anton Batagov: [The Wheel Of The Law]({{ site.baseurl }}/en/records/2002/the-wheel-of-the-law)
 
 > "...the greatest new minimalist work of the past 10 years"
 

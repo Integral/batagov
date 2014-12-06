@@ -11,7 +11,7 @@ teaser: ""
 permalink: "/en/words/37-review-aquarius"
 ---
 
-##Anton BATAGOV: [The Monk Thogmey's Thirty-Seven Precepts]({{ site.baseurl }}/en/records/2007/the-monk-thogmeys-thirty-seven-precepts/)
+###Anton Batagov: [The Monk Thogmey's Thirty-Seven Precepts]({{ site.baseurl }}/en/records/2007/the-monk-thogmeys-thirty-seven-precepts/)
 
 Yet another breathtakingly beautiful release from Russian composer/pianist Anton Batagov, the fourth we've reviewed, and another recording/composition inexorably tied into Batagov's Buddhism. _The Monk Thogmey's Thirty-Seven Precepts_, like Batagov's other compositions, unfurls a luxurious sonic backdrop, over which sacred Buddhist writings are sung/spoken/chanted. In this case, it's Gyalsey Thogmey Zangpo's titular poem chanted by Lama Tsering Dondrub. The subtle sing-songy delivery is mesmerizing, quite trancelike in fact, drifting serenely over the brooding, hypnotic, darkly shimmer beneath. 
 

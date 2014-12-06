@@ -11,7 +11,7 @@ teaser: ""
 permalink: "/en/words/bodhicharyavatara-review"
 ---
 
-##Anton BATAGOV: [Bodhicharyavatara]({{ site.baseurl }}/en/records/2009/bodhicharyavatara/)
+###Anton Batagov: [Bodhicharyavatara]({{ site.baseurl }}/en/records/2009/bodhicharyavatara/)
 
 Another gorgeous collection of Buddhist based modern minimalist compositions from one of our favorite contemporary classical composers/performers. We recently made another Batagov release our Record Of The Week (_Music For The 35 Buddhas_), and we sold tons of Batagov's sprawling three disc minimalist masterpiece _The Wheel Of The Law_, which ranks as one of our all time favorites, classical or otherwise!
 

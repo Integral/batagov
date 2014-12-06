@@ -14,7 +14,7 @@ l10n: "/ru/words/ab_xmzII-review"
 permalink: "/en/words/ab_xmzII-review"
 ---
 
-### [ab & xmz II]({{ site.baseurl/en/records/2009/ab-and-xmz-2/ }})
+###Anton Batagov and Ilya Khmyz: [ab & xmz II]({{ site.baseurl/en/records/2009/ab-and-xmz-2/ }})
 
 Ilya Khmyz and Anton Batagov have released a second album together. Honestly speaking, this came as a complete surprise for me as the first album seemed to be a thing in itself, a finished work that demanded no continuation whatsoever. Well, apparently, the two musicians' communication during the recording was so interesting, their mutual understanding so complete, that it was simply impossible to resist the temptation to experience the pleasure once again.
 

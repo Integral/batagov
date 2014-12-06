@@ -12,7 +12,7 @@ l10n: "/ru/words/35buddhas-review"
 permalink: "/en/words/35buddhas-review"
 ---
 
-##Highlights of the week. Anton BATAGOV: [Music For The 35 Buddhas]({{ site.baseurl }}/en/records/2001/music-for-the-35-buddhas/)
+###Highlights of the week. Anton Batagov: [Music For The 35 Buddhas]({{ site.baseurl }}/en/records/2001/music-for-the-35-buddhas/)
 
 We first discovered Russian pianist / composer Anton Batagov via his breathtaking triple CD release _The Wheel Of The Law_, a record EVERYone here loved, and one that we sold tons of. Much of what made that record special was how rooted in Buddhism the music was. A mesmerizingly hypnotic arrangement for organ, glockenspiel, xylophone, piano and percussion, it conjured up a tranquility and otherworldliness that we found quite moving, the various movements offering up gorgeously rhythmic and almost looped sounding figures, the sort of composition that we presume is how he ended up being described by some reviewer as "Reich on vodka". And while he is most definitely influenced by Reich and Riley and Glass, his sound is definitely something unique. Batagov is as much about the spaces between the notes as the notes themselves. Batagov is also quite the collaborator, often teaming up with rock musicians and other non classical performers, and has produced all manner of releases from straight up classical to soundtracks.
 
