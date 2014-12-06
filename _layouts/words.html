@@ -24,4 +24,9 @@ $('dl.words').show();
 $('dl.words a[data-menu="{{ page.type }}"]').parent().addClass('active');
 </script>
 {% endif %}
+{% if page.lang == 'en' %}
+<script>
+$('li.words a').addClass('active');
+</script>
+{% endif %}
 {% include footer.html %}

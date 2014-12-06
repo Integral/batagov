@@ -8,6 +8,7 @@ lang: ru
 year: "2012"
 front: false
 teaser: ""
+l10n: "/en/words/35buddhas-review"
 permalink: "/ru/words/35buddhas-review"
 ---
 
