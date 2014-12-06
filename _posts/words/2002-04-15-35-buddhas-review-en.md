@@ -10,7 +10,7 @@ lang: en
 year: "2006"
 front: false
 teaser: ""
-permalink: "/en/words/music-for-piano-review"
+permalink: "/en/words/35-buddhas-review-2006"
 ---
 
 ###Anton Batagov: [Music for the Thirty-five Buddhas]({{ site.baseurl }}/en/records/2001/music-for-the-35-buddhas/)
