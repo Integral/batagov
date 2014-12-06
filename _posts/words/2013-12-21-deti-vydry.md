@@ -2,7 +2,7 @@
 published: true
 layout: words
 category: words
-title: "Дети выдры Владимира Мартынова "
+title: "Дети выдры Владимира Мартынова"
 type: text
 lang: ru
 subtitle: в Доме музыки 21 декабря 2013 года
