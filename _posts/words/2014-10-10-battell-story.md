@@ -11,7 +11,7 @@ teaser: ""
 permalink: "/ru/words/battell-story"
 ---
 
-![](http://batagov.s3.amazonaws.com/records/artwork/battell.jpg)
+[![](http://batagov.s3.amazonaws.com/records/artwork/battell.jpg)]({{ site.baseurl }}/ru/records/2014/the-battell/)
 
 У этого [диска]({{ site.baseurl }}/ru/records/2014/the-battell/), что называется, "непростая судьба".
 
