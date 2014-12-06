@@ -7,6 +7,7 @@ type: about
 lang: ru
 front: false
 teaser: ""
+l10n: "/en/words/wheel-review"
 permalink: "/ru/words/wheel-review"
 year: "2010"
 ---
