@@ -12,7 +12,7 @@ teaser: ""
 permalink: "/ru/words/nebo-nad-moscvoj"
 ---
 
-![]({{ site.baseurl }}//assets/media/sky111213.jpg)
+![]({{ site.baseurl }}/assets/media/sky111213.jpg)
 
 Вот такое сегодня небо над г.Москва.
 

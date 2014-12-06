@@ -11,7 +11,7 @@ teaser: ""
 permalink: "/ru/words/bach-birthday"
 ---
 
-![]({{ site.baseurl }}//assets/media/monument.jpg)
+![]({{ site.baseurl }}/assets/media/monument.jpg)
 
 Дорогой Иоганн,
 
