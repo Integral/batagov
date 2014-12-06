@@ -7,7 +7,6 @@ subtitle: "Рецензия"
 source: "Звуки.ру"
 type: about
 lang: ru
-subtitle: ""
 year: "2014"
 front: false
 teaser: ""
