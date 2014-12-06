@@ -7,7 +7,7 @@ subtitle: "Anton Batagov in search of Absolute Reality"
 source: "Man'Music newspaper"
 type: ""
 lang: en
-year: "2006"
+year: "2002"
 front: false
 teaser: ""
 permalink: "/en/words/35-buddhas-review"

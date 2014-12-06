@@ -10,7 +10,7 @@ year: "2010"
 front: false
 teaser: ""
 l10n: "/ru/words/bodhicharyavatara-review"
-permalink: "/en/words/bodhicharyavatara-review"
+permalink: "/en/words/bodhicharyavatara-review-2010"
 ---
 
 One might ask – what could be common among American blues-rock, medieval ballads, and Buddhist chanting? Normally, one might be tempted to answer – of course, nothing – but strangely enough, an intersection between these parallel musical planes does exist in the figure of Anton Batagov. I would never have believed this possible, but here on this CD is a recording in which Batagov effortlessly creates such an amalgam of musical cultures with his own hands. Telo Tulku Rinpoche is materialised on this disk by voices alone.

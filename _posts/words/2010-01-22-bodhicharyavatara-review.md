@@ -9,7 +9,7 @@ lang: ru
 year: "2010"
 front: false
 teaser: ""
-l10n: "/en/words/bodhicharyavatara-review"
+l10n: "/en/words/bodhicharyavatara-review-2010"
 permalink: "/ru/words/bodhicharyavatara-review"
 ---
  	
