@@ -2,7 +2,8 @@
 published: true
 layout: words
 category: words
-title: "TAYATHA CD review"
+title: "TAYATHA"
+subtitle: "CD review"
 type: ""
 lang: en
 year: "2013"
