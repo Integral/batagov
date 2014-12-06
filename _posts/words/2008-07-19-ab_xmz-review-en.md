@@ -13,7 +13,7 @@ teaser: ""
 permalink: "/en/words/ab_xmz-review"
 ---
 
-##ab & xmz: [The Piano and Other Sounds]({{ site.baseurl/en/records/2008/the-piano-and-other-sounds/ }})
+###ab & xmz: [The Piano and Other Sounds]({{ site.baseurl/en/records/2008/the-piano-and-other-sounds/ }})
 
 Nikolai Dmitriev introduced Anton Batagov to Ilya Khmyz in 2004 when the piece _Tetractys_ recorded by Tatiana Grindenko’s ensemble Opus Posth was being prepared for mixing. An academic approach wouldn’t have suited such apparently simple music that held so much more within. It was necessary to look at it with a fresh vision. As is now known, such a “view” of Batagov’s music has been realised. If you have any doubts, please listen to the disk _Tetractys_ (CDLA 04064).
 

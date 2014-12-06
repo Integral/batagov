@@ -3,7 +3,7 @@ published: true
 layout: words
 category: words
 title: "ab&xmz II CD review"
-subtitle: "Мнение незаинтересованного человека"
+subtitle: ""
 source: "REZULTATY magazine"
 type: ""
 lang: en
