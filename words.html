@@ -5,7 +5,7 @@ l10n: /ru/words/
 ---
 <div class="clearfix words">
   {% for post in site.categories.words  %}
-  {% if post.type == 'text' and post.lang == 'en' %}
+  {% if post.lang == 'en' %}
 	<a href="{% if post.redirect %}{{ post.redirect }}{% else %}{{ site.baseurl }}{{ post.url }}{% endif %}" class="item {{ post.type }}" class="item {{ post.type }}" data-year="{{ post.year }}">
     	<div class="article">
         <div class="title">{{ post.title }}</div>
