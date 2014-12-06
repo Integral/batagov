@@ -9,6 +9,7 @@ year: "2013"
 front: false
 teaser: ""
 permalink: "/ru/words/tayatha-timeout"
+l10n: "/en/words/tayatha-timeout"
 ---
 
 ##О диске [Tayatha]({{ site.baseurl }}/ru/records/2013/tayatha/) (Янгчен Лхамо и Антон Батагов)
