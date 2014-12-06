@@ -17,9 +17,11 @@ layout: none
 	{% endif %}
 	<div class="prose">{{ content }}</div>
 </section>
+{% if page.lang == 'ru' %}
 <script>
 $('li.words a').addClass('active');
 $('dl.words').show();
 $('dl.words a[data-menu="{{ page.type }}"]').parent().addClass('active');
 </script>
+{% endif %}
 {% include footer.html %}

@@ -1,7 +1,7 @@
 ---
 layout: record
 category: records
-published: true
+published: false
 title: "Родина"
 type: composer
 year: "1999"

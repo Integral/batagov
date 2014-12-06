@@ -1,0 +1,18 @@
+---
+layout: default_en
+permalink: /en/selected-reviews/
+l10n: /eu/words/
+---
+<div class="clearfix words">
+  {% for post in site.categories.words  %}
+  {% if post.type == 'text' and post.lang == 'en' %}
+	<a href="{% if post.redirect %}{{ post.redirect }}{% else %}{{ site.baseurl }}{{ post.url }}{% endif %}" class="item {{ post.type }}" class="item {{ post.type }}" data-year="{{ post.year }}">
+    	<div class="article">
+        <div class="title">{{ post.title }}</div>
+        <div class="subtitle">{{ post.subtitle }}</div>
+      </div>
+      <div class="post-year">{{ post.year }}</div>
+	</a>
+  {% endif %}
+  {% endfor %}
+</div>
