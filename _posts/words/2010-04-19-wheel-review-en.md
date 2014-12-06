@@ -12,15 +12,17 @@ permalink: "/en/words/wheel-review"
 year: "2010"
 ---
 
-Anton Batagov: [The Wheel Of The Law]({{ site.baseurl }}/en/records/2002/the-wheel-of-the-law)
+##Anton Batagov: [The Wheel Of The Law]({{ site.baseurl }}/en/records/2002/the-wheel-of-the-law)
 
 > "...the greatest new minimalist work of the past 10 years"
-_*Forced Exposure* magazine (Boston, MA)_
+
+_**Forced Exposure** magazine (Boston, MA)_
 
 ***
 
 > "I want you to know about this Russian composer’s stunning, trance-inducing, eerie compositions."
-_*Magnet* magazine (Philadelphia, PA)_
+
+_**Magnet** magazine (Philadelphia, PA)_
 
 ***
 
@@ -30,6 +32,6 @@ This is not actually new, but this is the first time we've been able to get this
 
 The first disc, "Circle Of Time" is four long movements of warm rich swells of organ, flowing lazily beneath delicate cyclical chimes and abstract piano figures, very dramatic and hypnotic. The second disc, the 4 track Voidness cycle: "Appearances And Voidness", "Clarity And Voidness", "Bliss And Voidness", "Mind And Voidness", introduces the same delicate chimes found on the first disc, but this time over a repeating series of haunting moaning violin melodies. Minor key and mildly atonal, the melodies are spread out over a spare background of complex overtones, all drifting dreamily into space. The final disc: "Liberation Through Listening In The Between" is again a massive sprawl of lush static organ drones, wavering and subtly pulsing, with simple three and four note melodies played out over minutes instead of seconds, chiming and ringing, resonating above the organ's mesmerizing drone, the whole thing supported by a barely there framework of simple percussion, so subtle and simple that it's basically a single drum, muted and way down in the mix, offering a sort of pulse for the piece, a musical heartbeat, slowed down, as if in meditation or contemplation.
 
-*So completely an utterly breathtaking.*
+**So completely an utterly breathtaking.**
 
 Andrew Connors, _Aquarius Records (San Francisco)_
