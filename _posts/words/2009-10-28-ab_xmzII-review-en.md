@@ -2,8 +2,8 @@
 published: true
 layout: words
 category: words
-title: "ab&xmz II CD review"
-subtitle: ""
+title: "ab&xmz II"
+subtitle: "CD review"
 source: "REZULTATY magazine"
 type: ""
 lang: en

@@ -2,8 +2,8 @@
 published: true
 layout: words
 category: words
-title: "Music for the 35 Buddhas CD review"
-subtitle: "Highlights of the week"
+title: "Music for the 35 Buddhas"
+subtitle: "CD review, Highlights of the week"
 type: ""
 lang: en
 year: "2012"

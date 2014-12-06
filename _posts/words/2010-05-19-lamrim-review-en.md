@@ -2,7 +2,8 @@
 published: true
 layout: words
 category: words
-title: "Lamrim. A Prayer To The Lineage Gurus CD review"
+title: "Lamrim. A Prayer To The Lineage Gurus"
+subtitle: "CD review"
 source: "Sea of Tranquility magazine (USA)"
 type: ""
 lang: en

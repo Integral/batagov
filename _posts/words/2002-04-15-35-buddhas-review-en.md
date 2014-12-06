@@ -2,8 +2,8 @@
 published: true
 layout: words
 category: words
-title: "Music for the 35 Buddhas CD review"
-subtitle: "Anton Batagov in search of Absolute Reality"
+title: "Music for the 35 Buddhas"
+subtitle: "CD review, Anton Batagov in search of Absolute Reality"
 source: "Man'Music newspaper"
 type: ""
 lang: en

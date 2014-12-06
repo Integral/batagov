@@ -2,8 +2,8 @@
 published: true
 layout: words
 category: words
-title: "ab&xmz The Piano and Other Sounds CD review"
-subtitle: ""
+title: "ab&xmz The Piano and Other Sounds"
+subtitle: "CD review"
 source: "REZULTATY magazine"
 type: ""
 lang: en

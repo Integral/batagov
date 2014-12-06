@@ -2,7 +2,8 @@
 published: true
 layout: words
 category: words
-title: "The Monk Thogmey's Thirty-Seven Precepts CD review"
+title: "The Monk Thogmey's Thirty-Seven Precepts"
+subtitle: "CD review"
 type: ""
 lang: en
 year: "2012"

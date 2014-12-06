@@ -2,7 +2,8 @@
 published: true
 layout: words
 category: words
-title: "The Wheel of the Law CD reviews"
+title: "The Wheel of the Law"
+subtitle: "CD reviews"
 type: ""
 lang: en
 front: false

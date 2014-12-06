@@ -2,8 +2,8 @@
 published: true
 layout: words
 category: words
-title: "Music for Piano CD review"
-subtitle: ""
+title: "Music for Piano"
+subtitle: "CD review"
 source: "Heaven Harvest (USA)"
 type: ""
 lang: en

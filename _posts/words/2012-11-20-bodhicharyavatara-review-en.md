@@ -2,7 +2,8 @@
 published: true
 layout: words
 category: words
-title: "Bodhicharyavatara CD review"
+title: "Bodhicharyavatara"
+subtitle: "CD review"
 type: ""
 lang: en
 year: "2012"

@@ -2,7 +2,8 @@
 published: true
 layout: words
 category: words
-title: "BODHICHARYAVATARA CD review"
+title: "BODHICHARYAVATARA"
+subtitle: "CD review"
 source: "REZULTATY magazine"
 type: ""
 lang: en

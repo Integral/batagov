@@ -10,6 +10,7 @@ lang: en
 year: "1995"
 front: false
 teaser: ""
+l10n: "/ru/words/pozvoni-mne
 permalink: "/en/words/dialog-review"
 ---
 
