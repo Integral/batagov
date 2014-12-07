@@ -6,7 +6,7 @@ title: Битва во сне
 video: true
 type: live
 lang: ru
-year: "2013"
+year: "2014"
 description: "Концерт и презентация альбома в ММДМ 31 октября 2014 (Бёрд, Перселл, Пахельбель, Кейдж, анонимные авторы XVI в.)"
 front: false
 teaser: ""
