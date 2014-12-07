@@ -245,6 +245,9 @@ ul.navbar-nav li a.active:after {
   left: 5px;
   position: relative;
 }
+body.not-front.en ul.navbar-nav li a.active:after {
+  left: 1px;
+}
 ul.navbar-nav li.l10n a {
   padding: 2px 10px;
   margin: 0px;
@@ -352,6 +355,10 @@ nav a {
   margin: 0 5px;
   padding-right: 15px;
   border-right: 1px dotted #eee;
+}
+
+body.not-front.en nav a {
+  padding-right: 6px;
 }
 
 nav a:last-child {
