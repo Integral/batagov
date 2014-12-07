@@ -5,7 +5,7 @@ l10n: /en/video
 ---
 
 <div class="clearfix concerts">
-  <h2 id="live" class="section-title">Live videos</h2>
+  <h2 id="live" class="section-title">Видеозаписи концертов</h2>
 {% for post in site.categories.concert  %}
 {% if post.video == true %}
 {% if post.lang == 'ru' %}
@@ -19,7 +19,7 @@ l10n: /en/video
 {% endfor %}
 </div>
 <div class="clearfix concerts">
-  <h2 id="other" class="section-title">Other videos</h2>
+  <h2 id="other" class="section-title">Другие видео</h2>
 {% for post in site.categories.video  %}
 {% if post.lang == 'ru' %}
   <a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
