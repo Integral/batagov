@@ -870,6 +870,10 @@ div.galleria-container {
   margin-bottom: 20px;
 }
 
+.videos a.other {
+  padding-top: 30px;
+}
+
 .videos .description {
   width: 500px;
 }
