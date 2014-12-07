@@ -892,7 +892,7 @@ div.galleria-container {
   width: 420px;
 }
 
-.videos a.other h2 {
+.videos a.other h2, .videos .description, .videos .teaser {
   width: 600px;
 }
 
