@@ -877,4 +877,10 @@ div.galleria-container {
 .videos h2 {
   margin-top: 20px;
   font-weight: normal;
+  max-width: 500px;
+}
+
+.videos h2.section-title {
+  margin: 30px 0px 30px;
+  font-style: italic;
 }
