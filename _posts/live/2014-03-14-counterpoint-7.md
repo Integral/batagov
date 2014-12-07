@@ -7,7 +7,7 @@ video: true
 type: live
 lang: en
 year: "2014"
-description: "Live at the Moscow International House of Music, March 14, 2014"
+description: "Live at the Moscow International House of Music, March 14, 2014 (Glass, Pachelbel, Batagov)"
 front: false
 teaser: ""
 permalink: "/en/video/counterpoint-7"

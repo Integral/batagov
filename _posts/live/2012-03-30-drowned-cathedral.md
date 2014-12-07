@@ -5,7 +5,7 @@ category: concert
 title: Drowned Cathedral
 video: true
 type: live
-description: "Three nights of piano music, Seattle, March 29 – 31, 2012"
+description: "Three nights of piano music, Seattle, March 29 – 31, 2012 (Glass, Bach, Batagov, Debussy)"
 year: "2012"
 thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/drowned_cathedral_thumb.jpg"
 front: false

@@ -7,7 +7,7 @@ video: true
 type: live
 lang: ru
 year: "2014"
-description: "Концерт в ММДМ 14 марта 2014"
+description: "Концерт в ММДМ 14 марта 2014 (Гласс, Пахельбель, Батагов)"
 front: false
 teaser: ""
 permalink: "/ru/video/counterpoint-7"

@@ -5,7 +5,7 @@ category: concert
 title: Затонувший собор
 video: true
 type: live
-description: "Три вечера фортепианной музыки, Сиэтл, 29 - 31 марта 2012"
+description: "Три вечера фортепианной музыки, Сиэтл, 29 - 31 марта 2012 (Гласс, Бах, Батагов, Дебюсси)"
 year: "2012"
 thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/drowned_cathedral_thumb.jpg"
 front: false

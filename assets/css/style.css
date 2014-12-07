@@ -774,6 +774,9 @@ div.description {
 	float: left;
   padding-bottom: 10px;
 }
+div.concerts div.description {
+  width: 600px;
+}
 div.links {
 	text-align: right;
 	float: right;

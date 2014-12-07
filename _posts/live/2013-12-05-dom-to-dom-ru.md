@@ -7,7 +7,7 @@ video: true
 type: live
 lang: ru
 year: "2013"
-description: "Концерт в Гоголь-центре 5 декабря 2013 года"
+description: "Концерт в Гоголь-центре 5 декабря 2013 года (Бах, Дебюсси, Батагов, Бердб, Перселл, Ребиков, Григ)"
 front: false
 teaser: ""
 permalink: "/ru/video/dom-to-dom"
