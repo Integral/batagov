@@ -1,19 +1,19 @@
 ---
 published: true
-layout: live
-category: live
+layout: video
+category: concert
 title: Затонувший собор
 video: true
-type: video
+type: live
 description: "Три вечера фортепианной музыки, Сиэтл, 29 - 31 марта 2012"
 year: "2012"
 thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/drowned_cathedral_thumb.jpg"
 front: false
 teaser: ""
-permalink: "/ru/live/drowned-cathedral"
+permalink: "/ru/video/drowned-cathedral"
 lang: ru
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/drowned_cathedral.jpg"
-l10n: "/en/live/drowned-cathedral"
+l10n: "/en/video/drowned-cathedral"
 ---
 
 > Игра Антона Батагова воскрешает дух Рихтера. Она проникает в те сферы, которые были доступны только Рихтеру.

@@ -1,21 +1,20 @@
 ---
 published: true
-layout: live
-category: live
-title: Counterpoint 7
+layout: video
+category: concert
+title: "Polina Osetinskaya and Anton Batagov. Counterpoint 7"
 video: true
+type: live
 lang: en
 year: "2014"
-description: "Seven transcriptions for two pianos"
+description: "Live at the Moscow International House of Music, March 14, 2014"
 front: false
 teaser: ""
-permalink: "/en/live/counterpoint-7"
+permalink: "/en/video/counterpoint-7"
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/kontrapunkt7.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/kontrapunkt7_thumb.jpg"
-l10n: /ru/live/counterpoint-7
+l10n: /ru/video/counterpoint-7
 ---
-
-###Live at the Moscow International House of Music, March 14, 2014, performed by Polina Osetinskaya and Anton Batagov
 
 <iframe id="part-1" width="560" height="315" src="//www.youtube.com/embed/PT4u6wpPmyw" frameborder="0" allowfullscreen></iframe>
 _Philip Glass: Protest from Satyagraha (a piano duo transcription by AB)_  

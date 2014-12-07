@@ -361,6 +361,10 @@ body.not-front.en nav a {
   padding-right: 6px;
 }
 
+body.not-front.en nav li.l10n a {
+  padding-right: 10px;
+}
+
 nav a:last-child {
   border-right: none;
 }

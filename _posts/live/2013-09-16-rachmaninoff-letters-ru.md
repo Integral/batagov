@@ -1,18 +1,19 @@
 ---
 published: true
-layout: live
-category: live
+layout: video
+category: concert
 title: Избранные письма Сергея Рахманинова
 video: true
+type: live
 lang: ru
 year: "2013"
 description: "Московская премьера, Рахманиновский зал, 16 сентября 2013"
 front: false
 teaser: ""
-permalink: "/ru/live/rachmaninoff"
+permalink: "/ru/video/rachmaninoff"
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/letters.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/letters_thumb.jpg"
-l10n: /en/live/rachmaninoff
+l10n: /en/video/rachmaninoff
 ---
 
 <iframe id="part-1" width="560" height="315" src="//www.youtube.com/embed/lKmYqfQxAdY" frameborder="0" allowfullscreen></iframe>

@@ -1,21 +1,20 @@
 ---
 published: true
-layout: live
-category: live
-title: Контрапункт 7
+layout: video
+category: concert
+title: "Полина Осетинская и Антон Батагов. Контрапункт 7"
 video: true
+type: live
 lang: ru
 year: "2014"
-description: "Семь транскрипций для двух роялей"
+description: "Концерт в ММДМ 14 марта 2014"
 front: false
 teaser: ""
-permalink: "/ru/live/counterpoint-7"
+permalink: "/ru/video/counterpoint-7"
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/kontrapunkt7.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/kontrapunkt7_thumb.jpg"
-l10n: /en/live/counterpoint-7
+l10n: /en/video/counterpoint-7
 ---
-
-###Концерт Полины Осетинской и А.Б. в Московском Международном Доме Музыки 14 марта 2014
 
 <iframe id="part-1" width="560" height="315" src="//www.youtube.com/embed/PT4u6wpPmyw" frameborder="0" allowfullscreen></iframe>
 _Филип Гласс: Протест из оперы "Сатьяграха" (транскрипция А.Б.)_  

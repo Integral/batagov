@@ -1,18 +1,19 @@
 ---
 published: true
-layout: live
-category: live
+layout: video
+category: concert
 title: Selected Letters of Sergei Rachmaninoff
 video: true
+type: live
 lang: en
 year: "2013"
 description: "Moscow premiere, Rachmaninoff Concert Hall, September 16, 2013"
 front: false
 teaser: ""
-permalink: "/en/live/rachmaninoff"
+permalink: "/en/video/rachmaninoff"
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/letters.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/letters_thumb.jpg"
-l10n: /ru/live/rachmaninoff
+l10n: /ru/video/rachmaninoff
 ---
 
 <iframe id="part-1" width="560" height="315" src="//www.youtube.com/embed/lKmYqfQxAdY" frameborder="0" allowfullscreen></iframe>

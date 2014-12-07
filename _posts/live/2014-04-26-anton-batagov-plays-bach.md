@@ -1,16 +1,17 @@
 ---
 published: true
-layout: live
-category: live
+layout: video
+category: concert
 title: Anton Batagov plays Bach
 video: true
+type: live
 lang: en
 year: "2014"
 description: "Live at the Moscow House of Music, Apr. 26, 2014"
-permalink: "/en/live/bach-moscow"
+permalink: "/en/video/bach-moscow"
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/bach_moscow.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/bach_moscow_thumb.jpg"
-l10n: "/ru/live/bach-moscow"
+l10n: "/ru/video/bach-moscow"
 front: true
 teaser: "Partita No.4 D major, “Jesus bleibet meine Freude” (Chorale from Cantata No.147), Partita No.6 E minor"
 ---

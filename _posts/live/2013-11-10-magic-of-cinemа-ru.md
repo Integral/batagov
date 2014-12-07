@@ -10,10 +10,10 @@ year: "2013"
 description: "Концерт в Гоголь-центре 5 декабря 2013 года"
 front: false
 teaser: ""
-permalink: "/ru/video/dom-to-dom"
+permalink: "/ru/video/magic-of-cinemа"
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/dom_to_dom.jpg"
 thumbnail: "http://batagov.s3.amazonaws.com/live/thumbnails/dom_to_dom_thumb.jpg"
-l10n: /en/video/dom-to-dom
+l10n: /en/video/magic-of-cinemа
 ---
 
 <iframe id="part-1" width="560" height="315" src="//www.youtube.com/embed/ybhpeIoZBKk" frameborder="0" allowfullscreen></iframe>
