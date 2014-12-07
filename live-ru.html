@@ -4,7 +4,7 @@ permalink: /ru/video/
 l10n: /en/video
 ---
 
-<div class="clearfix concerts">
+<div class="clearfix videos">
   <h2 id="live" class="section-title">Видеозаписи концертов</h2>
 {% for post in site.categories.concert  %}
 {% if post.video == true %}
@@ -19,7 +19,7 @@ l10n: /en/video
 {% endif %}
 {% endfor %}
 </div>
-<div class="clearfix concerts">
+<div class="clearfix videos">
   <h2 id="other" class="section-title">Другие видео</h2>
 {% for post in site.categories.video  %}
 {% if post.lang == 'ru' %}
