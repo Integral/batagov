@@ -863,3 +863,8 @@ div.galleria-container {
   height: 160px;
   background-size: cover;
 }
+
+.videos a.live {
+  clear: both;
+  min-height: 160px;
+}
