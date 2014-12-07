@@ -2,7 +2,7 @@
 published: true
 layout: video
 category: video
-title: "Бодхичарья-Аватара"
+title: "Антон Батагов: Бодхичарья-Аватара"
 type: other
 lang: ru
 year: "2009"
