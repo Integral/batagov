@@ -2,9 +2,8 @@
 published: true
 layout: live
 category: live
-live: true
 title: Anton Batagov plays Bach
-type: video
+video: true
 lang: en
 year: "2014"
 description: "Live at the Moscow House of Music, Apr. 26, 2014"

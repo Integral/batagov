@@ -3,8 +3,7 @@ published: true
 layout: live
 category: live
 title: Selected Letters of Sergei Rachmaninoff
-live: true
-type: video
+video: true
 lang: en
 year: "2013"
 description: "Moscow premiere, Rachmaninoff Concert Hall, September 16, 2013"

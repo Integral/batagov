@@ -3,8 +3,7 @@ published: true
 layout: live
 category: live
 title: Counterpoint 7
-live: true
-type: video
+video: true
 lang: en
 year: "2014"
 description: "Seven transcriptions for two pianos"

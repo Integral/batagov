@@ -3,8 +3,7 @@ published: true
 layout: live
 category: live
 title: Антон Батагов играет Баха
-live: true
-type: video
+video: true
 lang: ru
 year: "2014"
 description: Концерт в Московском Международном Доме Музыки

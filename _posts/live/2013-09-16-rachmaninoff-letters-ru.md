@@ -3,8 +3,7 @@ published: true
 layout: live
 category: live
 title: Избранные письма Сергея Рахманинова
-live: true
-type: video
+video: true
 lang: ru
 year: "2013"
 description: "Московская премьера, Рахманиновский зал, 16 сентября 2013"

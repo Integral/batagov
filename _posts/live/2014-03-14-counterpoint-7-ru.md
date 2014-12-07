@@ -3,8 +3,7 @@ published: true
 layout: live
 category: live
 title: Контрапункт 7
-live: true
-type: video
+video: true
 lang: ru
 year: "2014"
 description: "Семь транскрипций для двух роялей"

@@ -3,7 +3,7 @@ published: true
 layout: live
 category: live
 title: Drowned Cathedral
-live: true
+video: true
 type: video
 description: "Three nights of piano music, Seattle, March 29 – 31, 2012"
 year: "2012"

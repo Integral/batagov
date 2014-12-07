@@ -1,12 +1,12 @@
 ---
 layout: default
-permalink: /en/live/
-l10n: /ru/live
+permalink: /en/video/
+l10n: /ru/video
 ---
 
 <div class="clearfix records">
 {% for post in site.categories.live  %}
-{% if post.live == true %}
+{% if post.video == true %}
 {% if post.lang == 'en' %}
 	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
     	<div class="image" style="background-image:url({{ post.thumbnail }})"></div>
@@ -18,8 +18,8 @@ l10n: /ru/live
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js"></script>
 <script type="text/javascript" src="http://integral.github.io/batagov/assets/js/libs/shuffle/jquery.shuffle.min.js"></script>
 <script>
-$('li.live a').addClass('active');
-$('dl.live').show();
+$('li.video a').addClass('active');
+$('dl.video').show();
 
 $( function() {
   var $grid = $('.records'),

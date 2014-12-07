@@ -3,8 +3,7 @@ published: true
 layout: live
 category: live
 title: Как проехать из до минора в до мажор
-live: true
-type: video
+video: true
 lang: ru
 year: "2013"
 description: "Концерт в Гоголь-центре 5 декабря 2013 года"

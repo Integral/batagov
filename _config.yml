@@ -131,20 +131,11 @@ prose:
           element: "text"
           label: "Thumbnail url"
           value: ""
-      - name: "live"
+      - name: "video"
         field:
           element: "checkbox"
-          label: "Live"
+          label: "Video"
           value: "false"
-      - name: "type"
-        field:
-          element: "select"
-          label: "Type"
-          options:
-            - name: 'Video'
-              value: 'video'
-            - name: 'Audio'
-              value: 'audio'
       - name: "front"
         field:
           element: "checkbox"
