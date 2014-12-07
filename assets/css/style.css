@@ -882,12 +882,14 @@ div.galleria-container {
 
 .videos .description, .videos .teaser {
   float: left;
+  width: 400px;
 }
 
 .videos h2 {
   margin-top: 20px;
   font-weight: normal;
   float: left;
+  width: 400px;
 }
 
 .videos a.other h2 {
@@ -897,4 +899,5 @@ div.galleria-container {
 .videos h2.section-title {
   margin: 30px 0px 30px;
   font-style: italic;
+  width: 600px;
 }
