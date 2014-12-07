@@ -867,4 +867,14 @@ div.galleria-container {
 .videos a.live {
   clear: both;
   min-height: 160px;
+  margin-bottom: 20px;
+}
+
+.videos .description {
+  width: 500px;
+}
+
+.videos h2 {
+  margin-top: 20px;
+  font-weight: normal;
 }
