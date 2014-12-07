@@ -853,3 +853,13 @@ div.post-year {float: right;}
 div.galleria-container {
   margin: 0px auto;
 }
+
+/* videos */
+
+.videos .image {
+  float: right;
+  display: block;
+  width: 160px;
+  height: 160px;
+  background-size: cover;
+}
