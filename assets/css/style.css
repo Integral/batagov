@@ -856,6 +856,12 @@ div.galleria-container {
 
 /* videos */
 
+.videos {
+  width: 600px;
+  margin: 0px auto;
+  display: block;
+}
+
 .videos .image {
   float: right;
   display: block;
@@ -874,14 +880,14 @@ div.galleria-container {
   padding-top: 30px;
 }
 
-.videos .description {
-  width: 500px;
+.videos .description, .videos .teaser {
+  float: left;
 }
 
 .videos h2 {
   margin-top: 20px;
   font-weight: normal;
-  max-width: 500px;
+  float: left;
 }
 
 .videos a.other h2 {
