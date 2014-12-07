@@ -40,7 +40,7 @@ _Генри Пёрселл: Сюита соль мажор_
 _Иоганн Пахельбель (1653 – 1706): Чакона фа минор_
   
 <iframe id="part-8" width="560" height="315" src="//www.youtube.com/embed/C4f_rN_tgiE" frameborder="0" allowfullscreen></iframe>
-_Джон Кейдж : In a Landscape (В пейзаже)_
+_Джон Кейдж: In a Landscape (В пейзаже)_
   
 <iframe id="part-9" width="560" height="315" src="//www.youtube.com/embed/bV-8hWP1Lxo" frameborder="0" allowfullscreen></iframe>
 _Аноним (Англия, начало XVI в .): My Lady Careys Dompe_
