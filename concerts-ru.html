@@ -5,7 +5,7 @@ l10n: /en/concerts
 ---
 
 <div class="clearfix concerts">
-{% for post in site.categories.live  %}
+{% for post in site.categories.concert  %}
 {% if post.lang == 'ru' %}
 	<a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
     <h2>{{ post.title }}</h2>

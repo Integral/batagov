@@ -17,7 +17,7 @@ l10n: /ru/video/magic-of-cinemа
 ---
 
 <iframe id="part-1" width="560" height="315" src="//www.youtube.com/embed/QF6hhcRtW5s" frameborder="0" allowfullscreen></iframe>
-_F major _  
+_F major_  
 _from Vdokh / Vydokh (Breathing In Breathing Out) movie soundtrack_  
   
 <iframe id="part-2" width="560" height="315" src="//www.youtube.com/embed/eBJ-UiyAAlo" frameborder="0" allowfullscreen></iframe>
