@@ -873,7 +873,7 @@ div.galleria-container {
 .videos a.live {
   clear: both;
   min-height: 160px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .videos a.other {
@@ -882,18 +882,18 @@ div.galleria-container {
 
 .videos .description, .videos .teaser {
   float: left;
-  width: 400px;
+  width: 420px;
 }
 
 .videos h2 {
   margin-top: 20px;
   font-weight: normal;
   float: left;
-  width: 400px;
+  width: 420px;
 }
 
 .videos a.other h2 {
-  max-width: 600px;
+  width: 600px;
 }
 
 .videos h2.section-title {
