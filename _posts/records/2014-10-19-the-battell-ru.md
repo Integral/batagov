@@ -8,7 +8,7 @@ description: "Музыка Уильяма Берда и Иоганна Пахе�
 year: "2014"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/battell_thumb.jpg"
 front: "true"
-teaser: "Скоро: новый диск «The Battell»"
+teaser: "Новый диск «The Battell»"
 permalink: "/ru/records/2014/the-battell"
 artwork: "http://batagov.s3.amazonaws.com/records/artwork/battell.jpg"
 buy: ""
