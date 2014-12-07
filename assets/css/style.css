@@ -774,7 +774,8 @@ div.description {
 	float: left;
   padding-bottom: 10px;
 }
-div.concerts div.description {
+div.concerts div.description,
+.live-page div.description  {
   width: 600px;
 }
 div.links {
