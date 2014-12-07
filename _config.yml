@@ -100,11 +100,11 @@ prose:
       - name: "category"
         field:
           element: "hidden"
-          value: "live"
+          value: "concert"
       - name: "layout"
         field:
           element: "hidden"
-          value: "live"
+          value: "concert"
       - name: "title"
         field:
           element: "text"
@@ -136,6 +136,92 @@ prose:
           element: "checkbox"
           label: "Video"
           value: "false"
+      - name: "type"
+        field:
+          element: "select"
+          label: "Type"
+          options:
+            - name: 'Live'
+              value: 'live'
+            - name: 'Other'
+              value: 'other'
+      - name: "front"
+        field:
+          element: "checkbox"
+          label: "Front page"
+          value: "false"
+      - name: "teaser"
+        field:
+          element: "text"
+          label: "Teaser"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
+      - name: "lang"
+        field:
+          element: "select"
+          label: "Language"
+          options:
+            - name: 'English'
+              value: 'en'
+            - name: 'Russian'
+              value: 'ru'
+      - name: "l10n"
+        field:
+          element: "text"
+          label: "Translation"
+          value: ""
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
+    _posts/video:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "video"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "video"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "year"
+        field:
+          element: "text"
+          label: "Year"
+          value: ""
+      - name: "type"
+        field:
+          element: "select"
+          label: "Type"
+          options:
+            - name: 'Live'
+              value: 'live'
+            - name: 'Other'
+              value: 'other'
+      - name: "description"
+        field:
+          element: "text"
+          label: "Description"
+          value: ""
+          placeholder: "short description"
+      - name: "artwork"
+        field:
+          element: "text"
+          label: "Artwork url"
+          value: ""
+      - name: "thumbnail"
+        field:
+          element: "text"
+          label: "Thumbnail url"
+          value: ""
       - name: "front"
         field:
           element: "checkbox"
