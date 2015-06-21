@@ -55,6 +55,15 @@ body.not-front #content {
   padding: 0px;
 }
 
+body.words-list #content {
+  background-color: #fff;
+}
+
+body.words-list #content h2,
+body.words-list #content a {
+  color: #000;
+}
+
 section section p {
   width: 60%;
 }

@@ -19,6 +19,7 @@ layout: none
 </section>
 {% if page.lang == 'ru' %}
 <script>
+$('body').addClass('words');
 $('li.words a').addClass('active');
 $('dl.words').show();
 $('dl.words a[data-menu="{{ page.type }}"]').parent().addClass('active');
@@ -26,6 +27,7 @@ $('dl.words a[data-menu="{{ page.type }}"]').parent().addClass('active');
 {% endif %}
 {% if page.lang == 'en' %}
 <script>
+$('body').addClass('words');
 $('li.words a').addClass('active');
 </script>
 {% endif %}
