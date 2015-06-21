@@ -903,6 +903,17 @@ div.galleria-container {
   margin: 0px auto;
 }
 
+/* audio */
+
+body.audio ul.playlist {
+  list-style-type: none;
+}
+
+body.audio ul.playlist li {
+  border-bottom: 1px dotted #666;
+  padding: 15px;
+}
+
 /* videos */
 
 .videos {
