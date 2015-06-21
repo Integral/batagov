@@ -787,6 +787,10 @@ div.links {
 	height: 40px;
 }
 
+div.links a {
+  margin-left: 20px;
+}
+
 /* live */
 
 section.live-page iframe { padding-top: 20px; }
