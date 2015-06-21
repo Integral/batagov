@@ -241,7 +241,7 @@ ul.navbar-nav li a {
   font-size: 11px;
 }
 ul.navbar-nav li a.active:after {
-  content:" &#9660;";
+  content:" \25bc";
   left: 5px;
   position: relative;
 }
