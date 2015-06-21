@@ -16,9 +16,6 @@ thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/IFNM.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/artwork/IFNM-Cover.jpg"
 ---
 
-![IFNM Cover.jpg]({{site.baseurl}}/media/IFNM Cover.jpg)
-![IFNM cover Booklet.jpg]({{site.baseurl}}/media/IFNM cover Booklet.jpg)
-
 - Song I (Go and Catch a Falling Star)
 - Meditation II (The Heavens and The Earth)
 - The Message
@@ -39,9 +36,7 @@ Anton Batagov, piano
 Sergei Kalachev "Grebstel", bass guitar
 Vladimir Zharko, drums
 
-recorded live at Tchaikovsky Concert Hall, Moscow, November 17, 2014
-
-+ + +
+Recorded live at Tchaikovsky Concert Hall, Moscow, November 17, 2014
 
 When Vladimir Jurowski suggested that I write something for the State Symphony, the idea of a vocal cycle to the poerty of John Donne emerged immediately, in the course of our conversation, as if John Donne himself came to us and said:
 - Gentlemen. I have wanted to talk about something for a long time. I think it's time to do it now.
