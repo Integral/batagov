@@ -5,13 +5,13 @@ category: records
 title: I Fear No More
 type: composer
 front: true
-lang: en
+lang: ru
 year: "2015"
-description: Selected songs and meditations of John Donne
+description: "Избранные песни и медитации Джона Донна"
 buy: "http://fancymusic.ru/anton-batagov-i-fear-no-more-selected-songs-and-meditations-of-john-donne/"
-teaser: New album
-permalink: "en/records/2015/i-fear-no-more"
-l10n: "ru/records/2015/i-fear-no-more"
+teaser: Новый альбом
+permalink: "ru/records/2015/i-fear-no-more"
+l10n: "en/records/2015/i-fear-no-more"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/IFNM.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/artwork/IFNM-Cover.jpg"
 ---
@@ -23,35 +23,30 @@ artwork: "http://batagov.s3.amazonaws.com/records/artwork/IFNM-Cover.jpg"
 - Meditation XVII (For Whom the Bell Tolls) 
 - A Hymn to God The Father
 - Song II (Give No Way to Grief) 
-- Epilogue
+- Эпилог
 {: .playlist}
 
 © 2015 Fancymusic
 
-State Academic Symphony Orchestra of Russia
-Vladimir Jurowski, conductor
-Alexander Korenkov, vocals
-Asya Sorshneva, violin
-Anton Batagov, piano
-Sergei Kalachev "Grebstel", bass guitar
-Vladimir Zharko, drums
+Государственный Академический Симфонический Оркестр России им. Е.Ф. Светланова
+дирижер Владимир Юровский
+Александр Коренков (вокал)
+Ася Соршнева (скрипка)
+Сергей Калачев "Grebstel" (бас-гитара)
+Владимир Жарко (ударные)
+Антон Батагов (фортепиано)
 
-Recorded live at Tchaikovsky Concert Hall, Moscow, November 17, 2014
+Запись с концерта в Концертном зале им.Чайковского, Москва, 17 ноября 2014 года
 
-When Vladimir Jurowski suggested that I write something for the State Symphony, the idea of a vocal cycle to the poerty of John Donne emerged immediately, in the course of our conversation, as if John Donne himself came to us and said:
-- Gentlemen. I have wanted to talk about something for a long time. I think it's time to do it now.
- 
-We gladly agreed.
- 
-John Donne (1572 – 1631), English poet, priest, mystic, philosopher, alchemist.
-A man who had no fear of death because he knew that it was not the end but a long-awaited moment of renewal and cure, a moment when you are being "translated into a better language" like a chapter from a book – a language much more beautiful and perfect – to become part of a global library "where every book shall lie open to one another".
-A man who used the word "meditations" for his sermons.
-A man who uncompromisingly rejected everything that did not lead to the ultimate truth.
-A man who knew what true love was. Love that cannot be stopped by death.
-And he knew the difference between that love and an illusion people usually mistake for love.
-The one who has that knowledge sees no border between He and She, between You and I, between heaven and earth. 
-One who has that knowledge is aware that parting does not imply loss.
-One who has experienced such love gives no more way to grief.
-One who has experienced such love fears no more.
+Джон Донн (1572 – 1631), английский поэт, священник, мистик, философ, алхимик.
+Человек, который не боялся смерти, потому что знал, что это никакой не конец, а долгожданный момент обновления и исцеления, когда тебя, как главу из книги, переводят на другой язык, гораздо более совершенный и красивый, и ты становишься частью всемирной библиотеки, где все книги открыты друг для друга.
+Человек, который называл свои проповеди словом "медитация".
+Человек, который бескомпромиссно отвергал всё, что не вело к познанию высшей правды.
+Человек, который знал, что такое любовь. 
+Именно та любовь, для которой смерть не является преградой.
+И он знал, чем она отличается от иллюзии, которую люди часто принимают за любовь. 
+А для того, кто познал это, не существует границ между Он и Она, между Я и Ты, между землей и небом, а прощание не означает утрату.
+Тот, кто почувствовал такую любовь, больше не имеет права на печаль. 
+Тот, кто почувствовал такую любовь, больше ничего не боится.
 
-_Anton Batagov, edited by Cazimir Liske_
+_АБ_
