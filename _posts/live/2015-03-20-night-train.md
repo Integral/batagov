@@ -11,9 +11,8 @@ year: "2015"
 description: Концерт в Московском Международном Доме Музыки 20 марта 2015
 permalink: "ru/concerts/night-train-glass"
 teaser: Антон Батагов играет музыку Филипа Гласса
+artwork: "http://batagov.s3.amazonaws.com/live/artwork/TRAINposter%20bw.jpg"
 ---
-
-![TRAINposter bw.jpg]({{site.baseurl}}/media/TRAINposter bw.jpg)
 
 - Opening
 - Mad Rush
