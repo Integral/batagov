@@ -4,19 +4,19 @@ layout: record
 category: records
 title: The Battell
 type: composer
-description: "Музыка Уильяма Берда и Иоганна Пахельбеля"
+description: Музыка Уильяма Берда и Иоганна Пахельбеля
 year: "2014"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/battell_thumb.jpg"
-front: "true"
-teaser: "Новый диск «The Battell»"
+front: false
+teaser: Новый диск «The Battell»
 permalink: "/ru/records/2014/the-battell"
 artwork: "http://batagov.s3.amazonaws.com/records/artwork/battell.jpg"
-buy: ""
+buy: "http://fancymusic.ru/anton-batagov-i-fear-no-more-selected-songs-and-meditations-of-john-donne"
 itunes: ""
 lang: ru
 l10n: "/en/records/2014/the-battell"
-front: true
 ---
+
 
 Уильям Берд (1540 – 1623) 
 
