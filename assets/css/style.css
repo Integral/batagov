@@ -807,6 +807,14 @@ body.words div.navbar-header a.navbar-brand {
   color: #000;
 }
 
+body.words ul.navbar-nav li.l10n a {
+  border: 1px dashed #000;
+}
+
+body.words dl.sub dd.active a {
+  color: #525252;
+}
+
 body.words nav.navbar {
   background-color: #fff;
 }
