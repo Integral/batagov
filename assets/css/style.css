@@ -156,6 +156,11 @@ div.main a div.description {
   color: #858585;
 }
 
+#logo img.main-photo {
+  width: 200px;
+  margin-left: 50px;
+}
+
 #l10n {position: fixed; bottom: 30px;}
 #l10n span.active {color:#d3d3d3;}
 #l10n a {color:#858585;}
