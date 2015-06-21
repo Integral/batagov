@@ -53,9 +53,9 @@ permalink: "ru/words/glass-night-train-fb"
 
 Исправленному верить. Подпись.
 
-![PG and AB bw.jpg]({{site.baseurl}}/media/PG and AB bw.jpg)
+![glass signature.jpg]({{site.baseurl}}/media/glass signature.jpg)
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - -
 
 Объявляется посадка на скорый поезд № 00.
 
