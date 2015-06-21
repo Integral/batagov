@@ -914,6 +914,10 @@ body.audio ul.playlist li {
   padding: 15px 10px 15px 30px;
 }
 
+body.audio ul.playlist li:last-child {
+  border-bottom: none;
+}
+
 body.audio ul.playlist li .timing {
   right: -70px;
   top: 15px;
