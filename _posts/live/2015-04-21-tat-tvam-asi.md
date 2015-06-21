@@ -14,8 +14,6 @@ permalink: "ru/concerts/tat-tvam-asi"
 artwork: "http://batagov.s3.amazonaws.com/live/artwork/TTA%20event.jpg"
 ---
 
-[![TTA event.jpg]({{site.baseurl}}/media/TTA event.jpg)](http://www.mmdm.ru/afishaDescription/7857)
-
 - Леонин (XII в.): Benedicat Virgo
 - Dei genitrix 
 - Перотин (XII в.): Sederunt principes 
@@ -71,4 +69,3 @@ Tat Tvam Asi.
 
 _АБ 2015_
 _фото: Александр Коренков_
-
