@@ -835,8 +835,10 @@ body.words ul.navbar-nav li a {
 
 body.words-list #content {
   background-color: #fff;
-  padding-top: 10px;
-  margin-top: 10px;
+}
+
+body.words-list.en #content {
+  padding-top: 20px;
 }
 
 body.words-list #content h2,
@@ -846,7 +848,7 @@ body.words-list #content a {
 
 body.words-list #content h2 {
   margin: 15px 0px 15px;
-  padding-top: 5px;
+  padding-top: 15px;
 }
 
 h2.section-title {margin: 30px 0px 15px;}
