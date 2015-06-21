@@ -914,6 +914,35 @@ body.audio ul.playlist li {
   padding: 15px;
 }
 
+body.audio ul.playlist li .timing {
+  right: -70px;
+}
+
+body.audio ul.playlist li .controls .statusbar .loading {
+  background-color: #666;
+}
+
+body.audio ul.playlist li a.audio:before {
+  content: "\00a0 \f144";
+  display: inline-block;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  width: 0px;
+  left: -25px;
+}
+
+body.audio ul.playlist li a.audio:after {
+  content: "";
+}
+
+body.audio ul.playlist li.sm2_playing a.sm2_link,
+body.audio ul.playlist li.sm2_paused a.sm2_link {
+  padding: 0px;
+}
+
 /* videos */
 
 .videos {
