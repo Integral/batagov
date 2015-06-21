@@ -8,7 +8,7 @@ permalink: /ru/
 {% if post.lang == 'ru' %}
 {% if post.front == true %}
   <a href="{{ site.baseurl }}{{ post.url }}">
-    <img class="artwork" src="{{ post.artwork }}" >
+    {% if post.artwork %}{% if post.artwork != '' %}<img class="artwork" src="{{ post.artwork }}" >{% endif %}{% endif %}
     <h1 class="title">{{ post.title }}</h1>
     <div class="description">{{ post.description }}</div>
     <div class="teaser">{{ post.teaser }}</div>
