@@ -10,8 +10,8 @@ year: "2015"
 description: "Избранные песни и медитации Джона Донна"
 buy: "http://fancymusic.ru/anton-batagov-i-fear-no-more-selected-songs-and-meditations-of-john-donne/"
 teaser: Новый альбом
-permalink: "ru/records/2015/i-fear-no-more"
-l10n: "en/records/2015/i-fear-no-more"
+permalink: "/ru/records/2015/i-fear-no-more"
+l10n: "/en/records/2015/i-fear-no-more"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/IFNM.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/artwork/IFNM-Cover.jpg"
 ---
