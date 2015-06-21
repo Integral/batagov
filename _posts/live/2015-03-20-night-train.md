@@ -8,30 +8,24 @@ type: live
 front: true
 lang: ru
 year: "2015"
-description: Концерт в Московском Международном Доме Музыки 20 марта 2015 (Филип Гласс)
+description: Концерт в Московском Международном Доме Музыки 20 марта 2015
 permalink: "ru/concerts/night-train-glass"
 teaser: Антон Батагов играет музыку Филипа Гласса
 ---
 
 ![TRAINposter bw.jpg]({{site.baseurl}}/media/TRAINposter bw.jpg)
 
-Opening
+- Opening
+- Mad Rush
+- Wichita Vortex Sutra
+- Четыре этюда (первое исполнение в России)
+{:playlist}
 
-Mad Rush
-
-Wichita Vortex Sutra
-
-Четыре этюда (первое исполнение в России)
-
-_ _ _ _ _ _ _
-
-Три сцены из оперы " Einstein on the Beach" ("Эйнштейн на пляже"):
-
-Trial
-
-Night Train
-
-Knee 5
+- Три сцены из оперы " Einstein on the Beach" ("Эйнштейн на пляже"):
+- Trial
+- Night Train
+- Knee 5
+{:playlist}
 
 (фортепианные транскрипции Антона Батагова)
 _______________________________
