@@ -932,6 +932,7 @@ body.audio ul.playlist li a.audio:before {
   -webkit-font-smoothing: antialiased;
   width: 0px;
   left: -25px;
+  position: relative;
 }
 
 body.audio ul.playlist li a.audio:after {
