@@ -4,19 +4,19 @@ layout: record
 category: records
 title: The Battell
 type: composer
-description: "Music of William Byrd and Johann Pachelbel"
+description: Music of William Byrd and Johann Pachelbel
 year: "2014"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/battell_thumb.jpg"
-front: "true"
-teaser: "New album «The Battell»"
+front: false
+teaser: New album «The Battell»
 permalink: "/en/records/2014/the-battell"
 artwork: "http://batagov.s3.amazonaws.com/records/artwork/battell.jpg"
-buy: ""
+buy: "http://fancymusic.ru/anton-batagov-i-fear-no-more-selected-songs-and-meditations-of-john-donne/"
 itunes: ""
 lang: en
 l10n: "/ru/records/2014/the-battell"
-front: true
 ---
+
 
 William Byrd (1540 – 1623) 
 
