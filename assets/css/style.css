@@ -803,6 +803,10 @@ body.words {
   background-color: #FFF;
 }
 
+body.words a {
+  color: #525252;
+}
+
 body.words div.navbar-header a.navbar-brand {
   color: #000;
 }
