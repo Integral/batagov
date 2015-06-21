@@ -2,7 +2,7 @@
 published: true
 layout: words
 category: words
-title: ТАНГЕЙЗЕР НОВОСИБИРСК
+title: Тангейзер Новосибирск
 type: text
 front: false
 lang: ru
