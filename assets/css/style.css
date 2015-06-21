@@ -250,7 +250,7 @@ ul.navbar-nav li a {
   font-size: 11px;
 }
 ul.navbar-nav li a.active:after {
-  content:" \25bc";
+  content:" \25be";
   left: 5px;
   position: relative;
 }
