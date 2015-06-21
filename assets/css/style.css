@@ -815,6 +815,7 @@ body.words ul.navbar-nav li.l10n a {
   border: 1px dashed #000;
 }
 
+body.words dl.sub dd a,
 body.words dl.sub dd.active a {
   color: #525252;
 }
