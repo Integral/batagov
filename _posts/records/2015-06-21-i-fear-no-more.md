@@ -12,8 +12,8 @@ buy: "http://fancymusic.ru/anton-batagov-i-fear-no-more-selected-songs-and-medit
 teaser: New album
 permalink: "en/records/2015/i-fear-no-more"
 l10n: "ru/records/2015/i-fear-no-more"
-thumbnail: "{{site.baseurl}}/media/IFNM.jpg"
-artwork: "{{site.baseurl}}/media/IFNM Cover.jpg"
+thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/IFNM.jpg"
+artwork: "http://batagov.s3.amazonaws.com/records/artwork/IFNM-Cover.jpg"
 ---
 
 ![IFNM Cover.jpg]({{site.baseurl}}/media/IFNM Cover.jpg)
