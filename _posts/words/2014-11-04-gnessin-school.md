@@ -12,7 +12,6 @@ year: "2014"
 permalink: "/ru/words/gnessin-school"
 ---
 
-
 ![MSSMSH Gnesinyih.jpg]({{site.baseurl}}/media/MSSMSH Gnesinyih.jpg)
 
 Вчера я пошел в школу. В школу, в которой я учился – МССМШ им. Гнесиных. Там была "встреча" – сначала со мной, а потом с Теодором Курентзисом.
