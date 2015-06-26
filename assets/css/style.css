@@ -838,6 +838,11 @@ body.words-list #content {
   color: #000;
 }
 
+body.words-list #content p em,
+body.words-list #content a {
+  color: #000;
+}
+
 body.words-list.en #content {
   padding-top: 20px;
 }
