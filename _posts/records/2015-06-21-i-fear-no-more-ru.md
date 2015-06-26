@@ -7,7 +7,7 @@ type: composer
 front: true
 lang: ru
 year: "2015"
-description: "Избранные песни и медитации Джона Донна"
+description: Избранные песни и медитации Джона Донна
 buy: "http://fancymusic.ru/anton-batagov-i-fear-no-more-selected-songs-and-meditations-of-john-donne/"
 teaser: Новый альбом
 permalink: "/ru/records/2015/i-fear-no-more"
@@ -16,6 +16,7 @@ thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/IFNM.jpg"
 artwork: "http://batagov.s3.amazonaws.com/records/artwork/IFNM-Cover.jpg"
 ---
 
+
 - Song I (Go and Catch a Falling Star)
 - Meditation II (The Heavens and The Earth)
 - The Message
@@ -23,20 +24,21 @@ artwork: "http://batagov.s3.amazonaws.com/records/artwork/IFNM-Cover.jpg"
 - Meditation XVII (For Whom the Bell Tolls) 
 - A Hymn to God The Father
 - Song II (Give No Way to Grief) 
-- Эпилог
+- Epilogue
 {: .playlist}
 
 © 2015 Fancymusic
 
-Государственный Академический Симфонический Оркестр России им. Е.Ф. Светланова
-дирижер Владимир Юровский
-Александр Коренков (вокал)
-Ася Соршнева (скрипка)
-Сергей Калачев "Grebstel" (бас-гитара)
-Владимир Жарко (ударные)
-Антон Батагов (фортепиано)
-
+- Государственный Академический Симфонический Оркестр России им. Е.Ф. Светланова
+- дирижер Владимир Юровский
+- Александр Коренков (вокал)
+- Ася Соршнева (скрипка)
+- Сергей Калачев "Grebstel" (бас-гитара)
+- Владимир Жарко (ударные)
+- Антон Батагов (фортепиано)  
+  
 Запись с концерта в Концертном зале им.Чайковского, Москва, 17 ноября 2014 года
++++
 
 Джон Донн (1572 – 1631), английский поэт, священник, мистик, философ, алхимик.
 Человек, который не боялся смерти, потому что знал, что это никакой не конец, а долгожданный момент обновления и исцеления, когда тебя, как главу из книги, переводят на другой язык, гораздо более совершенный и красивый, и ты становишься частью всемирной библиотеки, где все книги открыты друг для друга.
