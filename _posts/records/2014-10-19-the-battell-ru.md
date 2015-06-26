@@ -3,7 +3,7 @@ published: true
 layout: record
 category: records
 title: The Battell
-type: composer
+type: performer
 description: Музыка Уильяма Берда и Иоганна Пахельбеля
 year: "2014"
 thumbnail: "http://batagov.s3.amazonaws.com/records/thumbnails/battell_thumb.jpg"
