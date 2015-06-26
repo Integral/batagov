@@ -741,6 +741,7 @@ div.prose {
 	clear: both;
   max-width: 600px;
   margin: 0px auto;
+  padding-bottom: 10px;
 }
 
 div.prose img {width:100%;}
