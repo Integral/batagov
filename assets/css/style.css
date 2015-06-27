@@ -140,7 +140,7 @@ div.main a div.description {
   text-transform: uppercase;
   width: 500px;
   display: block;
-  padding-top: 2px;
+  padding: 24px 0px 16px;
 }
 
 #logo em {
