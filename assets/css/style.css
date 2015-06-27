@@ -157,8 +157,11 @@ div.main a div.description {
 }
 
 #logo img.main-photo {
-  width: 200px;
-  margin-left: 45px;
+  width: 350px;
+  margin-left: -50px;
+  position: absolute;
+  z-index: -10;
+  margin-top: -46px;
 }
 
 #l10n {position: fixed; bottom: 30px;}
@@ -700,7 +703,8 @@ a.item:hover {text-decoration:none;}
 
 ul.menu {
 	border-left: 1px solid #666;
-	float: left;
+  float: left;
+  z-index: 9999999;
 }
 ul.menu li {
 	list-style: none;
