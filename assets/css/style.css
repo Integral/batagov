@@ -163,6 +163,10 @@ div.main a div.description {
   z-index: -10;
   margin-top: -46px;
 }
+body.ru #logo img.main-photo {
+  margin-left: -42px;
+  margin-top: -35px;
+}
 
 #l10n {position: fixed; bottom: 30px;}
 #l10n span.active {color:#d3d3d3;}
