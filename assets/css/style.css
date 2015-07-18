@@ -100,6 +100,7 @@ div.main a {text-decoration: none;}
 div.main .teaser {
   clear: both;
   font-weight: 100;
+  padding-top: 5px;
 }
 div.main a {
   padding-bottom: 50px;
