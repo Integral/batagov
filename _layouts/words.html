@@ -23,14 +23,12 @@ $('body').addClass('words-list');
 $('li.words a').addClass('active');
 $('dl.words').show();
 $('dl.words a[data-menu="{{ page.type }}"]').parent().addClass('active');
-document.title = "Слова | Антон Батагов";
 </script>
 {% endif %}
 {% if page.lang == 'en' %}
 <script>
 $('body').addClass('words-list');
 $('li.words a').addClass('active');
-document.title = "Words | Anton Batagov";
 </script>
 {% endif %}
 {% include footer.html %}
