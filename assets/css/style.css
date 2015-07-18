@@ -113,6 +113,7 @@ div.main a div.description {
   float: none;
   padding-bottom: 8px;
   width: 100%;
+  font-style: normal;
 }
 
 /* logo */
