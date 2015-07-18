@@ -756,7 +756,7 @@ div.prose ul {
   padding-left: 1em;
 }
 
-div.prose ul:before {
+div.prose ul li:before {
   display: inline-block;
   content: "-";
   width: 1em;
