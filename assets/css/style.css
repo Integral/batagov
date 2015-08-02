@@ -12,6 +12,11 @@ body {
   background:#000;
   width: 980px;
   min-width: 980px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
 }
 
 body.not-front {
@@ -44,7 +49,7 @@ strong {
 }
 
 #content {
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 460px;
   right: 0;
@@ -127,13 +132,10 @@ div.main a div.description {
 #logo {
   position: absolute;
   top: 180px;
-  bottom: 180px;
   left: 0;
   width: 400px;
   height: 100%;
   overflow: hidden;
-  margin-top: 180px;
-  margin-bottom: 180px;
   -webkit-font-smoothing: antialiased;
 }
 
