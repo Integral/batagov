@@ -704,7 +704,7 @@ div.prose {
 	font: 400 14px/1.6 "Open Sans", sans-serif;
 	clear: both;
   max-width: 600px;
-  margin: 0px 92px;
+  margin: 0px auto;
   padding-bottom: 10px;
 }
 
