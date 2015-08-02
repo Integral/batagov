@@ -64,6 +64,7 @@ body.not-front #content {
   width: 780px;
   padding: 0px;
   left: 0px;
+  top: 60px;
 }
 
 section section p {
@@ -882,7 +883,7 @@ body.words-list #content a {
 }
 
 body.words-list.en #content {
-  padding-top: 60px;
+  padding-top: 0px;
 }
 
 body.words-list #content h2,
