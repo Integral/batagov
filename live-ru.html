@@ -20,7 +20,7 @@ l10n: /en/video
 {% endfor %}
 </div>
 <div class="clearfix videos">
-  <h2 id="other" class="section-title">Другие видео</h2>
+  <h2 id="other" class="section-title">Другое</h2>
 {% for post in site.categories.video  %}
 {% if post.lang == 'ru' %}
   <a href="{{ site.baseurl }}{{ post.url }}" class="item {{ post.type }}" data-year="{{ post.year }}">
