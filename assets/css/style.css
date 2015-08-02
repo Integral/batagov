@@ -63,6 +63,7 @@ body.not-front #content {
   margin-left: 0px;
   width: 780px;
   padding: 0px;
+  left: 0px;
 }
 
 section section p {
@@ -134,7 +135,6 @@ div.main a div.description {
   top: 180px;
   left: 0;
   width: 400px;
-  height: 100%;
   overflow: hidden;
   -webkit-font-smoothing: antialiased;
 }
@@ -235,6 +235,7 @@ nav.navbar {
   position: relative;
   top: 0px;
   height: 65px;
+  width: 795px;
   padding: 10px 0px;
 }
 div.navbar-header {
@@ -881,7 +882,7 @@ body.words-list #content a {
 }
 
 body.words-list.en #content {
-  padding-top: 20px;
+  padding-top: 60px;
 }
 
 body.words-list #content h2,
