@@ -64,6 +64,10 @@ body.not-front #content {
   width: 780px;
   padding: 0px;
   left: 0px;
+  top: 100px;
+}
+
+body.not-front #content.static-page {
   top: 60px;
 }
 
@@ -236,7 +240,8 @@ nav.navbar {
   position: relative;
   top: 0px;
   height: 65px;
-  width: 795px;
+  width: 785px;
+  left: 0px;
   padding: 10px 0px;
 }
 div.navbar-header {
@@ -275,6 +280,9 @@ ul.navbar-nav li a.active:after {
 }
 body.not-front.en ul.navbar-nav li a.active:after {
   left: 1px;
+}
+ul.navbar-nav li.l10n {
+  width: 100px;
 }
 ul.navbar-nav li.l10n a {
   padding: 2px 10px;
@@ -883,7 +891,8 @@ body.words-list #content a {
 }
 
 body.words-list.en #content {
-  padding-top: 0px;
+  padding-top: 20px;
+  top: 60px;
 }
 
 body.words-list #content h2,
