@@ -815,6 +815,7 @@ body.words ul.navbar-nav li a {
 body.words-list #content {
   background-color: #fff;
   color: #000;
+  overflow-x: scroll;
 }
 
 body.words-list #content p em,
