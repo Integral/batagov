@@ -543,6 +543,12 @@ html[xmlns] .clearfix {
     top: 50%;
     margin-top: -140px;
   }
+
+  #l10n {
+    position: absolute;
+    top: 50%;
+    margin-top: 150px;
+  }
 }
 
 /*RECORDS*/
@@ -897,13 +903,8 @@ div.post-year {float: right;}
 
 /* photos */ 
 
-div.galleria {
-  min-height: 500px;
-}
-
 div.galleria-container {
   margin: 0px auto;
-  min-height: 500px;
 }
 
 /* audio */
