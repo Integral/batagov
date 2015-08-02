@@ -510,48 +510,11 @@ html[xmlns] .clearfix {
   color: #259dff;
 }
 
-/* applications page */
-
-.application h2 {
-  margin: 0;
-}
-
-.application {
-  background: url(images/hr.png) top center no-repeat;
-  padding: 80px 0;
-  height: 600px;
-  position: relative;
-}
-
-.application p {
-  float: left;
-  width: 30%;
-}
-
-.application img {
-  float: right;
-}
-
-.application .link {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-}
-
-.application .link a {
-  margin-left: 4px;
-}
-
 /* ipad landscape */
 
 @media all and (max-width: 1200px) {
   #content {
-    width: 760px;
-  }
-
-  .applications #content,
-  .community #content {
-    width: 900px;
+    width: 460px;
   }
 }
 
@@ -559,30 +522,7 @@ html[xmlns] .clearfix {
 
 @media all and (max-width: 768px) {
   #content {
-    width: 500px;
-  }
-
-  .applications #content,
-  .community #content {
-    width: 600px;
-  }
-
-  .application img {
-    width: 60%;
-  }
-
-  .application {
-    height: 450px;
-  }
-
-  #boxes {
-    margin-left: 0;
-  }
-
-  #boxes section {
-    width: 100%;
-    margin-top: 20px;
-    margin-left: 0;
+    width: 460px;
   }
 }
 
@@ -594,34 +534,14 @@ html[xmlns] .clearfix {
   }
 
   #content {
-    width: 380px;
+    width: 460px;
   }
+}
 
-  .applications #content,
-  .community #content {
-    width: 500px;
-  }
-
-  section section p {
-    width: 100%;
-  }
-
-  .application {
-    height: 380px;
-  }
-
-  .application img {
-    width: 60%;
-  }
-
-  #boxes {
-    margin-left: 0;
-  }
-
-  #boxes section {
-    width: 100%;
-    margin-top: 20px;
-    margin-left: 0;
+@media all and (max-height: 600px) {
+  #logo {
+    top: 50%;
+    margin-top: -140px;
   }
 }
 
