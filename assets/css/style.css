@@ -54,7 +54,7 @@ strong {
   left: 460px;
   right: 0;
   bottom: 0;
-  overflow-x: hidden;
+  overflow: visible;
   width: 550px;
   padding: 0px 20px;
 }
