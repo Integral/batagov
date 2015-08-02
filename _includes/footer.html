@@ -1,7 +1,9 @@
 		<a id="top" href="#"><img src="{{ site.baseurl }}/assets/media/arrow.png"></a>
 		<script>
 			$( document ).ready(function() {
-				$("#content").customScrollbar();
+				$("#content").customScrollbar({
+					updateOnWindowResize: true
+				});
 			});
 		</script>
 	</body>
