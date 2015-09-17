@@ -80,8 +80,6 @@ h2 {
   font-weight: bold;
 }
 blockquote {
-	font-size: 18px;
-	line-height: 23px;
 }
 
 h3 {
@@ -731,7 +729,6 @@ section#content.record-page, section#content.live-page {
   margin: 0px auto;
 }
 img.artwork {
-	margin: 0px auto;
   display: block;
   max-width: 600px;
 	max-height: 100%;
@@ -752,7 +749,6 @@ ul.playlist li.sm2_playing a.audio:after {
 }
 div.description {
 	font-weight: 200;
-	font-style: italic;
 	font-size: 14px;
 	width: 400px;
 	float: left;
